@@ -1,0 +1,39 @@
+project:
+  type: website
+editor: source
+lang: en
+language:
+  title-block-published: "Event Date"
+  title-block-author-single: "Speaker"
+website:
+  title: "R-Ladies Vienna"
+  favicon: logo.png
+  site-url: https://rladies-vienna.github.io
+  twitter-card: true
+  open-graph: true
+  page-navigation: true
+  navbar:
+    title: "R-Ladies<br>Vienna"
+    search: false
+    right:
+      - href: about-us/index.qmd
+        text: ABOUT US
+      - href: join-us/index.qmd
+        text: JOIN US
+      - href: events/index.qmd
+        text: EVENTS
+  page-footer: 
+    left: R-Ladies Vienna, 2025  
+    center: This website is built with [Quarto](https://quarto.org/) and [GitHub](https://github.com/rladies-vienna/rladies-vienna.github.io).
+    right: Find us on [{{< fa brands meetup title="Meetup" >}}](https://www.meetup.com/rladies-vienna/) [{{< fa brands mastodon title="Mastodon">}}](https://mastodon.social/@RLadiesVienna) [{{< fa brands bluesky title="Bluesky">}}](https://bsky.app/profile/rladiesvienna.bsky.social) [{{< fa brands linkedin title="LinkedIn">}}](https://linkedin.com/company/r-ladies-vienna/) 
+
+format:
+  html:
+    theme: 
+      - cosmos
+      - styles.scss
+    toc: false 
+    page-layout: full
+#    link-external-newwindow: true
+    date-format: "D MMMM YYYY"
+

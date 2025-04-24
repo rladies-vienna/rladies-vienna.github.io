@@ -1,0 +1,42 @@
+---
+title: "*PyLadies* and *R-Ladies Vienna*: Panel discussion"
+date: "2021-03-27"
+categories: [Panel discussion, Joint event]
+title-block-banner: true
+---
+
+(This is part of a series of joint events with *PyLadies Vienna*)
+
+![](202103.avif){fig-alt="Flyer for the R-Ladies Vienna March 2021 first event out of three. All information described is available in the main text below."}
+
+
+# Date and Time
+
+Saturday, {{< meta date >}}  
+4:00 PM - 6:00 PM CET
+
+# Venue
+
+Online
+
+# About
+
+We invite you to join us for the third event of our joint series with *PyLadies*: Panel Discussion - R and Python with experts. Whether you are familiar with only R, Python, mastering both of them or just starting your journey now, we think this is the event for you. 
+
+During the unique connection of both worlds of R and Python, you shall hear about from our awesome panelists, who will try to answer all your possible questions.
+
+See you soon!
+
+### Panelists
+
+Oliwia Lewandowska - Data Scientist at Looping Group, Berlin with a focus on Natural Language Processing & Data Storytelling. She is experienced in R and SQL, and passionate about mastering Python.
+
+Jillian Augustine - Data scientist in the Digital Excellence team at Mondi Group. Through her background in molecular biology as well as having worked in the telecommunications and manufacturing industries, she has experience working on a diverse range of use cases using both R and Python.
+
+Alexandra Avalos Pacheco - Postdoctoral fellow in Statistics at Harvard Medical School in the Harvard-MIT Center for Regulatory Science (CRS) and part of the Dana-Farber Cancer Institute (DFCI) in the Department of Data Science.
+
+Olivera Janic - Quantitative Credit Risk Analyst at Raiffeisen Bank International (RBI). She has 7 years of experience in Market and Credit Risk Management. Her R journey started at Vienna University of Economics and Business during master studies in Quantitative Finance and continued at RBI where Python came along. Automatization, software engineering and diverse credit risk calculations are part of her daily routine.
+
+Our Panel Discussion will be moderated by Kseniya Khamina, Scientist, PhD in Immunology, with experience in genetics and virology.
+
+[RSVP via Meetup {{< fa brands meetup >}}](https://www.meetup.com/rladies-vienna/events/277027085){.btn .btn-outline-primary .rsvp}

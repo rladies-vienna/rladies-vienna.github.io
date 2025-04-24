@@ -1,0 +1,28 @@
+---
+title: "Session 1: Bayesian statistics study group"
+date: "2019-04-17"
+categories: [Bayesian statistics, Study group]
+title-block-banner: true
+---
+
+# Date and Time
+
+Wednesday, {{< meta date >}}  
+6:30 PM - 7:30 PM CEST
+
+# Venue
+
+Vienna University of Economics and Business  
+Welthandelspl. 1, 1020 Vienna
+
+# About
+
+The first session of the Bayesian statistics study group will take place on 17th of April.
+
+The book that we will use is [Bayesian Data Analysis](https://www.amazon.com/Bayesian-Analysis-Chapman-Statistical-Science/dp/1439840954) by Andrew Gelman et al.
+
+In our first session, we will cover Chapter 1 of the book.
+
+Looking forward to seeing you there!
+
+[RSVP via Meetup {{< fa brands meetup >}}](https://www.meetup.com/rladies-vienna/events/260534779){.btn .btn-outline-primary .rsvp}

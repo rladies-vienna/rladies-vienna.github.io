@@ -1,0 +1,58 @@
+---
+title: "Data4good Hackathon"
+date: "2019-04-27"
+categories: [Hackathon, Joint event]
+title-block-banner: true
+---
+
+# Date and Time
+
+Saturday, {{< meta date >}} - Sunday, April 28 2019  
+9:00 AM - 6:00 PM CEST
+
+# Venue
+
+A1 Telekom Austria AG  
+Lassallestraße 9, 1020 Vienna
+
+# About
+
+The First data4good Hackathon in collaboration with the *Vienna Data Science Group* and *WeAreDevelopers::Keep-Current* will take place in the last weekend of April!
+
+Are you looking to use your skills, knowledge or interest in data for good? Then join us in our first data4good Hackathon, for two days of pure coding and fun while doing something good on the way -- Be a part of the change you want to see in the world of data!
+
+We seek all data enthusiasts: aspiring data scientists or experienced data wizards; savvy solvers of business intelligence requests; machine learning pros, predictive analytics angels, data mining experts, computer vision idealists, UX maestros and ambitious developers with an interest in social causes…
+
+Let's help together *GruenStattGrau*, *Hilfswerk Österreich*, *Hilfswerk International* and *CivesSolutions* in their quest.
+
+More details on *data4good* at [https://viennadatasciencegroup.at/data4good/](https://viennadatasciencegroup.at/data4good/).
+
+
+We look forward to seeing you!  
+
+
+**Schedule**
+
+| Time | Activity |
+|------|----------|
+|**Saturday**| |
+|09:00 | Breakfast and open Help Desk |
+|10:00 | Opening |
+|10:30 | Project introduction by the Data Science Leads + Q&A |
+|11:15 | Team-building |
+|11:30 | Hacking !!! |
+|13:00 | Lunch break |
+|14:00 | Hacking !!! |
+|17:30 | Review: Status report |  
+|**Sunday**| |
+|09:00 | Breakfast |
+|10:00 | Hacking !!! |
+|13:00 | Lunch break |
+|14:00 | Hacking !!! |
+|15:30 | Preparing Demo & Slides |
+|17:00 | Final presentations |
+|18:00 | End |  
+
+[RSVP via Meetup {{< fa brands meetup >}}](https://www.meetup.com/rladies-vienna/events/260144034){.btn .btn-outline-primary .rsvp}
+
+[Eventbrite page](https://www.eventbrite.at/e/data4good-hackathon-wien-tickets-58713887819){.btn .btn-outline-primary .rsvp}

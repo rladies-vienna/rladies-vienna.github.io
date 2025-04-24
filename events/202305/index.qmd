@@ -1,0 +1,33 @@
+---
+title: "Joint May Event: *RLadies Vienna* x *Vienna<-R*"
+date: "2023-05-24"
+author: "Bettina Grün, Benjamin Schwendinger"
+categories: [R packages, Joint event]
+title-block-banner: true
+---
+
+![](202305.avif){fig-alt="Flyer for the R-Ladies Vienna May 2023 event. All information described is available in the main text below."}
+
+# Date and Time
+
+Wednesday, {{< meta date >}}  
+6:00 PM - 8:00 PM CEST
+
+# Venue
+
+TU Wien - Seminarraum 107/1 (im ehem. "Goldenen Lamm")  
+Wiedner Hauptstraße 7, 1040 Vienna
+
+# About
+
+We are happy to announce Bettina Grün and Benjamin Schwendinger as the speakers for our next joint event with the *ViennaR* meetup group!
+
+Benjamin Schwendinger will talk about the `data.table` package, which is a widely used, high-performance extension of base R's `data.frame`. In this talk, we will cover the latest development steps of the package over the last few years. We will also shed light on how `data.table` gains its speed and how useRs can ensure that it is used to its full potential.
+
+Bettina Grün will be giving a talk on R Packages, walking us through important guidelines for extending R with packages. This talk will be interesting for R package developers and useRs alike.
+
+# Speaker
+
+Bettina Grün, Benjamin Schwendinger
+
+[RSVP via Meetup {{< fa brands meetup >}}](https://www.meetup.com/rladies-vienna/events/293544411){.btn .btn-outline-primary .rsvp}

@@ -1,0 +1,8 @@
+---
+title: "Page Not Found"
+---
+
+The page you requested cannot be found.
+
+If you are interested in our events, please feel free to search for keywords or explore the  [EVENTS](events/index.qmd) page.
+

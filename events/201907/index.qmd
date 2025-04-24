@@ -1,0 +1,26 @@
+---
+title: "Summer opening get together"
+date: "2019-07-02"
+categories: [Networking]
+title-block-banner: true
+---
+
+# Date and Time
+
+Tuesday, {{< meta date >}}  
+6:30 PM - 9:30 PM CEST
+
+# Venue
+
+Summer Stage  
+Roßauer Lände 17, 1090 Vienna
+
+# About
+
+As our last event before the summer, we would be happy if you join us for some drinks and networking next Tuesday on the Donaukanal at Summer Stage. It would be a great opportunity to get to know each other or simply catch up. We are looking forward to meeting you!
+
+To those of you who can’t join, we wish you a happy summer! 
+
+Next events will resume after the summer.
+
+[RSVP via Meetup {{< fa brands meetup >}}](https://www.meetup.com/rladies-vienna/events/262642620){.btn .btn-outline-primary .rsvp}

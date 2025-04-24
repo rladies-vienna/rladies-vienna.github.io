@@ -1,0 +1,36 @@
+---
+title: "Joint November Event: *RLadies Vienna* x *Vienna<-R*"
+date: "2019-11-29"
+categories: [Probabilistic modeling, Networking, Joint event]
+title-block-banner: true
+---
+
+# Date and Time
+
+Friday, {{< meta date >}}  
+6:00 PM - 8:00 PM CET
+
+# Venue
+
+Raiffeisen Bank International - "Skyroom"  
+Am Stadtpark 9, 1030 Vienna
+
+# About
+
+We are happy to announce Achim Zeileis and Joel Gotsch for our next joint event with the ViennaR meetup group.
+
+Topics:
+
+- Achim Zeileis: Distributional Regression Forests for Probabilistic Modeling and Forecasting
+
+- Joel Gotsch: Dynamic FX Margin Optimization
+
+After the talks you are invited to join the networking session with refreshments provided by our host Raiffeisen Bank International.
+
+See you soon!
+
+# Speakers:
+
+Achim Zeileis, Joel Gotsch
+
+[RSVP via Meetup {{< fa brands meetup >}}](https://www.meetup.com/rladies-vienna/events/266602833){.btn .btn-outline-primary .rsvp}

@@ -1,0 +1,35 @@
+---
+title: "Getting to know golem - R-Ladies Vienna December Meetup 2022"
+date: "2022-12-05"
+author: "María Inés Plaza"
+categories: [R packages]
+title-block-banner: true
+---
+
+![](202212.avif){fig-alt="Flyer for the R-Ladies Vienna December 2022 event. All information described is available in the main text below."}
+
+# Date and Time
+
+Monday, {{< meta date >}}  
+12:00 PM - 1:00 PM CET
+
+# Venue
+
+Hybrid:
+
+TU Wien - Seminarraum 107/1 (im ehem. "Goldenen Lamm")  
+Wiedner Hauptstraße 7, 1040 Vienna
+  
+or Online
+
+# About
+
+Our last meetup of the year will take place in a HYBRID format, both live at TU Wien and online via zoom. Please note the family friendly time slot during the lunch break. You do not need to specify in advance whether you will participate online or live, but we would be happy to see you in person at TU Wien if you are available.
+
+Our speaker is María Inés Plaza who will introduce us to `golem`, a package in R to develop production ready Shiny Apps. She will guide us through the content of the book [Engineering Production Grade Shiny Apps](https://engineering-shiny.org/index.html) and will share her experience developing apps with this package and methodology. This is a 100% interactive session where you could ask questions.
+
+Since most probably many details will not be covered in the talk due to time constraints, you could join Mari at the Data Science Cafe on 9th December at *WeXelerate* to go into more details.
+
+See you soon!
+
+[RSVP via Meetup {{< fa brands meetup >}}](https://www.meetup.com/rladies-vienna/events/289662721){.btn .btn-outline-primary .rsvp}

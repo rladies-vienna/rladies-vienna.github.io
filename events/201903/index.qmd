@@ -1,0 +1,45 @@
+---
+title: "Hadley Wickham @ Joint March Event: *Vienna<-R* x *R-Ladies Vienna* "
+date: "2019-03-18"
+categories: [Networking, Joint event]
+title-block-banner: true
+---
+
+# Date and Time
+
+Monday, {{< meta date >}}  
+7:00 PM - 9:00 PM CET
+
+# Venue
+
+Webster Vienna Private University  
+Praterstraße 23, 1020 Vienna
+
+# About
+
+We are excited to announce that Hadley Wickham will be the guest of the joint event organized by *Vienna\<-R* and *R-Ladies Vienna*.
+
+## Agenda
+
+- Introduction to *Vienna\<-R*
+
+- Introduction to *R-Ladies Vienna*  
+    This joint event is the first meetup of R-Ladies Vienna this year, so we will kick off the meeting with an introduction to the Vienna Chapter of R-Ladies and an overview of our ongoing and future initiatives and events.
+
+- Talk by Hadley Wickham (RStudio)
+
+- Q & A  
+    If you want to ask Hadley or myself any questions during the Q&A session, please let us know, for example with a message at our Meetup page.
+
+- Networking  
+    After the talks we are planning a networking session with some food and drinks.
+
+Looking forward to seeing you there!
+
+# Speaker
+
+Hadley Wickham
+
+Hadley is chief scientist at R-Studio and well known for his contributions to the R programming language including his `tidyverse` packages like `ggplot2`, `dplyr`, `readr` and the software development package `devtools`.
+
+[RSVP via Meetup {{< fa brands meetup >}}](https://www.meetup.com/rladies-vienna/events/259261865){.btn .btn-outline-primary .rsvp}

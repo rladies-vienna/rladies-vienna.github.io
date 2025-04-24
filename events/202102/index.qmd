@@ -1,0 +1,27 @@
+---
+title: "Virtual Kickoff 2021"
+date: "2021-02-25"
+categories: [Networking]
+title-block-banner: true
+---
+
+![](202102.png){fig-alt="Flyer for the R-Ladies Vienna February 2021 event. All information described is available in the main text below."}
+
+# Date and Time
+
+Thursday, {{< meta date >}}  
+7:00 PM - 8:30 PM CET
+
+# Venue
+
+Online
+
+# About
+
+To kick-off the new year after a long 2020 break from our meetups, we invite you to join us for an online networking event, where we can get to know each other or catch up in a relaxed atmosphere.
+
+The event will start with a brief update on our side and the presentation of the plan for 2021, continue with a mix of interactive activities such as live surveys and icebreaking games, and conclude with an open virtual chat. Feel free to bring your drink of choice in front of the screen 😉.
+
+We will meet online on Zoom. See you soon!
+
+[RSVP via Meetup {{< fa brands meetup >}}](https://www.meetup.com/rladies-vienna/events/276291848){.btn .btn-outline-primary .rsvp}

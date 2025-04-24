@@ -1,0 +1,32 @@
+---
+title: "Intro to Bayesian Statistics with Alex Posekany"
+date: "2021-12-14"
+author: "Alexandra Posekany"
+categories: [Bayesian statistics]
+title-block-banner: true
+---
+
+![](202112.avif){fig-alt="Flyer for the R-Ladies Vienna December 2021 event. All information described is available in the main text below."}
+
+# Date and Time
+
+Tuesday, {{< meta date >}}  
+12:00 PM - 1:00 PM CET
+
+# Venue
+
+Online
+
+# About
+
+We are excited to announce the December 2021 Meetup with Alexandra Posekany, who will give us an introduction to Bayesian Statistics.
+
+The talk will walk us through the basics of the Bayesian paradigm to statistical analysis and give us an overview on employed methods.
+
+# Speaker
+
+Alexandra Posekany
+
+Alex is a part-time assistant professor of computational statistics at TU Wien and a full time mathematics and data science high-school teacher. As a teacher she has been a pioneer in bringing data science to the skill set of her students already from the school years, while as a researcher she has developed state of the art methods which are used in the field.
+
+[RSVP via Meetup {{< fa brands meetup >}}](https://www.meetup.com/rladies-vienna/events/282445382){.btn .btn-outline-primary .rsvp}

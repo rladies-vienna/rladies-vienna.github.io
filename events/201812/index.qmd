@@ -1,0 +1,27 @@
+---
+title: "Christmas Market"
+date: "2018-12-06"
+categories: [Networking]
+title-block-banner: true
+---
+
+# Date and Time
+
+Thursday, {{< meta date >}}  
+7:00 PM - 9:00 PM CET
+
+# Venue
+
+Spittelberg Christmas Market  
+the inner yard of Amerlingbeisl  
+Stiftgasse 8, 1070 Vienna
+
+# About
+
+As is tradition in Vienna during this time of the year, we decide to get together for some drinks in one of Vienna‘s beautiful Christmas markets.
+
+We would love it if you join us. However, to those of you who won’t be able to make it, happy holidays and see you next year!
+
+All the best and see you soon!
+
+[RSVP via Meetup {{< fa brands meetup >}}](https://www.meetup.com/rladies-vienna/events/256619785){.btn .btn-outline-primary .rsvp}

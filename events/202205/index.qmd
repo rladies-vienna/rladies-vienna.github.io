@@ -1,0 +1,36 @@
+---
+title: "R Shiny Workshop Series"
+date: "2022-05-12"
+categories: [R packages, Shiny, Workshop]
+title-block-banner: true
+---
+
+![](202205.avif){fig-alt="Flyer for the R-Ladies Vienna May 2022 event. All information described is available in the main text below."}
+
+# Date and Time
+
+Thursday, {{< meta date >}}  
+6:00 PM - 8:00 PM CEST
+
+# Venue
+
+TU Wien - Seminarraum 107/1 (im ehem. "Goldenen Lamm")  
+Wiedner Hauptstraße 7, 1040 Vienna
+
+# About
+
+We are happy to announce the next series of Shiny workshops before the summer break!
+
+[Shiny](https://shiny.rstudio.com/gallery/) is an R package that makes it easy to build interactive web apps straight from R.
+
+We will start with a kick-off event where we will have a brief intro to Shiny and set up groups which will work together on building an app. We will prepare a list of topic suggestions but participants are encouraged to bring their own use-cases.
+
+The following session will be hands-on, where the teams will work on the app.
+
+In the final session on June 23rd teams will have the chance to present their work and discuss on the experience.
+
+The workshops will be held presence, finally!
+
+All levels of R proficiency are welcome. See you soon!
+
+[RSVP via Meetup {{< fa brands meetup >}}](https://www.meetup.com/rladies-vienna/events/285587568){.btn .btn-outline-primary .rsvp}

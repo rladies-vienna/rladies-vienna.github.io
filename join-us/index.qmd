@@ -1,0 +1,25 @@
+---
+title: "Join us"
+title-block-banner: true
+body-classes: core-page
+---
+
+## Join our community
+
+We prioritize the representation of gender minorities in our community, and at the same time welcome all identities to participate in our events.
+
+Following the practice of the R-Ladies Global, we manage event registration through the Meetup platform. If you are interested in attending our events, please join our Meetup group and RSVP at the corresponding event pages.
+
+[{{< fa brands meetup >}} Meetup](https://www.meetup.com/rladies-vienna/){.btn .btn-outline-primary}
+
+## Stay connected
+
+We update regularly on the following social platforms. Follow us and stay connected with us on the social platforms of your choice:
+
+::: social-btn-group
+[{{< fa brands linkedin >}} LinkedIn](https://linkedin.com/company/r-ladies-vienna/){.btn .btn-outline-primary}
+
+[{{< fa brands mastodon >}} Mastodon](https://mastodon.social/@RLadiesVienna){.btn .btn-outline-primary}
+
+[{{< fa brands bluesky >}} Bluesky](https://bsky.app/profile/rladiesvienna.bsky.social){.btn .btn-outline-primary}
+:::

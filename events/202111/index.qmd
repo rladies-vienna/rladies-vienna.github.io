@@ -1,0 +1,35 @@
+---
+title: "Managing R projects with Maëlle Salmon"
+date: "2021-11-16"
+author: "Maëlle Salmon"
+categories: [Best practices, Data visualization]
+title-block-banner: true
+---
+
+![](202111.avif){fig-alt="Flyer for the R-Ladies Vienna November 2021 event. All information described is available in the main text below."}
+
+
+# Date and Time
+
+Tuesday, {{< meta date >}}  
+12:00 PM - 1:00 PM CET
+
+# Venue
+
+Online
+
+# About
+
+After a long summer break we are happy to announce the November 2021 Meetup with Maëlle Salmon, who will give us a presentation on best practices to organize an R project and why R projects are important.
+
+Here is Maëlle's abstract for the talk: "A good R project organization is useful even if you do not have collaborators as demanding as The Little Prince. How to do that? Do you put the project in some sort of box? In this talk I will present tools that are good to know: git, `here`, `renv`, `targets`, `orderly` ... I’ll also report whether making an R package out of everything is always a good idea. After this presentation you will have learnt tips and tricks to apply as you like in your R projects. I hope every one of you will learn at least one new thing!"
+
+We are so happy to have Maëlle contribute to our Meetup! See you soon online!
+
+# Speaker
+
+Maëlle Salmon
+
+[Maëlle](https://masalmon.eu) is a part-time research software engineer for rOpenSci (since February 2018) and an active R developer and trainer. She also serves as associate editor for rOpenSci’s Software Peer Review (peer-review system of R packages) and is the main manager of R-Ladies Global Twitter account.
+
+[RSVP via Meetup {{< fa brands meetup >}}](https://www.meetup.com/rladies-vienna/events/281817565){.btn .btn-outline-primary .rsvp}

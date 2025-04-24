@@ -1,0 +1,35 @@
+---
+title: "Workshop - Introduction to R"
+date: "2019-04-11"
+categories: [Workshop]
+title-block-banner: true
+---
+
+# Date and Time
+
+Thursday, {{< meta date >}}  
+6:30 PM - 8:30 PM CEST
+
+# Venue
+
+Vienna University of Economics and Business  
+Welthandelspl. 1, 1020 Vienna
+
+# About
+
+The goal of our next meetup is for our attendees to become acquainted with R and R Studio in order to start their data analytics journey.
+
+We'll cover:
+
+- Brief intro to R as a programming language 
+- Functions, data structures, data types
+- Reading data into R 
+- Basic data visualization in R 
+- R packages 
+- Examples and use cases 
+
+If time allows we will briefly introduce to you R Markdown and give a glimpse into how to make your analysis more reproducible.
+
+We recommend you bring your own laptop where you have [R](https://cran.r-project.org/) and [RStudio](https://www.rstudio.com/products/rstudio/download/) installed. In case you want to install [R Markdown](https://rmarkdown.rstudio.com), you can follow the instructions from [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/installation.html).
+
+[RSVP via Meetup {{< fa brands meetup >}}](https://www.meetup.com/rladies-vienna/events/260340072){.btn .btn-outline-primary .rsvp}

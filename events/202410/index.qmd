@@ -1,0 +1,33 @@
+---
+title: "Random projection for regression analysis in R"
+date: "2024-10-29"
+author: "Laura Vana-Gür"
+categories: [Regression analysis, R packages]
+title-block-banner: true
+---
+
+![](202410.png){fig-alt="Flyer for the R-Ladies Vienna October 2024 event. All information described is available in the main text below."}
+
+# Date and Time
+
+Tuesday, {{< meta date >}}  
+5:30 PM - 7:30 PM CET
+
+# Venue
+
+TU Wien, Freihaus - Seminarraum DA grün 04 (DA04E10)  
+Wiedner Hauptstraße 8-10 · Vienna
+
+# About
+
+We hope you have all had a great summer, and are now ready to meet fellow R-Ladies and learn new things again! For our first event after the summer we will welcome our own Laura Vana-Gür who will talk about how we can use random projection for regression analysis in R using the package [`SPAR`](https://github.com/RomanParzer/SPAR).
+
+## Abstract
+
+Random projection is a powerful and important tool for dimensionality reduction where a set of high-dimensional points is linearly mapped onto a lower dimension. Random projection matrices can be rapidly generated and are oblivious to the data distribution, maintain interpretability and are equipped with theoretical guarantees on preserving the geometry of the original space with a high probability. When employed in a supervised setting, they can provide a significant reduction in computational cost. However, they tend to overfit so it is desirable to first eliminate the unimportant predictors and then perform the random projection and estimate the model on the space of the reduced (i.e., projected) predictors. Moreover, to reduce the uncertainty from the random projection, ensembles can be built. In this work we propose an R package which implements a variety of random projection and screening tools for regression in high-dimensional settings. The functionality of the package is presented using simulated and real data examples.
+
+# Speaker
+
+Laura Vana-Gür
+
+[RSVP via Meetup {{< fa brands meetup >}}](https://www.meetup.com/rladies-vienna/events/303956873){.btn .btn-outline-primary .rsvp}

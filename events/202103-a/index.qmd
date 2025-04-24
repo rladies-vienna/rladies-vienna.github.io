@@ -1,0 +1,42 @@
+---
+title: "PyLadies and R-Ladies Vienna: Intro to Python"
+date: "2021-03-24"
+categories: [Joint event]
+title-block-banner: true
+---
+
+(This is part of a series of joint events with *PyLadies Vienna*)
+
+![](202103.avif){fig-alt="Flyer for the R-Ladies Vienna March 2021 third event out of three. All information described is available in the main text below."}
+
+# Date and Time
+
+Wednesday, {{< meta date >}}  
+6:00 PM - 8:00 PM CET
+
+# Venue
+
+Online
+
+# About
+
+We are proud to announce the collaboration between *PyLadies Vienna* and *R-Ladies Vienna* for a series of events aimed at fostering the collaboration and synergies between our communities.
+
+We invite you to join us for the first event of the series: Workshop on introduction to Python. Whether you are already proficient in R and want to gradually add Python to your portfolio, or want to learn some programming basics in a faster pace in a form of a lecture, this tutorial will serve as a starting point for your journey.
+
+The agenda of the workshop will be: 
+
+- Intro to Python - syntax, loop, functions 
+- Basic data types and structures 
+- Reading data 
+- Examples and use cases
+
+To be able to follow the course and try things yourselves, we recommend to install [Python](https://www.python.org/downloads/) (add to PATH if on Windows). If you do not have a favorite code editor, we would suggest to install [Atom](https://atom.io/) or [VSCode](https://code.visualstudio.com/) else feel free to use what you like.
+
+Can't wait to meet you and share some love for Python!
+
+Both events are preliminary steps to our final event: Panel Discussion about conjunction of both worlds with PyLadies and R-Ladies on board, which will take place on 27.3.2021.
+
+We also have a [facebook group](https://www.facebook.com/groups/2387073381541947/) to share ideas or questions.
+
+[RSVP via Meetup {{< fa brands meetup >}}](https://www.meetup.com/rladies-vienna/events/276953296){.btn .btn-outline-primary .rsvp}

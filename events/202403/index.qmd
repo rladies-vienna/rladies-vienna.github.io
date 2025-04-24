@@ -1,0 +1,33 @@
+---
+title: "Workshop - Introduction to R - Part 2"
+date: "2024-03-13"
+categories: [Workshop]
+title-block-banner: true
+---
+
+![](202403.png){fig-alt="Flyer for the R-Ladies Vienna March 2024 event. All information described is available in the main text below."}
+
+# Date and Time
+
+Wednesday, {{< meta date >}}  
+5:30 PM - 7:00 PM CET
+
+# Venue
+
+TU Wien - Seminarraum 107/1 (im ehem. "Goldenen Lamm")  
+Wiedner Hauptstraße 7, 1040 Vienna
+
+# About
+
+To complete topics that we did not manage to fit into the first workshop, we will host the second part of the Introduction to R Workshop in our next Meetup. This time we will cover:
+
+-   Reading in data
+-   Basic data visualization
+-   R packages
+-   R Markdown for writing reports
+
+The workshop is open to everyone, in particular also if you did not make it to the first part! To catch up you can look at the first few sections of the workshop material prepared by Pia: Intro to R (up to the Data Structures section) or you could read through the Getting Started section of [ModernDive](https://moderndive.netlify.app/1-getting-started.html).
+
+As before, we recommend you bring your own laptop where you have [R](https://cran.r-project.org/) and [RStudio](https://www.rstudio.com/products/rstudio/download/) installed. In case you want to install [R Markdown](https://rmarkdown.rstudio.com), you can follow the instructions from [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/installation.html).
+
+[RSVP via Meetup {{< fa brands meetup >}}](https://www.meetup.com/rladies-vienna/events/299331598){.btn .btn-outline-primary .rsvp}

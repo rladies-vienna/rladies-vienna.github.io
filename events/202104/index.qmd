@@ -1,0 +1,33 @@
+---
+title: "Cross selling analytic model with sparklyr"
+date: "2021-04-29"
+author: "Carin Ludeña"
+categories: [R packages]
+title-block-banner: true
+---
+
+![](202104.avif){fig-alt="Flyer for the R-Ladies Vienna April 2021 event. All information described is available in the main text below."}
+
+
+# Date and Time
+
+Thursday, {{< meta date >}}  
+6:00 PM - 8:00 PM CEST
+
+# Venue
+
+Online
+
+# About
+
+It is our pleasure to announce our speaker for April’s Meetup, Dr Carin Ludeña, who will be giving us insights into a `sparklyr` use-case for increasing bank revenue.
+
+Looking forward to the interesting presentation and discussion and to seeing you soon (even though still in an online format)!
+
+# Speaker
+
+Carin Ludeña
+
+Carin is a mathematician, statistician, and data scientist who worked for many years as a university professor doing research on mathematical statistics, statistical learning, spatial statistics as well as graph and text analytics. Moreover, she acted as statistical advisor for an Election Monitoring ONG, a community (social and environmental) risk assessment project and lately in a large scale education monitoring process in Venezuela. As a data scientist, she advised and consulted in many projects ranging from statistical and mathematical models in oil production, to text analytics for automatic economic activity classification. Her current position, as data science leader in Matrix CPM, involves designing, developing and implementing solutions based on data and statistical/mathematical models, working hand in hand with data engineers.
+
+[RSVP via Meetup {{< fa brands meetup >}}](https://www.meetup.com/rladies-vienna/events/277615384){.btn .btn-outline-primary .rsvp}

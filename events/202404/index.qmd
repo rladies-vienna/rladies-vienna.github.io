@@ -1,0 +1,41 @@
+---
+title: "Is ShinyApp in R production ready?"
+date: "2024-04-19"
+author: "María Inés Plaza"
+categories: [R packages, Shiny, Workshop]
+title-block-banner: true
+---
+
+![](202404.png){fig-alt="Flyer for the R-Ladies Vienna April 2024 event. All information described is available in the main text below."}
+
+# Date and Time
+
+Friday, {{< meta date >}}  
+4:00 PM - 7:00 PM CEST
+
+# Venue
+
+TU Wien - Seminarraum 107/1 (im ehem. "Goldenen Lamm")  
+Wiedner Hauptstraße 7, 1040 Vienna
+
+# About
+
+In a previous meetup our own Mari Plaza has presented an <a href="../202212/index.qmd" target="_blank" rel="noopener">introduction of Golem</a> which allows you for sure to write a ShinyApp with the production ready mind-set. That means writing a ShinyApp like a package, including all relevant components of Software Engineering such modules, tests, dependencies, git, code coverage and so on. In such way, your Web Application developed in R is like a ShinyApp and has the correct architecture to go to production. This time, we go beyond an introduction session for a 3 hours workshop, starting with 1 hour of presentation about how you plan your application, followed by 2 hours of practical experience on how you use `golem`.
+
+Bring your computer and be ready to ask questions and test by yourself what we are talking about.
+
+Since the content is interesting and rather dense, you could join us in the preview activities starting at the end of February 2024, but you can always catch-up, even on the day of the event. The preview activities includes:
+
+- Join our SLACK dedicated channel for discussing the concepts and review related materials.
+- Follow posts in our LinkedIn accounts. 
+- Regular updates through the messages of this event on MeetUp.
+
+We are really happy to host this event with care and willingness to learn more about the great world of software engineering.
+
+# Speaker
+
+María Inés Plaza Schwarck
+
+María Inés Plaza is a production engineer and MBA which an interesting mix of skills and interests. Her passion for data, process improvement and constant curiosity led her to gain experience on Data Science and Strategy. Her unusual career path provide her with practical knowledge to be an integrator between Domain Knowledge, quantitative methods, technology and how do you communicate the insights.
+
+[RSVP via Meetup {{< fa brands meetup >}}](https://www.meetup.com/rladies-vienna/events/299357461){.btn .btn-outline-primary .rsvp}

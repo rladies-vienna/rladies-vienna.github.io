@@ -1,0 +1,48 @@
+--- 
+title: "R-Ladies Vienna" 
+subtitle: "{{< fa solid location-dot >}} Vienna, Austria"
+image: logo.png
+image-alt: "R-Ladies Vienna logo"
+toc: false
+page-layout: full
+body-classes: home-page
+about:
+  template: jolla
+  image-shape: rectangle
+  image-width: 15em
+  # links:
+  #   - text: "{{< fa brands linkedin >}} LinkedIn"
+  #     href: https://linkedin.com/company/r-ladies-vienna/
+  #   - text: "{{< fa brands mastodon >}} Mastodon"
+  #     href: https://mastodon.social/@RLadiesVienna
+  #   - text: "{{< fa brands bluesky >}} Bluesky"
+  #     href: https://bsky.app/profile/rladiesvienna.bsky.social
+  #   - text: "{{< fa brands meetup >}} Meetup"
+  #     href: https://www.meetup.com/rladies-vienna/
+listing:
+    - id: latest-event
+      contents: 
+      - /events/202504/
+      type: default
+      fields: [image, title, date]
+---
+
+
+As a local chapter of R-Ladies Global, we promote gender diversity in the R community in Vienna and worldwide. We aim to provide a safe and inclusive community space for R enthusiasts and practitioners of all experience levels with the R programming language, prioritizing anyone identifying as a minority gender to achieve proportionate gender representation. 🌈 
+
+
+::: home-social-btn-group
+[{{< fa brands linkedin >}} LinkedIn](https://linkedin.com/company/r-ladies-vienna/){.btn .btn-outline-primary .home-btn}
+
+[{{< fa brands mastodon >}} Mastodon](https://mastodon.social/@RLadiesVienna){.btn .btn-outline-primary .home-btn}
+
+[{{< fa brands bluesky >}} Bluesky](https://bsky.app/profile/rladiesvienna.bsky.social){.btn .btn-outline-primary .home-btn}
+
+[{{< fa brands meetup >}} Meetup](https://www.meetup.com/rladies-vienna/){.btn .btn-outline-primary .home-btn}
+:::
+
+
+# Latest event
+
+::: {#latest-event}
+:::

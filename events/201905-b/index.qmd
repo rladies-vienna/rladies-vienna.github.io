@@ -1,0 +1,37 @@
+---
+title: "Extending R with Packages with Bettina Grün"
+date: "2019-05-24"
+author: "Bettina Grün"
+categories: [R packages, Networking]
+title-block-banner: true
+---
+
+### Date and Time
+
+Friday, {{< meta date >}}
+
+5:00 PM - 7:00 PM CEST
+
+### Venue
+
+Vienna University of Economics and Business
+
+Welthandelspl. 1, 1020 Vienna
+
+### About
+
+It is our pleasure to announce Bettina Grün as our next speaker for this Friday's Meetup.
+
+Bettina will be giving a talk on "Extending R with Packages".
+
+After the talk we will go for some drinks in one of the restaurants at the WU Campus.
+
+We are looking forward to seeing you on Friday!
+
+### Speaker
+
+Bettina Grün
+
+Bettina is an Associate Professor of Applied Statistics at JKU Linz. She is an active member of the R community and has written our co-authored numerous R packages such as `flexmix`, `topicmodels`, `bayesmix`, `arules`, `exams`, `movMF` and `betareg`. Moreover, she is an ordinary member of the R Foundation and currently serves as Editor-in-Chief for the Journal of Statistical Software.
+
+[RSVP via Meetup {{< fa brands meetup >}}](https://www.meetup.com/rladies-vienna/events/261638478){.btn .btn-outline-primary .rsvp}

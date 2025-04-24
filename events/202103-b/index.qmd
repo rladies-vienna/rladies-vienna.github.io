@@ -1,0 +1,46 @@
+---
+title: "PyLadies and R-Ladies Vienna: Intro to R"
+date: "2021-03-25"
+author: "Camilla Damian"
+categories: [Joint event]
+title-block-banner: true
+---
+
+(This is part of a series of joint events with *PyLadies Vienna*)
+
+![](202103.avif){fig-alt="Flyer for the R-Ladies Vienna March 2021 second event out of three. All information described is available in the main text below."}
+
+# Date and Time
+
+Thursday, {{< meta date >}}  
+6:00 PM - 7:30 PM CET
+
+# Venue
+
+Online
+
+# About
+
+We are proud to announce the collaboration between *PyLadies Vienna* and *R-Ladies Vienna* for a series of events aimed at fostering the collaboration and synergies between our communities.
+
+We invite you to join us for the second event of the series: Introduction to R Workshop. Whether you are just starting out your data analytics journey and want to learn some programming basics, or are a Python user who would like to add R to your skill set, this tutorial will serve as a starting point for your journey.
+
+We are happy to welcome Camilla Damian as our trainer for this workshop, who will offer an interactive online tutorial where she will cover:
+
+- Brief intro to R as a programming language 
+- Data structures and functions 
+- Reading data into R 
+- Basic data visualization in R 
+- Examples and use cases
+
+We recommend you install [R](https://cran.r-project.org/) and [RStudio](https://www.rstudio.com/products/rstudio/download/) before the start of the meetup.
+
+See you soon online!
+
+### Speaker
+
+Camilla Damian
+
+Camilla is a PhD Candidate in the field of Mathematics in Business and Economics and an experienced useR, who also has years of experience in teaching quantitative methods using R at an undergrad level.
+
+[RSVP via Meetup {{< fa brands meetup >}}](https://www.meetup.com/rladies-vienna/events/276846323){.btn .btn-outline-primary .rsvp}

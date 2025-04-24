@@ -1,0 +1,35 @@
+---
+title: "Switching between space and time: Spatio-temporal analysis with cubble"
+date: "2023-04-26"
+author: "Sherry Zhang"
+categories: [Spatio-temporal analysis, R packages]
+title-block-banner: true
+---
+
+![](202304.avif){fig-alt="Flyer for the R-Ladies Vienna April 2023 event. All information described is available in the main text below."}
+
+# Date and Time
+
+Wednesday, {{< meta date >}}  
+6:00 PM - 7:30 PM CEST
+
+# Venue
+
+TU Wien - Seminarraum 107/1 (im ehem. "Goldenen Lamm")  
+Wiedner Hauptstraße 7, 1040 Vienna
+
+# About
+
+Our next meetup will take place live at TU Wien. Our speaker is Sherry Zhang who is visiting from Australia. She will introduce us to the `cubble` package and walk us through how we can work with spatial data and temporal data in R, and how we can more easily combine the two using `cubble`.
+
+## Abstract
+
+Weather data have a spatial component given by the station coordinates and a temporal component that provides measurements on precipitation, maximum and minimum temperature. This will be a hand-on session to work with weather station data. We will use the package `sf` to work on the spatial side to generate some maps and the package `tsibble` to conduct some exploratory data analysis on the temporal side. One way to communicate space and time information together is through a glyph map where temporal coordinates are transformed into space. We will create the glyph map with the ggplot geom: `geom_glyph()`. Lastly, we will experiment with a new data structure, `cubble`, to arrange spatio-temporal data.
+
+# Speaker
+
+Sherry Zhang
+
+Sherry is a final year PhD student in the Department of Econometrics and Business Statistics at Monash University, Australia. Her research focuses on exploring multivariate and spatio-temporal data with visual and exploratory data analysis tools.
+
+[RSVP via Meetup {{< fa brands meetup >}}](https://www.meetup.com/rladies-vienna/events/292842786){.btn .btn-outline-primary .rsvp}

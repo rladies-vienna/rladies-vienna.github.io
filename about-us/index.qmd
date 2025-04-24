@@ -1,0 +1,26 @@
+---
+title: "About us"
+title-block-banner: true
+body-classes: core-page
+---
+
+## Our Mission
+
+[R-Ladies Vienna]{.rladies-text} is a non-profit organization and a local chapter of [R-Ladies Global](https://rladies.org). We promote gender diversity in the R community worldwide, with a mission to achieve proportionate representation of genders currently underrepresented.
+
+We organize regular events and meetups in-person and/or online to connect with the community. Our priority is to provide a safe and inclusive community space for anyone identifying as a minority gender who is interested in and/or working with R, and at the same time welcome all identities to participate in our events.
+
+We welcome members of all R proficiency levels, from new aspiring R users to experienced R programmers interested in mentoring, networking and expert upskilling. Our community is designed to develop our members' R skills and knowledge through social, collaborative learning and sharing. We support the access of minority identities to STEM skills and careers, the Free Software Movement, and contributing to the global R community!
+
+## Participation Guideline
+
+We follow the [code of conduct](https://rladies.org/coc/) and [community guidelines](https://guide.rladies.org/about/mission/#r-ladies-rules--guidelines) of R-Ladies Global. 
+
+The leadership, mentoring & teaching roles within this Community are held exclusively by minority genders, with learning participation opened to all genders. Anyone involved with R-Ladies Vienna is expected to fully respect each other, the mandate of this community, and the goodwill on which R-Ladies is founded.
+
+As a founding principle, there is no cost or charge to participate in any of the R-Ladies communities around the world.
+
+## Media use
+
+Please note that by taking part in an R-Ladies event you grant the community organizers full rights to use the images resulting from the photography/video filming/media, and any reproductions or adaptations of the images for publicity, fundraising or other purposes to help achieve the community's aims. This might include (but is not limited to), the right to use them in their printed and online publicity, social media, press releases and funding applications. If you do not wish to be recorded in these media. please inform a community organizer.
+

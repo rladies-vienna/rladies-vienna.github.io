@@ -1,0 +1,28 @@
+---
+title: "Coffee & Get-to-know-you"
+date: "2018-10-20"
+categories: [Networking]
+title-block-banner: true
+---
+
+# Date and Time
+
+Saturday, {{< meta date >}}  
+11:00 AM - 1:00 PM CEST
+
+# Venue
+
+das café  
+Burggasse 10, 1070 Vienna
+
+# About
+
+Thanks for joining our group!
+
+Join us for a cup of coffee and some networking on Saturday, 20th October in one of the Viennese Coffeehouses.
+
+We are planning a bigger kick off meeting at the end of November and we would love to hear your ideas and suggestions for our first event.
+
+We are looking forward to meeting you!
+
+[RSVP via Meetup {{< fa brands meetup >}}](https://www.meetup.com/rladies-vienna/events/255319309){.btn .btn-outline-primary .rsvp}

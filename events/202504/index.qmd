@@ -1,0 +1,39 @@
+---
+title: "R You Ready? Integrating Large Language Models into your Workflow"
+date: "2025-04-28"
+author: "Alexandra Posekany"
+categories: [Artificial Intelligence, Large language models]
+title-block-banner: true
+---
+
+![](flyer-202504.png){fig-alt="Flyer for the R-Ladies Vienna April 2025 event. All information described is availablein the main text below."}
+
+# Date and Time
+
+Monday, {{< meta date >}}  
+6:00 PM - 7:30 PM CEST
+
+# Venue
+
+TU Wien, Freihaus - Seminarraum DA grün 06A (DA06E10)  
+Wiedner Hauptstraße 8-10 · Vienna
+
+# About
+
+We warmly welcome R users of all identities and experience levels to our April meetup and learn about what you can achieve with large language models (LLMs) using R.
+
+In this meetup, we will:
+
+-   Walk through the essential background of modern LLMs, including their architecture and capabilities
+-   Dive into the practical methods for harnessing the power of LLMs directly within R
+-   Explore the growing ecosystem of R packages and APIs connecting to leading LLMs, demonstrating concrete use cases.
+
+We look forward to seeing you at the meetup, where we foster a safe and inclusive space for knowledge exchange.Speaker
+
+# Speaker
+
+Alexandra Posekany
+
+Alex is an assistant professor and researcher in the field of computational statistics at TU Wien, who has developed state-of-the-art methods in the field throughout her career. She is also a vocational high school teacher in mathematics and data science. She has been a pioneer in integrating data science into the high school curriculum, promoting data literacy in education.
+
+[RSVP via Meetup {{< fa brands meetup >}}](https://www.meetup.com/rladies-vienna/events/307229379){.btn .btn-outline-primary .rsvp}

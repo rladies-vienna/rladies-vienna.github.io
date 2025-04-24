@@ -1,0 +1,33 @@
+---
+title: "Cluster analysis in R"
+date: "2025-02-20"
+author: "Theresa Scharl-Hirsch"
+categories: [Cluster analysis]
+title-block-banner: true
+---
+
+![](202502.png){fig-alt="Flyer for the R-Ladies Vienna February 2025 event. All information described is available in the main text below."}
+
+# Date and Time
+
+Thursday, {{< meta date >}}  
+6:00 PM - 7:30 PM CET
+
+# Venue
+
+TU Wien, Freihaus - Seminarraum DA grün 04 (DA04E10)  
+Wiedner Hauptstraße 8-10 · Vienna
+
+# About
+
+In our next meetup we will welcome Theresa Scharl-Hirsch for an **introduction to cluster analysis and validation in R**. Bring along your laptop to follow the presented examples and for some hands-on exercises!
+
+**Cluster analysis** groups data based on similarities without relying on predefined labels, making it valuable in marketing, healthcare, social media and fraud detection. Unlike classification, which uses labelled data to assign data points to predefined categories, clustering works with unlabelled data to reveal hidden patterns.
+
+**Cluster validation** ensures that the groups identified are meaningful using metrics such as compactness and separation, while visualisation tools such as scatter plots and dendrograms help to interpret the results. Common methods such as K-means, hierarchical clustering and model-based approaches are tailored to different data structures and objectives.
+
+# Speaker
+
+[Theresa Scharl-Hirsch](https://forschung.boku.ac.at/fis/staff?name=TheresaScharl-Hirsch)
+
+[RSVP via Meetup {{< fa brands meetup >}}](https://www.meetup.com/rladies-vienna/events/305841789){.btn .btn-outline-primary .rsvp}

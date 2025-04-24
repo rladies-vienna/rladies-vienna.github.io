@@ -1,0 +1,24 @@
+---
+title: "2023 First Networking Event"
+date: "2023-03-01"
+categories: [Networking]
+title-block-banner: true
+---
+
+![](202303.jpeg){fig-alt="An image of a group of women in a cafe."}
+
+# Date and Time
+
+Wednesday, {{< meta date >}}  
+6:00 PM - 8:00 PM CET
+
+# Venue
+
+the stellas Wien 3  
+Landstraßer Hauptstraße 44, 1030 Vienna
+
+# About
+
+Let's meet to get to know each other with coffee, tea or drinks and kick off the 2023 events!
+
+[RSVP via Meetup {{< fa brands meetup >}}](https://www.meetup.com/rladies-vienna/events/291577334){.btn .btn-outline-primary .rsvp}

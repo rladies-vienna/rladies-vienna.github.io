@@ -1,0 +1,37 @@
+---
+title: "Joint Event: Women in Tech Initiatives Meetup @PyDays"
+date: "2019-05-03"
+categories: [Joint event]
+title-block-banner: true
+---
+
+# Date and Time
+
+Friday, {{< meta date >}}  
+4:00 PM - 5:00 PM CEST
+
+# Venue
+
+University of Applied Sciences Technikum Wien  
+Höchstädtpl. 6, 1200 Vienna
+
+# About
+
+Technologists create products and services and in doing so affect our everyday lives now and in the future. If these products and services are supposed to serve our society as a whole, we need a lot of diverse and creative perspectives reflecting the richness of our communities. Therefore, we strongly believe that striving to increase diversity among technologists should be a major goal.
+
+On our pursuit for diversity, one of the most encouraging things we can do is to highlight those women who already work on great things within their respective industries, provide them platforms to share their knowledge and inspire by their example.
+
+In Vienna, a range of initiatives promoting gender diversity in STEM (science, technology, engineering & math) exist. To increase visibility as well as to facilitate exchange of ideas and getting-to-know-each-other amongst these initiatives, a session solely dedicated to these groups and projects will take place during [PyDays Vienna](https://www.pydays.at).
+
+**Enlisted Initiatives**
+
+- Co-Mentoring Programme - Women in Data Science 
+- Feminist Python Meetup for Women\* and Non-Binary Folks in Vienna 
+- Feminist Linux Meetup für Frauen\*, Non-Binary\*, Trans\* und Inter\* Personen 
+- diebin.at - Verein zur Förderung emanzipatorischer Informations- und Kommunikationstechnologien 
+- R-Ladies Vienna 
+- IEEE Women in Engineering 
+
+People of all genders are welcome to attend our event. Find out more about the [initiatives](https://www.pydays.at/womenintech/).
+
+[RSVP via Meetup {{< fa brands meetup >}}](https://www.meetup.com/rladies-vienna/events/261101905){.btn .btn-outline-primary .rsvp}
