@@ -1,0 +1,10 @@
+/* css styles */
+a {
+  text-decoration: none;
+}
+
+/* Increase logo size in the navbar */
+.navbar img[src*="R-LadiesGlobal.svg"] {
+  height: 200px;  /* Adjust this value to your preference */
+  width: auto;   /* Keeps aspect ratio */
+}
