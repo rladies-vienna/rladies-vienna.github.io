@@ -7,17 +7,17 @@ title-block-banner: true
 
 ![](202303.jpeg){fig-alt="An image of a group of women in a cafe."}
 
-# Date and Time
+## Date and Time
 
 Wednesday, {{< meta date >}}  
 6:00 PM - 8:00 PM CET
 
-# Venue
+## Venue
 
 the stellas Wien 3  
 Landstraßer Hauptstraße 44, 1030 Vienna
 
-# About
+## About
 
 Let's meet to get to know each other with coffee, tea or drinks and kick off the 2023 events!
 

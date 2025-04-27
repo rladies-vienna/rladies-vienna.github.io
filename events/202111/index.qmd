@@ -9,16 +9,16 @@ title-block-banner: true
 ![](202111.avif){fig-alt="Flyer for the R-Ladies Vienna November 2021 event. All information described is available in the main text below."}
 
 
-# Date and Time
+## Date and Time
 
 Tuesday, {{< meta date >}}  
 12:00 PM - 1:00 PM CET
 
-# Venue
+## Venue
 
 Online
 
-# About
+## About
 
 After a long summer break we are happy to announce the November 2021 Meetup with Maëlle Salmon, who will give us a presentation on best practices to organize an R project and why R projects are important.
 
@@ -26,7 +26,7 @@ Here is Maëlle's abstract for the talk: "A good R project organization is usefu
 
 We are so happy to have Maëlle contribute to our Meetup! See you soon online!
 
-# Speaker
+## Speaker
 
 Maëlle Salmon
 

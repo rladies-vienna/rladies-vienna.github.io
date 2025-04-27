@@ -10,16 +10,16 @@ title-block-banner: true
 
 ![](202103.avif){fig-alt="Flyer for the R-Ladies Vienna March 2021 second event out of three. All information described is available in the main text below."}
 
-# Date and Time
+## Date and Time
 
 Thursday, {{< meta date >}}  
 6:00 PM - 7:30 PM CET
 
-# Venue
+## Venue
 
 Online
 
-# About
+## About
 
 We are proud to announce the collaboration between *PyLadies Vienna* and *R-Ladies Vienna* for a series of events aimed at fostering the collaboration and synergies between our communities.
 
@@ -37,7 +37,7 @@ We recommend you install [R](https://cran.r-project.org/) and [RStudio](https://
 
 See you soon online!
 
-### Speaker
+## Speaker
 
 Camilla Damian
 

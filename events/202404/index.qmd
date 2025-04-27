@@ -8,17 +8,17 @@ title-block-banner: true
 
 ![](202404.png){fig-alt="Flyer for the R-Ladies Vienna April 2024 event. All information described is available in the main text below."}
 
-# Date and Time
+## Date and Time
 
 Friday, {{< meta date >}}  
 4:00 PM - 7:00 PM CEST
 
-# Venue
+## Venue
 
 TU Wien - Seminarraum 107/1 (im ehem. "Goldenen Lamm")  
 Wiedner Hauptstraße 7, 1040 Vienna
 
-# About
+## About
 
 In a previous meetup our own Mari Plaza has presented an <a href="../202212/index.qmd" target="_blank" rel="noopener">introduction of Golem</a> which allows you for sure to write a ShinyApp with the production ready mind-set. That means writing a ShinyApp like a package, including all relevant components of Software Engineering such modules, tests, dependencies, git, code coverage and so on. In such way, your Web Application developed in R is like a ShinyApp and has the correct architecture to go to production. This time, we go beyond an introduction session for a 3 hours workshop, starting with 1 hour of presentation about how you plan your application, followed by 2 hours of practical experience on how you use `golem`.
 
@@ -32,7 +32,7 @@ Since the content is interesting and rather dense, you could join us in the prev
 
 We are really happy to host this event with care and willingness to learn more about the great world of software engineering.
 
-# Speaker
+## Speaker
 
 María Inés Plaza Schwarck
 

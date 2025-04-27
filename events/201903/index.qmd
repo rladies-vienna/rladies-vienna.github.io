@@ -5,21 +5,21 @@ categories: [Networking, Joint event]
 title-block-banner: true
 ---
 
-# Date and Time
+## Date and Time
 
 Monday, {{< meta date >}}  
 7:00 PM - 9:00 PM CET
 
-# Venue
+## Venue
 
 Webster Vienna Private University  
 Praterstraße 23, 1020 Vienna
 
-# About
+## About
 
 We are excited to announce that Hadley Wickham will be the guest of the joint event organized by *Vienna\<-R* and *R-Ladies Vienna*.
 
-## Agenda
+### Agenda
 
 - Introduction to *Vienna\<-R*
 
@@ -36,7 +36,7 @@ We are excited to announce that Hadley Wickham will be the guest of the joint ev
 
 Looking forward to seeing you there!
 
-# Speaker
+## Speaker
 
 Hadley Wickham
 

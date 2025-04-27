@@ -10,16 +10,16 @@ title-block-banner: true
 ![](202103.avif){fig-alt="Flyer for the R-Ladies Vienna March 2021 first event out of three. All information described is available in the main text below."}
 
 
-# Date and Time
+## Date and Time
 
 Saturday, {{< meta date >}}  
 4:00 PM - 6:00 PM CET
 
-# Venue
+## Venue
 
 Online
 
-# About
+## About
 
 We invite you to join us for the third event of our joint series with *PyLadies*: Panel Discussion - R and Python with experts. Whether you are familiar with only R, Python, mastering both of them or just starting your journey now, we think this is the event for you. 
 
@@ -27,7 +27,7 @@ During the unique connection of both worlds of R and Python, you shall hear abou
 
 See you soon!
 
-### Panelists
+## Panelists
 
 Oliwia Lewandowska - Data Scientist at Looping Group, Berlin with a focus on Natural Language Processing & Data Storytelling. She is experienced in R and SQL, and passionate about mastering Python.
 

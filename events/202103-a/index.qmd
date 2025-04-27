@@ -9,16 +9,16 @@ title-block-banner: true
 
 ![](202103.avif){fig-alt="Flyer for the R-Ladies Vienna March 2021 third event out of three. All information described is available in the main text below."}
 
-# Date and Time
+## Date and Time
 
 Wednesday, {{< meta date >}}  
 6:00 PM - 8:00 PM CET
 
-# Venue
+## Venue
 
 Online
 
-# About
+## About
 
 We are proud to announce the collaboration between *PyLadies Vienna* and *R-Ladies Vienna* for a series of events aimed at fostering the collaboration and synergies between our communities.
 
@@ -31,7 +31,7 @@ The agenda of the workshop will be:
 - Reading data 
 - Examples and use cases
 
-To be able to follow the course and try things yourselves, we recommend to install [Python](https://www.python.org/downloads/) (add to PATH if on Windows). If you do not have a favorite code editor, we would suggest to install [Atom](https://atom.io/) or [VSCode](https://code.visualstudio.com/) else feel free to use what you like.
+To be able to follow the course and try things yourselves, we recommend to install [Python](https://www.python.org/downloads/). If you do not have a favorite code editor, we would suggest to install [Atom](https://atom.io/) or [VSCode](https://code.visualstudio.com/) else feel free to use what you like.
 
 Can't wait to meet you and share some love for Python!
 

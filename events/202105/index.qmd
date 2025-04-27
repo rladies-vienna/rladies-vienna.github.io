@@ -9,22 +9,22 @@ title-block-banner: true
 ![](202105.avif){fig-alt="Flyer for the R-Ladies Vienna May 2021 event. All information described is available in the main text below."}
 
 
-# Date and Time
+## Date and Time
 
 Thursday, {{< meta date >}}  
 7:00 PM - 8:30 PM CEST
 
-# Venue
+## Venue
 
 Online
 
-# About
+## About
 
 We are happy to announce that for the May 2021 Meetup, our co-organizer Ursula Laa will offer a tutorial into data visualization with the R package `ggplot2`. 
 
 Starting from the underlying principles of tidy data and the grammar of graphics, Ursula will introduce the basic ingredients (aesthetics and geoms), and show how to build a ggplot layer-by-layer. We will see together how we can quickly generate very different graphs with small changes in a standard interface, making it easy to better explore data.
 
-# Speaker
+## Speaker
 
 Ursula Laa
 

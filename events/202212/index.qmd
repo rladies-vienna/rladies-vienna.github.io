@@ -8,12 +8,12 @@ title-block-banner: true
 
 ![](202212.avif){fig-alt="Flyer for the R-Ladies Vienna December 2022 event. All information described is available in the main text below."}
 
-# Date and Time
+## Date and Time
 
 Monday, {{< meta date >}}  
 12:00 PM - 1:00 PM CET
 
-# Venue
+## Venue
 
 Hybrid:
 
@@ -22,7 +22,7 @@ Wiedner Hauptstraße 7, 1040 Vienna
   
 or Online
 
-# About
+## About
 
 Our last meetup of the year will take place in a HYBRID format, both live at TU Wien and online via zoom. Please note the family friendly time slot during the lunch break. You do not need to specify in advance whether you will participate online or live, but we would be happy to see you in person at TU Wien if you are available.
 

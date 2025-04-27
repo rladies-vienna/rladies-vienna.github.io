@@ -6,21 +6,21 @@ categories: [Artificial Intelligence, Large language models]
 title-block-banner: true
 ---
 
-![](flyer-202504.png){fig-alt="Flyer for the R-Ladies Vienna April 2025 event. All information described is availablein the main text below."}
+![](202504.png){fig-alt="Flyer for the R-Ladies Vienna April 2025 event. All information described is availablein the main text below."}
 
-# Date and Time
+## Date and Time
 
 Monday, {{< meta date >}}  
 6:00 PM - 7:30 PM CEST
 
-# Venue
+## Venue
 
 TU Wien, Freihaus - Seminarraum DA grün 06A (DA06E10)  
-Wiedner Hauptstraße 8-10 · Vienna
+Wiedner Hauptstraße 8-10, 1040 Vienna
 
-# About
+## About
 
-We warmly welcome R users of all identities and experience levels to our April meetup and learn about what you can achieve with large language models (LLMs) using R.
+We warmly welcome R users of all identities and experience levels to our April meetup, where we explore the methods and use cases of using LLMs directly from R to boost your workflow.
 
 In this meetup, we will:
 
@@ -28,9 +28,9 @@ In this meetup, we will:
 -   Dive into the practical methods for harnessing the power of LLMs directly within R
 -   Explore the growing ecosystem of R packages and APIs connecting to leading LLMs, demonstrating concrete use cases.
 
-We look forward to seeing you at the meetup, where we foster a safe and inclusive space for knowledge exchange.Speaker
+We look forward to seeing you at the meetup, where we foster a safe and inclusive space for knowledge exchange.
 
-# Speaker
+## Speaker
 
 Alexandra Posekany
 

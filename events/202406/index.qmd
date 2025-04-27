@@ -7,17 +7,17 @@ title-block-banner: true
 
 ![](202406.png){fig-alt="Flyer for the R-Ladies Vienna June 2024 event. All information described is availablein the main text below."}
 
-# Date and Time
+## Date and Time
 
 Wednesday, {{< meta date >}}  
 6:00 PM - 8:00 PM CEST
 
-# Venue
+## Venue
 
 Summer Stage  
 Roßauer Lände 17, 1090 Vienna
 
-# About
+## About
 
 As our last event before the summer we would be happy if you join us for some drinks and networking at Summer Stage at Donaukanal. It would be a great opportunity to get to know each other or simply catch up, and also to let us know if you have any input for how we continue with *R-Ladies Vienna*.
 

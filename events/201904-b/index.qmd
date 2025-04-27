@@ -5,17 +5,17 @@ categories: [Bayesian statistics, Study group]
 title-block-banner: true
 ---
 
-# Date and Time
+## Date and Time
 
 Wednesday, {{< meta date >}}  
 6:30 PM - 7:30 PM CEST
 
-# Venue
+## Venue
 
 Vienna University of Economics and Business  
 Welthandelspl. 1, 1020 Vienna
 
-# About
+## About
 
 The first session of the Bayesian statistics study group will take place on 17th of April.
 

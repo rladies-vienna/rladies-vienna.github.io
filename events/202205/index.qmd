@@ -7,17 +7,17 @@ title-block-banner: true
 
 ![](202205.avif){fig-alt="Flyer for the R-Ladies Vienna May 2022 event. All information described is available in the main text below."}
 
-# Date and Time
+## Date and Time
 
 Thursday, {{< meta date >}}  
 6:00 PM - 8:00 PM CEST
 
-# Venue
+## Venue
 
 TU Wien - Seminarraum 107/1 (im ehem. "Goldenen Lamm")  
 Wiedner Hauptstraße 7, 1040 Vienna
 
-# About
+## About
 
 We are happy to announce the next series of Shiny workshops before the summer break!
 

@@ -8,27 +8,27 @@ title-block-banner: true
 
 ![](202405.png){fig-alt="Flyer for the R-Ladies Vienna May 2024 event. All information described is available in the main text below."}
 
-# Date and Time
+## Date and Time
 
 Tuesday, {{< meta date >}}  
 6:00 PM - 8:00 PM CEST
 
-# Venue
+## Venue
 
 University of Vienna - Hörsaal 10  
 Oskar-Morgenstern-Platz 1, 1090 Vienna
 
-# About
+## About
 
 We are happy to welcome Ayşegül Engin to present how she is using R and in particular the `TraMineR` package in her research on model-driven decision support. She will present **How groups manage conflict when using model-driven decision support: Sequence Analysis using `TraMineR`**, shared work with L. Alberto Franco and Etiënne A.J.A. Rouwette.
 
 Following the presentation we are happy to invite you to a small buffet and some drinks, sponsored by the University of Vienna.
 
-## Abstract
+### Abstract
 
 Within and across organisations, groups are formed to tackle situations that require a decision or recommendation to be made, whether the situation is simple or complex, routine or one-off, short or long-term. However, inconsistencies between group members’ definitions of the situation often gives rise to conflict. Within the management and system sciences, various model-driven support approaches have been developed to assist groups in revealing disagreements and managing conflict. In this study, we investigate whether the preference for deliberate and deep information processing, also known as epistemic motivation, affects an important feature of model-driven group decision support. It serves as an aid to surface and manage cognitive conflict within the group. We report on an experimental study that adopts a process-oriented methodology to examine conflict management behaviors and trajectories of groups with different levels of epistemic motivation. Using `TraMineR`: Sequence Analysis Toolkit, we show how conflict management trajectories are influenced by epistemic motivation of groups. The results indicate that three dimensions of epistemic motivation; discomfort with ambiguity, decisiveness, preference for order and structure are significant co-variates of variance in groups’ conflict management trajectories.
 
-# Speaker
+## Speaker
 
 Ayşegül Engin
 

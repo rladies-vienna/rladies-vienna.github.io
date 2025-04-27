@@ -9,22 +9,22 @@ title-block-banner: true
 ![](202104.avif){fig-alt="Flyer for the R-Ladies Vienna April 2021 event. All information described is available in the main text below."}
 
 
-# Date and Time
+## Date and Time
 
 Thursday, {{< meta date >}}  
 6:00 PM - 8:00 PM CEST
 
-# Venue
+## Venue
 
 Online
 
-# About
+## About
 
 It is our pleasure to announce our speaker for April’s Meetup, Dr Carin Ludeña, who will be giving us insights into a `sparklyr` use-case for increasing bank revenue.
 
 Looking forward to the interesting presentation and discussion and to seeing you soon (even though still in an online format)!
 
-# Speaker
+## Speaker
 
 Carin Ludeña
 

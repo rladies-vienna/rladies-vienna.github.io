@@ -5,17 +5,17 @@ categories: [Probabilistic modeling, Networking, Joint event]
 title-block-banner: true
 ---
 
-# Date and Time
+## Date and Time
 
 Friday, {{< meta date >}}  
 6:00 PM - 8:00 PM CET
 
-# Venue
+## Venue
 
 Raiffeisen Bank International - "Skyroom"  
 Am Stadtpark 9, 1030 Vienna
 
-# About
+## About
 
 We are happy to announce Achim Zeileis and Joel Gotsch for our next joint event with the ViennaR meetup group.
 
@@ -29,7 +29,7 @@ After the talks you are invited to join the networking session with refreshments
 
 See you soon!
 
-# Speakers:
+## Speakers:
 
 Achim Zeileis, Joel Gotsch
 

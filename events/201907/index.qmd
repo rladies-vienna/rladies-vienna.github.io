@@ -5,17 +5,17 @@ categories: [Networking]
 title-block-banner: true
 ---
 
-# Date and Time
+## Date and Time
 
 Tuesday, {{< meta date >}}  
 6:30 PM - 9:30 PM CEST
 
-# Venue
+## Venue
 
 Summer Stage  
 Roßauer Lände 17, 1090 Vienna
 
-# About
+## About
 
 As our last event before the summer, we would be happy if you join us for some drinks and networking next Tuesday on the Donaukanal at Summer Stage. It would be a great opportunity to get to know each other or simply catch up. We are looking forward to meeting you!
 

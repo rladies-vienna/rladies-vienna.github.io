@@ -5,17 +5,17 @@ categories: [Joint event]
 title-block-banner: true
 ---
 
-# Date and Time
+## Date and Time
 
 Friday, {{< meta date >}}  
 4:00 PM - 5:00 PM CEST
 
-# Venue
+## Venue
 
 University of Applied Sciences Technikum Wien  
 Höchstädtpl. 6, 1200 Vienna
 
-# About
+## About
 
 Technologists create products and services and in doing so affect our everyday lives now and in the future. If these products and services are supposed to serve our society as a whole, we need a lot of diverse and creative perspectives reflecting the richness of our communities. Therefore, we strongly believe that striving to increase diversity among technologists should be a major goal.
 
@@ -23,7 +23,7 @@ On our pursuit for diversity, one of the most encouraging things we can do is to
 
 In Vienna, a range of initiatives promoting gender diversity in STEM (science, technology, engineering & math) exist. To increase visibility as well as to facilitate exchange of ideas and getting-to-know-each-other amongst these initiatives, a session solely dedicated to these groups and projects will take place during [PyDays Vienna](https://www.pydays.at).
 
-**Enlisted Initiatives**
+### Enlisted Initiatives
 
 - Co-Mentoring Programme - Women in Data Science 
 - Feminist Python Meetup for Women\* and Non-Binary Folks in Vienna 

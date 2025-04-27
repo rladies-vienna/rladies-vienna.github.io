@@ -5,17 +5,17 @@ categories: [Hackathon, Joint event]
 title-block-banner: true
 ---
 
-# Date and Time
+## Date and Time
 
 Saturday, {{< meta date >}} - Sunday, April 28 2019  
 9:00 AM - 6:00 PM CEST
 
-# Venue
+## Venue
 
 A1 Telekom Austria AG  
 Lassallestraße 9, 1020 Vienna
 
-# About
+## About
 
 The First data4good Hackathon in collaboration with the *Vienna Data Science Group* and *WeAreDevelopers::Keep-Current* will take place in the last weekend of April!
 
@@ -31,7 +31,7 @@ More details on *data4good* at [https://viennadatasciencegroup.at/data4good/](ht
 We look forward to seeing you!  
 
 
-**Schedule**
+### Schedule
 
 | Time | Activity |
 |------|----------|

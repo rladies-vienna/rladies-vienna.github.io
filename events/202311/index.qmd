@@ -8,17 +8,17 @@ title-block-banner: true
 
 ![](202311.png){fig-alt="Flyer for the R-Ladies Vienna November 2023 event. All information described is available in the main text below."}
 
-# Date and Time
+## Date and Time
 
 Tuesday, {{< meta date >}}  
 6:00 PM - 8:00 PM CET
 
-# Venue
+## Venue
 
 TU Wien - Seminarraum 107/1 (im ehem. "Goldenen Lamm")  
 Wiedner Hauptstraße 7, 1040 Vienna
 
-# About
+## About
 
 In our next meetup we will discuss natural language processing (NLP) in R. We will hear two presentations:
 
@@ -30,9 +30,8 @@ In our next meetup we will discuss natural language processing (NLP) in R. We wi
 
     This will be followed by an application described by Camilla: Gender stereotypes form early in the child’s development and are carried over throughout adolescence into adulthood, leaving long-lasting effects which may impact activity and career choices, as well as academic performance. Books, in particular, can have considerable influence, as their characters serve to shape role models of femininity and masculinity for young children. Thus, gender under- and misrepresentation in children’s textual literature can contribute to the internalization and reinforcement of stereotypes. To address this issue, we aim to identify and measure relevant dimensions of gender bias in children’s books with the aid of both qualitative and quantitative techniques: systematic literature review across disciplines on the one hand and natural language processing (NLP) methods on the other. By exploiting such an integrated research framework, we believe that it is possible to automate the detection of potentially biased text while enhancing the interpretability and transparency of the results.
     
-# Speaker
+## Speaker
 
 Florian Schwendinger, Camilla Damian
-
 
 [RSVP via Meetup {{< fa brands meetup >}}](https://www.meetup.com/rladies-vienna/events/297374418){.btn .btn-outline-primary .rsvp}

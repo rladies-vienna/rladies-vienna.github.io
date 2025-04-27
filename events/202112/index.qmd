@@ -8,22 +8,22 @@ title-block-banner: true
 
 ![](202112.avif){fig-alt="Flyer for the R-Ladies Vienna December 2021 event. All information described is available in the main text below."}
 
-# Date and Time
+## Date and Time
 
 Tuesday, {{< meta date >}}  
 12:00 PM - 1:00 PM CET
 
-# Venue
+## Venue
 
 Online
 
-# About
+## About
 
 We are excited to announce the December 2021 Meetup with Alexandra Posekany, who will give us an introduction to Bayesian Statistics.
 
 The talk will walk us through the basics of the Bayesian paradigm to statistical analysis and give us an overview on employed methods.
 
-# Speaker
+## Speaker
 
 Alexandra Posekany
 

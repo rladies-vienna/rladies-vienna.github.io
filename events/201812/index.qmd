@@ -5,18 +5,18 @@ categories: [Networking]
 title-block-banner: true
 ---
 
-# Date and Time
+## Date and Time
 
 Thursday, {{< meta date >}}  
 7:00 PM - 9:00 PM CET
 
-# Venue
+## Venue
 
 Spittelberg Christmas Market  
 the inner yard of Amerlingbeisl  
 Stiftgasse 8, 1070 Vienna
 
-# About
+## About
 
 As is tradition in Vienna during this time of the year, we decide to get together for some drinks in one of Vienna‘s beautiful Christmas markets.
 

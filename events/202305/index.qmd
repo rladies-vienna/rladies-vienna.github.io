@@ -8,17 +8,17 @@ title-block-banner: true
 
 ![](202305.avif){fig-alt="Flyer for the R-Ladies Vienna May 2023 event. All information described is available in the main text below."}
 
-# Date and Time
+## Date and Time
 
 Wednesday, {{< meta date >}}  
 6:00 PM - 8:00 PM CEST
 
-# Venue
+## Venue
 
 TU Wien - Seminarraum 107/1 (im ehem. "Goldenen Lamm")  
 Wiedner Hauptstraße 7, 1040 Vienna
 
-# About
+## About
 
 We are happy to announce Bettina Grün and Benjamin Schwendinger as the speakers for our next joint event with the *ViennaR* meetup group!
 
@@ -26,7 +26,7 @@ Benjamin Schwendinger will talk about the `data.table` package, which is a widel
 
 Bettina Grün will be giving a talk on R Packages, walking us through important guidelines for extending R with packages. This talk will be interesting for R package developers and useRs alike.
 
-# Speaker
+## Speaker
 
 Bettina Grün, Benjamin Schwendinger
 

@@ -7,17 +7,17 @@ title-block-banner: true
 
 ![](202402.png){fig-alt="Flyer for the R-Ladies Vienna February 2024 event. All information described is available in the main text below."}
 
-# Date and Time
+## Date and Time
 
 Thursday, {{< meta date >}}  
 6:00 PM - 8:00 PM CET
 
-# Venue
+## Venue
 
 TU Wien - Seminarraum 107/1 (im ehem. "Goldenen Lamm")  
 Wiedner Hauptstraße 7, 1040 Vienna
 
-# About
+## About
 
 The goal of our next meetup is for our attendees to become acquainted with R and R Studio in order to start their data analytics journey.
 

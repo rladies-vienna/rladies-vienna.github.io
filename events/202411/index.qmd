@@ -8,25 +8,25 @@ title-block-banner: true
 
 ![](202411.png){fig-alt="Flyer for the R-Ladies Vienna November 2024 event. All information described is available in the main text below."}
 
-# Date and Time
+## Date and Time
 
 Thursday, {{< meta date >}}  
 6:00 PM - 7:30 PM CET
 
-# Venue
+## Venue
 
 TU Wien, Freihaus - Seminarraum DA grün 04 (DA04E10)  
 Wiedner Hauptstraße 8-10 · Vienna
 
-# About
+## About
 
 Join us for our next meetup in November, to hear from Ilaria Capelli and Mina Sohrabi about their work at Raiffeisen Bank International. We will explore how their new R package simplifies querying their centralized database through a secure AWS setup and discover their intuitive R/Shiny interface for easy data access and updates. They will showcase features like Excel-like operations via `rhandsontable`, designed to enhance usability for both technical and non-technical users. Perfect for analysts and clients looking to smoothly interact with macroeconomic data!
 
-## Abstract
+### Abstract
 
 Here is Ilaria's and Mina's abstract for the talk: As developers at a leading economic and financial markets research institution, centralizing our data is crucial for both internal (backtesting, sharing forecasts, model validations) and external (client access) use cases. Our contribution consists of two parts: first, the introduction of our R package, developed using the “Open API generator,” enabling seamless querying of our database via a RESTful API. Additionally, we show the integration of a robust authorization and authentication layer within AWS cloud infrastructure. Second, we have designed a user-friendly R/Shiny-based frontend to facilitate easy access for non-technical users. This interface displays forecasts and historic data for various variables and countries, allowing for data updates and downloads. To mimic familiar Excel operations such as row-wise pasting and data removal, we have successfully utilized the open-source R-wrapper `rhandsontable` of the JavaScript library `handsontable`. Both contributions enable our analysts and clients to smoothly interact with our database by providing a convenient, secure, and user-friendly environment, enhancing the accessibility of our macroeconomic data for all stakeholders.
 
-# Speaker
+## Speaker
 
 Ilaria Capelli, Mina Sohrabi
 

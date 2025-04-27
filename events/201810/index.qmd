@@ -5,17 +5,17 @@ categories: [Networking]
 title-block-banner: true
 ---
 
-# Date and Time
+## Date and Time
 
 Saturday, {{< meta date >}}  
 11:00 AM - 1:00 PM CEST
 
-# Venue
+## Venue
 
 das café  
 Burggasse 10, 1070 Vienna
 
-# About
+## About
 
 Thanks for joining our group!
 

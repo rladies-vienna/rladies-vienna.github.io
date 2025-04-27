@@ -8,13 +8,9 @@
 $darkblue: #1C6E8C;
 $darkrladies: #562457;
 $rladies: #88398a;
-$palepurple: #D0C4D4;
 $lightpurple: #C2B6C6;
-$darkpink: #80475e;
-$palepink: rgba(#DCA1A1, 0.5);
 $lightpink: rgba(#DCA1A1, 0.7);
 $darkgray: #3A3B3C;   
-$gray: #aca9ac;
 $cream: #FDFBF7;
 $primary: $lightpink;
 $secondary: $cream;
@@ -32,107 +28,62 @@ $link-color: $lightpink;
 $code-color: $rladies;
 
 
-
-
 /*-- scss:rules --*/
 
+// navigation bar ---------------------------------------------------------------------
 
-//$web-font-path: "https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400;700&display=swap" !default;
-//@if $web-font-path {
-//  @import url($web-font-path);
+//.navbar-brand-container .navbar-brand:hover{
+//  background-color: $lightpurple !important;
+//  color: $darkgray;
 //}
-
-// announcement bar-------------------------------------------------------------
-#quarto-announcement {
-  background-color: $rladies;
-  color: $cream;
-  border: none;
-}
-
-.quarto-announcement-content a{
-  color: $cream; 
-}
-
-.quarto-announcement-content a:hover {
-  color: $lightpink;
-}
-
-
-.rladies-text {
-  color: $darkrladies;
-  font-weight: bold;
-}
-
-
-// navigation bar --------------------------------------------------------------
-
 .navbar {
   border-bottom: 1px solid $lightpink;
-  padding-top: 1rem;
-  padding-bottom: 1rem;
 }
 
-.navbar-title{
-  color: $cream; //$rladies;
-  letter-spacing: 1px;
-  text-transform: uppercase;
+.navbar-nav  .nav-link {
+  border-radius: 0.5rem;
 }
 
-.navbar-title:hover {
-  color: $lightpink !important; 
+.navbar-nav  .nav-link:hover {
+  background-color: $lightpurple !important; 
+  color: $darkgray;
+  border-radius: 0.5rem;
 }
 
-.navbar-nav .nav-link:hover {
-  color: $lightpink !important; 
-}
-
-.nav-item{
-  padding-right: 1rem;
-}
-
-// home page ----------------------------------------------------------------
-
-.home-page .quarto-title {
-  text-align: center !important;
-  color: $darkrladies;
-  padding-bottom: 0em;
-}
-
-// core-page ----------------------------------------------------------------
-
-.quarto-title-banner{
-  background-color: $darkrladies; 
-  border-top: 1px solid $lightpink;
-  border-bottom: 1px solid $lightpink;
-  padding-top: 2em;
-  padding-bottom: 2em;
-}
+// core-page -------------------------------------------------------------------
 
 .core-page .title {
   text-transform: uppercase;
 }
 
-.core-page .quarto-title-banner h1{
+.core-page.quarto-title-banner h1{
   color: $cream;
   font-weight: 400 !important;
 }
 
-.core-page .quarto-title-banner .quarto-title .quarto-categories .quarto-category a{
-  border-color: rgba($cream, 0.5);
-  color: $cream;
-}
+//.core-page .quarto-title-banner .quarto-title .quarto-categories .quarto-category a{
+//  border-color: rgba($cream, 0.5);
+//  color: $cream;
+//}
 
-.core-page .quarto-title-banner .quarto-title .quarto-categories .quarto-category:hover {
-  border-color: rgba($lightpink, 0.5);
-  a {
-    color: $lightpink;
-  }
+//.core-page .quarto-title-banner .quarto-title .quarto-categories .quarto-category:hover {
+//  border-color: rgba($lightpink, 0.5);
+//  a {
+//    color: $lightpink;
+//  }
+//}
+
+h2{
+  border-bottom: none;
+  padding-top: 1em;
+  text-align: center;
 }
 
 // text formating --------------------------------------------------------------
 h1 {
   letter-spacing: 1px;
   border-bottom: none;
+  color: $darkrladies;
 }
 
 h2{
@@ -140,9 +91,7 @@ h2{
 }
 
 h3{
-  color: $darkrladies;
-  font-weight: bold;
-  margin-top: 2rem;
+  font-size: 1.1rem;
 }
 
 a {
@@ -154,7 +103,6 @@ a:hover {
     color: $lightpurple; 
 }
 
-
 p a:hover {
   background-color: $lightpurple; 
   color:$darkgray; 
@@ -162,10 +110,7 @@ p a:hover {
 
 .anchorjs-link {
   display: none;
-}
-
-.custom-space {
-  margin-bottom: 3rem;   
+//  color: $lightpurple;
 }
 
 .center-align{
@@ -207,27 +152,12 @@ p a:hover {
 
 
 // EVENTS categories ------------------------------------------------------------
-// in event page
-
-
 .quarto-title .quarto-categories .quarto-category:hover {
   border-color: rgba($lightpink, 0.3);
   a {
-    color: $palepink;
+    color: $lightpink;
   }
 }
-
-/*-- 
-.quarto-grid-item .listing-categories .listing-category:hover {
-  border-color: rgba($lightpink, 0.5);
-  color: $lightpink;
-}
-
-.quarto-grid-link {
-  color: $palepink
-}
-
---*/
 
 .quarto-grid-item {
   border: 1px solid;
@@ -244,14 +174,12 @@ p a:hover {
 
 // buttons ---------------------------------------------------------------------
 
-.btn {
+.btn{
 //  border-radius: 0.5rem;
   border: 1px solid $rladies;
   color: $rladies;
   padding: 0.5rem 1rem;
   font-weight: 400;
-  text-transform: uppercase;
-  text-align: center;
   flex: 1;
   min-width: 200px;
   
@@ -265,25 +193,24 @@ p a:hover {
   }
 }
 
-.home-social-btn-group {
-  display: flex;
-  gap: 1rem;
-  flex-wrap: wrap;
-  justify-content: center; 
-  margin-bottom: 2em;
+.about-link{
+    border: 1px solid $rladies !important;
+    color: $rladies!important;
+    
+  &:hover,
+  &:focus,
+  &:active {
+    border-color: $darkgray; 
+    background-color: $lightpurple;
+    color: $darkgray!important; 
+    font-weight: 500;
+  }
 }
 
 .social-btn-group {
   display: flex;
   gap: 1rem;
   flex-wrap: wrap;  
-}
-
-.home-btn{
-  font-size: 0.9em; 
-  display: inline-block;
-  min-width: 150px;
-  border: 1px solid $rladies;
 }
 
 .rsvp{
@@ -295,8 +222,7 @@ p a:hover {
 
 // footer ---------------------------------------------------------------------
 footer {
-  color: $gray;
-  
+  color: $darkgray;
   a {
     text-decoration: none;
   }
@@ -306,7 +232,7 @@ footer {
     color: $lightpurple;
   }
     
-    .fa-brands {
-      margin-left: 0.3rem; 
-    }
+  .fa-brands {
+    margin-left: 0.3rem; 
+  }
 }

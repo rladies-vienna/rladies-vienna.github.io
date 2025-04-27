@@ -5,17 +5,17 @@ categories: [Workshop]
 title-block-banner: true
 ---
 
-# Date and Time
+## Date and Time
 
 Thursday, {{< meta date >}}  
 6:30 PM - 8:30 PM CEST
 
-# Venue
+## Venue
 
 Vienna University of Economics and Business  
 Welthandelspl. 1, 1020 Vienna
 
-# About
+## About
 
 The goal of our next meetup is for our attendees to become acquainted with R and R Studio in order to start their data analytics journey.
 

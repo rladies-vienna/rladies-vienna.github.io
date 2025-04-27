@@ -7,17 +7,17 @@ title-block-banner: true
 
 ![](202403.png){fig-alt="Flyer for the R-Ladies Vienna March 2024 event. All information described is available in the main text below."}
 
-# Date and Time
+## Date and Time
 
 Wednesday, {{< meta date >}}  
 5:30 PM - 7:00 PM CET
 
-# Venue
+## Venue
 
 TU Wien - Seminarraum 107/1 (im ehem. "Goldenen Lamm")  
 Wiedner Hauptstraße 7, 1040 Vienna
 
-# About
+## About
 
 To complete topics that we did not manage to fit into the first workshop, we will host the second part of the Introduction to R Workshop in our next Meetup. This time we will cover:
 

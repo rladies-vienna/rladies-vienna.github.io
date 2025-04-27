@@ -6,19 +6,19 @@ categories: [R packages, Networking]
 title-block-banner: true
 ---
 
-### Date and Time
+## Date and Time
 
 Friday, {{< meta date >}}
 
 5:00 PM - 7:00 PM CEST
 
-### Venue
+## Venue
 
 Vienna University of Economics and Business
 
 Welthandelspl. 1, 1020 Vienna
 
-### About
+## About
 
 It is our pleasure to announce Bettina Grün as our next speaker for this Friday's Meetup.
 
@@ -28,7 +28,7 @@ After the talk we will go for some drinks in one of the restaurants at the WU Ca
 
 We are looking forward to seeing you on Friday!
 
-### Speaker
+## Speaker
 
 Bettina Grün
 
