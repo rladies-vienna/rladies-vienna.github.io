@@ -21,5 +21,5 @@ We update regularly on the following social platforms. Follow us and stay connec
 
 [{{< fa brands mastodon >}} Mastodon](https://mastodon.social/@RLadiesVienna){.btn .btn-outline-primary}
 
-[{{< fa brands bluesky >}} Bluesky](https://bsky.app/profile/rladiesvienna.bsky.social){.btn .btn-outline-primary}
+[{{< fa brands bluesky >}} Bluesky](https://bsky.app/profile/rladies-vienna.github.io){.btn .btn-outline-primary}
 :::

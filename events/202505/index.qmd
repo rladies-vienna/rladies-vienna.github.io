@@ -1,0 +1,50 @@
+---
+title: "R in Industry: Biopharmaceutical Process Optimization through Advanced Design of Experiments"
+date: "2025-05-21"
+author: "Christina Yassouridis"
+categories: [Applied statistics, Interdisciplinarity]
+title-block-banner: true
+---
+
+![](202505.avif){fig-alt="Flyer for the R-Ladies Vienna May 2025 event. All information described is availablein the main text below."}
+
+## Date and Time
+
+Wednesday, {{< meta date >}}  
+6:00 PM - 7:30 PM CEST
+
+## Venue
+
+Seminar room DA04E10 (Sem.R. DA grün 04)  
+4th floor, green area
+TU Wien Freihaus  
+Wiedner Hauptstraße 8-10, 1040 Wien  
+
+## About
+
+In our May 2025 meetup, we explore the interdisciplinary application of data science in the biopharmaceutical industry. Christina Yassouridis, Senior Data Scientist from Boehringer Ingelheim, will share with us how she designs and develops an R package which applies Design of Experiment (DoE) approaches to optimize biopharmaceutical manufacturing process.
+
+It will be an interesting sharing to see how R is used to meet industry needs. The theoretical background of the DoE approaches involved will also be introduced, which allows R users without field knowledge to follow along.
+
+R-Ladies Vienna promotes gender diversity in the R community. All genders and skill levels in R are welcome to our events. We look forward to seeing you!
+
+### Abstract
+
+Biopharmaceutical manufacturing encompasses complex processes involving living organisms and multiple interacting steps. To optimize these processes, data scientists develop digital representations using machine learning models to identify optimal process parameters across multidimensional experimental spaces. For Gaussian process regression models, evenly distributed experimental points yield superior results.
+
+The R package `spacefillngDoEs`, developed by Christina, integrates and extends two established approaches:
+
+- Halton designs: These low-discrepancy sequences enable efficient quasi-Monte Carlo methods for numerical integration and sampling in high-dimensional spaces.
+- Latin Hypercube Designs: This statistical method generates near-random parameter value samples from multidimensional distributions.
+By combining functionalities from the R packages `qrng` and `SLHD` while extending their capabilities to handle mixed data types, `spacefillngDoEs` addresses specific industry requirements.
+
+In this presentation, Christina will introduce the theoretical foundations of generalized Halton designs, demonstrate the R package's functionality, and showcase its current industrial application.
+
+## Speaker
+
+Christina Yassouridis
+
+Christina is currently a Senior Data Scientist at Boehringer Ingelheim, one of the world’s largest pharmaceutical companies. With a PhD in Applied Statistics, Christina has extensive experience as a data science professional in both industry and consulting, and as a researcher at BOKU.
+
+
+[RSVP via Meetup {{< fa brands meetup >}}](https://www.meetup.com/rladies-vienna/events/307304163){.btn .btn-outline-primary .rsvp}

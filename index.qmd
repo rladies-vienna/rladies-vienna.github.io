@@ -15,14 +15,14 @@ about:
       href: https://mastodon.social/@RLadiesVienna
       rel: me
     - text: "{{< fa brands bluesky >}} Bluesky"
-      href: https://bsky.app/profile/rladiesvienna.bsky.social
+      href: https://bsky.app/profile/rladies-vienna.github.io
       rel: me
     - text: "{{< fa brands meetup >}} Meetup"
       href: https://www.meetup.com/rladies-vienna/
 listing:
     - id: latest-event
       contents: 
-      - /events/202504/
+      - /events/202505/
       type: default
       fields: [image, title, date]
 ---
@@ -31,8 +31,7 @@ listing:
 {{< fa solid location-dot>}}  Vienna, Austria
 :::  
 
-As a local chapter of R-Ladies Global, we promote gender diversity and inclusion in the R community in Vienna and worldwide. We aim to provide a safe and inclusive community space for R enthusiasts and practitioners of all skill levels, prioritizing anyone identifying as a minority gender to achieve proportionate gender representation. 🌈  
-
+As a local chapter of R-Ladies Global, we promote gender diversity in the R community. We aim to provide a safe and inclusive community space for R enthusiasts and practitioners of all skill levels, prioritizing anyone identifying as a minority gender to achieve proportionate gender representation. 🌈  
 
 ## Latest event
 

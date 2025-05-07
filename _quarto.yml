@@ -1,5 +1,7 @@
 project:
   type: website
+  resources:
+    - .well-known
 editor: source
 lang: en
 language:
@@ -25,7 +27,7 @@ website:
   page-footer: 
     left: R-Ladies Vienna, 2025  
     center: This website is built with [Quarto](https://quarto.org/) and [GitHub](https://github.com/rladies-vienna/rladies-vienna.github.io).
-    right: '[{{< fa brands meetup title="Meetup">}} Meetup](https://www.meetup.com/rladies-vienna/) | [{{< fa brands mastodon title="Mastodon">}} Mastodon](https://mastodon.social/@RLadiesVienna) | [{{< fa brands bluesky title="Bluesky">}} Bluesky](https://bsky.app/profile/rladiesvienna.bsky.social) | [{{< fa brands linkedin title="LinkedIn">}} Linkedin](https://linkedin.com/company/r-ladies-vienna/)'
+    right: '[{{< fa brands meetup title="Meetup">}} Meetup](https://www.meetup.com/rladies-vienna/) | [{{< fa brands mastodon title="Mastodon">}} Mastodon](https://mastodon.social/@RLadiesVienna) | [{{< fa brands bluesky title="Bluesky">}} Bluesky](https://bsky.app/profile/rladies-vienna.github.io) | [{{< fa brands linkedin title="LinkedIn">}} Linkedin](https://linkedin.com/company/r-ladies-vienna/)'
 
 format:
   html:
