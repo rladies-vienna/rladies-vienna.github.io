@@ -6,7 +6,7 @@ categories: [Cluster analysis]
 title-block-banner: true
 ---
 
-![](202502.png){fig-alt="Flyer for the R-Ladies Vienna February 2025 event. All information described is available in the main text below."}
+![](202502.avif){fig-alt="Flyer for the R-Ladies Vienna February 2025 event. All information described is available in the main text below."}
 
 ## Date and Time
 

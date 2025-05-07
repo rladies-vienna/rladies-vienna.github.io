@@ -5,7 +5,7 @@ categories: [Networking]
 title-block-banner: true
 ---
 
-![](202406.png){fig-alt="Flyer for the R-Ladies Vienna June 2024 event. All information described is availablein the main text below."}
+![](202406.avif){fig-alt="Flyer for the R-Ladies Vienna June 2024 event. All information described is availablein the main text below."}
 
 ## Date and Time
 

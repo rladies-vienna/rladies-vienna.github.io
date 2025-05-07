@@ -28,14 +28,13 @@ listing:
 ---
 
 :::{#hero-heading}
-{{< fa solid location-dot >}} Vienna, Austria
+{{< fa solid location-dot>}}  Vienna, Austria
 :::  
 
 As a local chapter of R-Ladies Global, we promote gender diversity and inclusion in the R community in Vienna and worldwide. We aim to provide a safe and inclusive community space for R enthusiasts and practitioners of all skill levels, prioritizing anyone identifying as a minority gender to achieve proportionate gender representation. 🌈  
 
 
 ## Latest event
-
 
 ::: {#latest-event}
 :::

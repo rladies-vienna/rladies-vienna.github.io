@@ -5,7 +5,7 @@ categories: [Workshop]
 title-block-banner: true
 ---
 
-![](202403.png){fig-alt="Flyer for the R-Ladies Vienna March 2024 event. All information described is available in the main text below."}
+![](202403.avif){fig-alt="Flyer for the R-Ladies Vienna March 2024 event. All information described is available in the main text below."}
 
 ## Date and Time
 

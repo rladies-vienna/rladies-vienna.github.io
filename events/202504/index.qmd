@@ -6,7 +6,7 @@ categories: [Artificial Intelligence, Large language models]
 title-block-banner: true
 ---
 
-![](202504.png){fig-alt="Flyer for the R-Ladies Vienna April 2025 event. All information described is availablein the main text below."}
+![](202504.avif){fig-alt="Flyer for the R-Ladies Vienna April 2025 event. All information described is availablein the main text below."}
 
 ## Date and Time
 

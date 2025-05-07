@@ -6,7 +6,7 @@ categories: [Shiny, Amazon Web Services]
 title-block-banner: true
 ---
 
-![](202411.png){fig-alt="Flyer for the R-Ladies Vienna November 2024 event. All information described is available in the main text below."}
+![](202411.avif){fig-alt="Flyer for the R-Ladies Vienna November 2024 event. All information described is available in the main text below."}
 
 ## Date and Time
 

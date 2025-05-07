@@ -6,7 +6,7 @@ categories: [Decision support, R packages, Networking]
 title-block-banner: true
 ---
 
-![](202405.png){fig-alt="Flyer for the R-Ladies Vienna May 2024 event. All information described is available in the main text below."}
+![](202405.avif){fig-alt="Flyer for the R-Ladies Vienna May 2024 event. All information described is available in the main text below."}
 
 ## Date and Time
 

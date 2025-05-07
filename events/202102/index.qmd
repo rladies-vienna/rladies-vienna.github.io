@@ -5,7 +5,7 @@ categories: [Networking]
 title-block-banner: true
 ---
 
-![](202102.png){fig-alt="Flyer for the R-Ladies Vienna February 2021 event. All information described is available in the main text below."}
+![](202102.avif){fig-alt="Flyer for the R-Ladies Vienna February 2021 event. All information described is available in the main text below."}
 
 ## Date and Time
 
