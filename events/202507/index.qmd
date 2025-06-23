@@ -1,0 +1,35 @@
+---
+title: "Get-together with R-Ladies and Friends"
+date: "2025-07-01"
+categories: [Networking]
+title-block-banner: true
+---
+
+![](202507.avif){fig-alt="Flyer for the R-Ladies Vienna July 2025 event. All information described is availablein the main text below."}
+
+## Date and Time
+
+Tuesday, {{< meta date >}}  
+5:30 PM - 7:00 PM CEST
+
+## Venue
+
+Pointers Vienna  
+Resselgasse 5, 1040 Vienna
+
+## About
+
+As the last event before our summer break, we warmly invite you to a relaxed get-together where you can, for instance:
+
+-   Connect with familiar and new faces in our community
+
+-   Exchange ideas such as your recent R work or summer learning goals
+
+-   Share your thoughts on our future meetups
+
+All genders and identities are welcome. We look forward to seeing you at this meetup!
+
+Our next events will resume after the summer. 
+
+
+[RSVP via Meetup {{< fa brands meetup >}}](https://www.meetup.com/rladies-vienna/events/308605295){.btn .btn-outline-primary .rsvp}
