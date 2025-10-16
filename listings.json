@@ -2,6 +2,7 @@
   {
     "listing": "/events/index.html",
     "items": [
+      "/events/202510/index.html",
       "/events/202507/index.html",
       "/events/202505/index.html",
       "/events/202504/index.html",
@@ -42,7 +43,7 @@
   {
     "listing": "/index.html",
     "items": [
-      "/events/202507/index.html"
+      "/events/202510/index.html"
     ]
   }
 ]
