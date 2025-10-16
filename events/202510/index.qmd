@@ -1,0 +1,52 @@
+---
+title: "Workshop -- Introduction to R"
+date: "2025-10-29"
+categories: [Workshop]
+author: "Patricia Puchhammer"
+title-block-banner: true
+---
+
+![](202510.avif){fig-alt="Flyer for the R-Ladies Vienna October 2025 event. All information described is availablein the main text below."}
+
+## Date and Time
+
+Wednesday, {{< meta date >}}  
+6:00 PM - 7:30 PM CET
+
+## Venue
+
+Seminar room DA03A15 (Sem.R. DA grün 03 A)  
+3rd floor, green area
+TU Wien Freihaus  
+Wiedner Hauptstraße 8-10, 1040 Vienna
+
+## About
+
+After a summer break, we are kickstarting our events again with an introductory workshop on the R programming language. No previous knowledge of R is required, and we welcome all genders and identities to attend our events at R-Ladies Vienna.
+
+### Abstract
+
+R is a powerful programming language and environment widely used across fields from statistics and economics to psychology, biology, and more. It also provides a versatile analytical toolkit for business analysts and professionals working with data.
+
+The goal of this workshop is for our attendees to become acquainted with R to start their data analytics journey. Within this 1.5-hour workshop, we will cover:
+
+- R as calculator
+- Basic data types and structures
+- Reading data into R and exporting for external purposes
+- Basic data processing
+- Basic data visualization
+- Loops, functions, and conditional statements
+
+### What to prepare
+
+- Before the workshop, install R and RStudio on your laptop by following the 2-step guide at https://posit.co/download/rstudio-desktop/
+- On the workshop day, bring your own laptop to follow the workshop material closely and code along with us!
+
+## Speaker
+
+Patricia Puchhammer
+
+Patricia is a Postdoc researcher and lecturer in computational statistics at TU Wien. Throughout her studies in TU Wien, she has specialized in robust statistical methods for outlier detection. Prior to her doctoral work, she also worked as a data scientist at the Ludwig Boltzmann Institute for Lung Health, where she applied medical statistics.
+
+
+[RSVP via Meetup {{< fa brands meetup >}}](https://www.meetup.com/rladies-vienna/events/311284442){.btn .btn-outline-primary .rsvp}
