@@ -1,0 +1,53 @@
+---
+title: "Workshop -- Introduction to R (Part 2: Data manipulation and visualization)"
+date: "2025-12-03"
+categories: [Workshop]
+author: "Patricia Puchhammer"
+title-block-banner: true
+---
+
+![](202512.avif){fig-alt="Flyer for the R-Ladies Vienna December 2025 event. All information described is availablein the main text below."}
+
+## Date and Time
+
+Wednesday, {{< meta date >}}  
+6:00 PM - 7:30 PM CET
+
+## Venue
+
+Seminar room DA03A15 (Sem.R. DA grün 03 A)  
+3rd floor, green area  
+TU Wien Freihaus  
+Wiedner Hauptstraße 8-10, 1040 Vienna
+
+## About
+
+This is Part 2 of our Introduction to R workshop series. While this workshop builds on the previous one, **new participants are welcome to join us**! We will provide the materials from Part 1 for you to catch up.
+
+We welcome all genders and identities to attend our events at R-Ladies Vienna.
+
+### Abstract
+
+R is a powerful programming language and environment widely used across fields from statistics and economics to psychology, biology, and more. It provides a versatile analytical toolkit for anyone working with data.
+
+The goal of this workshop series is for our attendees to become acquainted with R to start their data analytics journey. In this follow-up session, we will focus on:
+
+- Data manipulation with the dplyr package
+- Data visualization with the ggplot2 package
+- Loops, functions, and conditional statements
+
+### What to prepare
+
+- Before the workshop, install R and RStudio on your laptop by following the 2-step guide at [https://posit.co/download/rstudio-desktop/](https://posit.co/download/rstudio-desktop/).
+- On the workshop day, bring your own laptop to follow the workshop material closely and code along with us!
+- (Optional) If you have a dataset you would like to analyze and visualize during the workshop, bring it along and apply the techniques to your data of interest.
+- (Optional) If you are new to the series, we will send you the link to the Part 1 materials upon registration. Take your time to review the topics we covered in Part 1 (Basic data types and structures, reading data into R and exporting from R, basic data processing and visualization with base R).
+
+## Speaker
+
+Patricia Puchhammer
+
+Patricia is a Postdoc researcher and lecturer in computational statistics at TU Wien. Throughout her studies in TU Wien, she has specialized in robust statistical methods for outlier detection. Prior to her doctoral work, she also worked as a data scientist at the Ludwig Boltzmann Institute for Lung Health, where she applied medical statistics.
+
+
+[RSVP via Meetup {{< fa brands meetup >}}](https://www.meetup.com/rladies-vienna/events/312094362){.btn .btn-outline-primary .rsvp}

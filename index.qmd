@@ -22,7 +22,7 @@ about:
 listing:
     - id: latest-event
       contents: 
-      - /events/202510/
+      - /events/202512/
       type: default
       fields: [image, title, date]
 ---

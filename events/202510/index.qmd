@@ -16,7 +16,7 @@ Wednesday, {{< meta date >}}
 ## Venue
 
 Seminar room DA03A15 (Sem.R. DA grün 03 A)  
-3rd floor, green area
+3rd floor, green area  
 TU Wien Freihaus  
 Wiedner Hauptstraße 8-10, 1040 Vienna
 
@@ -39,7 +39,7 @@ The goal of this workshop is for our attendees to become acquainted with R to st
 
 ### What to prepare
 
-- Before the workshop, install R and RStudio on your laptop by following the 2-step guide at https://posit.co/download/rstudio-desktop/
+- Before the workshop, install R and RStudio on your laptop by following the 2-step guide at [https://posit.co/download/rstudio-desktop/](https://posit.co/download/rstudio-desktop/).
 - On the workshop day, bring your own laptop to follow the workshop material closely and code along with us!
 
 ## Speaker
