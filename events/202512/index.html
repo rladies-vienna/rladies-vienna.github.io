@@ -6,8 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Patricia Puchhammer">
+<meta name="dcterms.date" content="2025-12-03">
 
-<title>R-Ladies Vienna</title>
+<title>Workshop – Introduction to R (Part 2: Data manipulation and visualization) – R-Ladies Vienna</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,27 +25,26 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<link href="./logo.png" rel="icon" type="image/png">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-0815c480559380816a4d1ea211a47e91.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-50b393b7bcfb3e9aff39938bc6eca822.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
-<link href="site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<link href="../../logo.png" rel="icon" type="image/png">
+<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-0815c480559380816a4d1ea211a47e91.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-50b393b7bcfb3e9aff39938bc6eca822.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
+<link href="../../site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -71,90 +72,28 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-latest-event .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
 
-    const options = {
-      valueNames: ['listing-image','listing-title','listing-date',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-latest-event'] = new List('listing-latest-event', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<meta property="og:title" content="R-Ladies Vienna">
+<meta property="og:title" content="Workshop – Introduction to R (Part 2: Data manipulation and visualization) – R-Ladies Vienna">
 <meta property="og:description" content="">
-<meta property="og:image" content="https://rladies-vienna.github.io/logo.png">
+<meta property="og:image" content="https://rladies-vienna.github.io/events/202512/202512.avif">
 <meta property="og:site_name" content="R-Ladies Vienna">
-<meta property="og:image:height" content="600">
-<meta property="og:image:width" content="518">
-<meta property="og:image:alt" content="R-Ladies Vienna logo">
-<meta name="twitter:title" content="R-Ladies Vienna">
+<meta property="og:image:alt" content="Flyer for the R-Ladies Vienna December 2025 event. All information described is availablein the main text below.">
+<meta name="twitter:title" content="Workshop – Introduction to R (Part 2: Data manipulation and visualization) – R-Ladies Vienna">
 <meta name="twitter:description" content="">
-<meta name="twitter:image" content="https://rladies-vienna.github.io/logo.png">
-<meta name="twitter:image-height" content="600">
-<meta name="twitter:image-width" content="518">
-<meta name="twitter:image:alt" content="R-Ladies Vienna logo">
+<meta name="twitter:image" content="https://rladies-vienna.github.io/events/202512/202512.avif">
+<meta name="twitter:image:alt" content="Flyer for the R-Ladies Vienna December 2025 event. All information described is availablein the main text below.">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
-<body class="nav-fixed home-page fullcontent quarto-light">
+<body class="nav-fixed fullcontent quarto-light">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top">
+  <header id="quarto-header" class="headroom fixed-top quarto-banner">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">R-Ladies<br>Vienna</span>
     </a>
   </div>
@@ -164,15 +103,15 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./about-us/index.html"> 
+    <a class="nav-link" href="../../about-us/index.html"> 
 <span class="menu-text">ABOUT US</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./join-us/index.html"> 
+    <a class="nav-link" href="../../join-us/index.html"> 
 <span class="menu-text">JOIN US</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./events/index.html"> 
+    <a class="nav-link" href="../../events/index.html"> 
 <span class="menu-text">EVENTS</span></a>
   </li>  
 </ul>
@@ -183,74 +122,90 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-body">
+      <h1 class="title">Workshop – Introduction to R (Part 2: Data manipulation and visualization)</h1>
+                                <div class="quarto-categories">
+                <div class="quarto-category">Workshop</div>
+              </div>
+                  </div>
+  </div>
+    
+  
+  <div class="quarto-title-meta">
+
+      <div>
+      <div class="quarto-title-meta-heading">Speaker</div>
+      <div class="quarto-title-meta-contents">
+               <p>Patricia Puchhammer </p>
+            </div>
+    </div>
+      
+      <div>
+      <div class="quarto-title-meta-heading">Event Date</div>
+      <div class="quarto-title-meta-contents">
+        <p class="date">3 December 2025</p>
+      </div>
+    </div>
+    
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content quarto-banner-title-block" id="quarto-document-content">
 
 
 
 
-<div class="quarto-about-jolla">
-  <img src="logo.png" alt="R-Ladies Vienna logo" class="about-image
-  rectangle " style="width: 12em;">
- <header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">R-Ladies Vienna</h1>
-</div>
-<div class="quarto-title-meta">
-  </div>
-</header><div id="hero-heading">
-<p><i class="fa-solid fa-location-dot" aria-label="location-dot"></i> Vienna, Austria</p>
-</div> 
-  <hr class="about-sep">
-   <div class="about-links">
-  <a href="https://linkedin.com/company/r-ladies-vienna/" class="about-link" rel="" target="">
-     <span class="about-link-text"><i class="fa-brands fa-linkedin" aria-label="linkedin"></i> LinkedIn</span>
-  </a>
-  <a href="https://mastodon.social/@RLadiesVienna" class="about-link" rel="me" target="">
-     <span class="about-link-text"><i class="fa-brands fa-mastodon" aria-label="mastodon"></i> Mastodon</span>
-  </a>
-  <a href="https://bsky.app/profile/rladies-vienna.github.io" class="about-link" rel="me" target="">
-     <span class="about-link-text"><i class="fa-brands fa-bluesky" aria-label="bluesky"></i> Bluesky</span>
-  </a>
-  <a href="https://www.meetup.com/rladies-vienna/" class="about-link" rel="" target="">
-     <span class="about-link-text"><i class="fa-brands fa-meetup" aria-label="meetup"></i> Meetup</span>
-  </a>
-</div>
-</div>
 
-<p>As a local chapter of R-Ladies Global, we promote gender diversity in the R community. We aim to provide a safe and inclusive community space for R enthusiasts and practitioners of all skill levels, prioritizing anyone identifying as a minority gender to achieve proportionate gender representation. 🌈</p>
-<section id="latest-event" class="level2">
-<h2 data-anchor-id="latest-event">Latest event</h2>
-<div id="listing-latest-event" class="quarto-listing quarto-listing-container-default">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="V29ya3Nob3A=" data-listing-date-sort="1764716400000" data-listing-file-modified-sort="1764244928380" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="364">
-<div class="thumbnail"><a href="./events/202512/index.html" class="no-external">
-
-<p class="card-img-top"><img src="events/202512/202512.avif" alt="Flyer for the R-Ladies Vienna December 2025 event. All information described is availablein the main text below."  class="thumbnail-image card-img"/></p>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./events/202512/index.html" class="no-external">Workshop – Introduction to R (Part 2: Data manipulation and visualization)</a>
-</h3>
-</div>
-<div class="metadata">
-<a href="./events/202512/index.html" class="no-external">
-<div class="listing-date">
-3 December 2025
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div>
-
-
+<p><img src="202512.avif" class="img-fluid" alt="Flyer for the R-Ladies Vienna December 2025 event. All information described is availablein the main text below."></p>
+<section id="date-and-time" class="level2">
+<h2 class="anchored" data-anchor-id="date-and-time">Date and Time</h2>
+<p>Wednesday, 3 December 2025<br>
+6:00 PM - 7:30 PM CET</p>
+</section>
+<section id="venue" class="level2">
+<h2 class="anchored" data-anchor-id="venue">Venue</h2>
+<p>Seminar room DA03A15 (Sem.R. DA grün 03 A)<br>
+3rd floor, green area<br>
+TU Wien Freihaus<br>
+Wiedner Hauptstraße 8-10, 1040 Vienna</p>
+</section>
+<section id="about" class="level2">
+<h2 class="anchored" data-anchor-id="about">About</h2>
+<p>This is Part 2 of our Introduction to R workshop series. While this workshop builds on the previous one, <strong>new participants are welcome to join us</strong>! We will provide the materials from Part 1 for you to catch up.</p>
+<p>We welcome all genders and identities to attend our events at R-Ladies Vienna.</p>
+<section id="abstract" class="level3">
+<h3 class="anchored" data-anchor-id="abstract">Abstract</h3>
+<p>R is a powerful programming language and environment widely used across fields from statistics and economics to psychology, biology, and more. It provides a versatile analytical toolkit for anyone working with data.</p>
+<p>The goal of this workshop series is for our attendees to become acquainted with R to start their data analytics journey. In this follow-up session, we will focus on:</p>
+<ul>
+<li>Data manipulation with the dplyr package</li>
+<li>Data visualization with the ggplot2 package</li>
+<li>Loops, functions, and conditional statements</li>
+</ul>
+</section>
+<section id="what-to-prepare" class="level3">
+<h3 class="anchored" data-anchor-id="what-to-prepare">What to prepare</h3>
+<ul>
+<li>Before the workshop, install R and RStudio on your laptop by following the 2-step guide at <a href="https://posit.co/download/rstudio-desktop/">https://posit.co/download/rstudio-desktop/</a>.</li>
+<li>On the workshop day, bring your own laptop to follow the workshop material closely and code along with us!</li>
+<li>(Optional) If you have a dataset you would like to analyze and visualize during the workshop, bring it along and apply the techniques to your data of interest.</li>
+<li>(Optional) If you are new to the series, we will send you the link to the Part 1 materials upon registration. Take your time to review the topics we covered in Part 1 (Basic data types and structures, reading data into R and exporting from R, basic data processing and visualization with base R).</li>
+</ul>
+</section>
+</section>
+<section id="speaker" class="level2">
+<h2 class="anchored" data-anchor-id="speaker">Speaker</h2>
+<p>Patricia Puchhammer</p>
+<p>Patricia is a Postdoc researcher and lecturer in computational statistics at TU Wien. Throughout her studies in TU Wien, she has specialized in robust statistical methods for outlier detection. Prior to her doctoral work, she also worked as a data scientist at the Ludwig Boltzmann Institute for Lung Health, where she applied medical statistics.</p>
+<p><a href="https://www.meetup.com/rladies-vienna/events/312094362" class="btn btn-outline-primary rsvp">RSVP via Meetup <i class="fa-brands fa-meetup" aria-label="meetup"></i></a></p>
 
 
 </section>
@@ -258,6 +213,13 @@ window.Quarto = {
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
     const isCodeAnnotation = (el) => {
       for (const clz of el.classList) {
         if (clz.startsWith('code-annotation-')) {                     
