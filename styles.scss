@@ -1,43 +1,38 @@
 /*-- scss:defaults --*/
 
 // Fonts
-//$font-family-sans-serif:    "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
-//$headings-font-weight: 400 !default;
+$headings-font-family: "Poppins", -apple-system, BlinkMacSystemFont, sans-serif;
+$font-family-sans-serif:  "Poppins", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+$headings-font-weight: 500;
 
 // Colours
-$darkblue: #1C6E8C;
-$darkrladies: #562457;
-$rladies: #88398a;
-$lightpurple: #C2B6C6;
-$lightpink: rgba(#DCA1A1, 0.7);
-$darkgray: #3A3B3C;   
-$cream: #FDFBF7;
-$primary: $lightpink;
-$secondary: $cream;
- 
+$darkrladies: scale-color(#881ef9, $lightness: -20%);
+$rladies: #881ef9;
+$altblack: #3A3B3C;
+$altwhite: #FDFBF7;
+$darkbg-hl: #ffff72;
+$lightbg-hl: #ffff72;//rgba(#C2B6C6, 0.5);
+
 // Base Colours
-$navbar-bg: $darkrladies;
-$navbar-fg: $cream; 
-$navbar-hl: $lightpink; 
-$body-bg: $cream;  
-$body-color: $darkgray; 
-$footer-bg: $cream; 
-$link-color: $lightpink; 
+$primary: $lightbg-hl;
+$secondary: $altwhite;
+$navbar-bg: $rladies;
+$navbar-fg: $altwhite;
+$navbar-hl: $darkbg-hl;
+$body-bg: $altwhite;
+$body-color: $altblack;
+$footer-bg: $altwhite;
+$link-color: $lightbg-hl;
+$url: $rladies;
 
 // Inline code
-$code-color: $rladies;
-
+$code-color: $darkrladies;
 
 /*-- scss:rules --*/
 
 // navigation bar ---------------------------------------------------------------------
-
-//.navbar-brand-container .navbar-brand:hover{
-//  background-color: $lightpurple !important;
-//  color: $darkgray;
-//}
 .navbar {
-  border-bottom: 1px solid $lightpink;
+  border-bottom: 1px solid $darkbg-hl;
 }
 
 .navbar-nav  .nav-link {
@@ -45,33 +40,19 @@ $code-color: $rladies;
 }
 
 .navbar-nav  .nav-link:hover {
-  background-color: $lightpurple !important; 
-  color: $darkgray;
-  border-radius: 0.5rem;
+  color: $darkbg-hl;
+  border-radius: 0.2rem;
 }
 
 // core-page -------------------------------------------------------------------
-
 .core-page .title {
   text-transform: uppercase;
 }
 
 .core-page.quarto-title-banner h1{
-  color: $cream;
-  font-weight: 400 !important;
+  color: $altwhite;
+  font-weight: 400;// !important;
 }
-
-//.core-page .quarto-title-banner .quarto-title .quarto-categories .quarto-category a{
-//  border-color: rgba($cream, 0.5);
-//  color: $cream;
-//}
-
-//.core-page .quarto-title-banner .quarto-title .quarto-categories .quarto-category:hover {
-//  border-color: rgba($lightpink, 0.5);
-//  a {
-//    color: $lightpink;
-//  }
-//}
 
 .home-page h2{
   border-bottom: none;
@@ -83,7 +64,7 @@ $code-color: $rladies;
 h1 {
   letter-spacing: 1px;
   border-bottom: none;
-  color: $darkrladies;
+  color: $rladies;
 }
 
 h2{
@@ -96,84 +77,33 @@ h3{
 
 a {
   text-decoration-style: solid;
-  color: $darkblue; 
-}  
+  color:  $url;
+}
 
 a:hover {
-    color: $lightpurple; 
+    color: $lightbg-hl;
 }
 
 p a:hover {
-  background-color: $lightpurple; 
-  color:$darkgray; 
+  color:$altblack;
+  background-color: #ffff72;
 }
 
 .anchorjs-link {
   display: none;
-//  color: $lightpurple;
 }
 
 .center-align{
   text-align: center;
 }
 
-// EVENTS ------------------------------------------------------------------
-
-.listing a:hover,
+// listings ------------------------------------------------------------------
 .listing-title a:hover,
 .listing-item a:hover {
-  color: $lightpurple !important;
+  color: $rladies; //$lightbg-hl !important;
 }
-
-.cateogry a:hover{
-  color: $lightpink !important;  
-}
-
-// EVENTS pagination ------------------------------------------------------------------
-
-.pagination .page-item .page-link {
-  color: $rladies;
-  background-color: $cream;
-  border-color: $rladies;
-  border: 2px solid;
-}
-
-.pagination .page-item .page-link:hover {
-  color: $darkgray;
-  background-color: $lightpurple;
-  border-color: $lightpurple;
-}
-
-.pagination .page-item.active .page-link {
-  color: #ffffff;
-  background-color: $lightpink;
-  border-color: $lightpink;
-}
-
-
-// EVENTS categories ------------------------------------------------------------
-.quarto-title .quarto-categories .quarto-category:hover {
-  border-color: rgba($lightpink, 0.3);
-  a {
-    color: $lightpink;
-  }
-}
-
-.quarto-grid-item {
-  border: 1px solid;
-  
-  &:hover {
-  border-color: $lightpurple;
-  }
-}
-
-.quarto-listing-category .category:hover {
-  background-color: $lightpurple;
-}
-
 
 // buttons ---------------------------------------------------------------------
-
 .btn{
 //  border-radius: 0.5rem;
   border: 1px solid $rladies;
@@ -182,27 +112,27 @@ p a:hover {
   font-weight: 400;
   flex: 1;
   min-width: 200px;
-  
+
   &:hover,
   &:focus,
   &:active {
-    border-color: $darkgray; 
-    background-color: $lightpurple;
-    color: $darkgray; 
+    border-color: $altblack;
+    background-color: $lightbg-hl;
+    color: $altblack;
     font-weight: 500;
   }
 }
 
 .about-link{
-    border: 1px solid $rladies !important;
-    color: $rladies!important;
-    
+  border: 1px solid $rladies !important;
+  color: $rladies!important;
+
   &:hover,
   &:focus,
   &:active {
-    border-color: $darkgray; 
-    background-color: $lightpurple;
-    color: $darkgray!important; 
+    border-color: $altblack;
+    background-color: $lightbg-hl;
+    color: $altblack!important;
     font-weight: 500;
   }
 }
@@ -210,29 +140,87 @@ p a:hover {
 .social-btn-group {
   display: flex;
   gap: 1rem;
-  flex-wrap: wrap;  
+  flex-wrap: wrap;
 }
 
 .rsvp{
-  margin-top: 2rem; 
+  margin-top: 2rem;
   width: 100%;
   font-weight: 700;
 }
 
+// EVENTS cards -----------------------------------------------------------------------
+.quarto-grid-item {
+  border: 1px solid;
+
+  &:hover {
+    border-color: $rladies;
+    color: $rladies;
+  }
+}
+
+// EVENTS category filter -------------------------------------------------------------
+.quarto-listing-category .category:hover {
+  color: $rladies;
+  //background-color: $lightbg-hl;
+}
+
+.quarto-listing-category .category.active {
+  color: $rladies;
+  font-weight: 600;
+}
+
+// EVENTS category pills (on individual event pages) ----------------------------------
+.quarto-title .quarto-categories .quarto-category{//}:hover {
+  border-color: $altwhite;
+  a {
+    font-size: 0.7rem;
+    font-weight: 500;
+    color: $altwhite;
+  }
+
+  &:hover {
+    border-color: $altwhite;
+    background-color: $darkbg-hl;
+    a {
+      color: $rladies;
+    }
+  }
+}
+
+// EVENTS pagination ------------------------------------------------------------------
+
+.pagination .page-item .page-link {
+  color: $rladies;
+  background-color: $altwhite;
+  border: 2px solid $rladies;
+}
+
+.pagination .page-item .page-link:hover {
+  color: $altblack;
+  background-color: $lightbg-hl;
+  border-color: $lightbg-hl;
+}
+
+.pagination .page-item.active .page-link {
+  color: $altwhite;
+  background-color: $rladies;
+  border-color: $lightbg-hl;
+}
 
 // footer ---------------------------------------------------------------------
 footer {
-  color: $darkgray;
+  color: $altblack;
   a {
     text-decoration: none;
   }
-  
+
   p a:hover {
-    background-color: transparent; 
-    color: $lightpurple;
+    background-color: transparent;
+    color: $altblack;
   }
-    
+
   .fa-brands {
-    margin-left: 0.3rem; 
+    margin-left: 0.3rem;
   }
 }

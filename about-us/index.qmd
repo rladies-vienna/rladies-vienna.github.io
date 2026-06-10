@@ -4,23 +4,27 @@ title-block-banner: true
 body-classes: core-page
 ---
 
-## Our Mission
+## Our mission
 
-[R-Ladies Vienna]{.rladies-text} is a non-profit organization and a local chapter of [R-Ladies Global](https://rladies.org). We promote gender diversity in the R community worldwide, with a mission to achieve proportionate representation of genders currently underrepresented.
+R-Ladies+ Vienna is a Vienna-based non-profit organization and a local chapter of [R-Ladies+ Global](https://rladies.org), with a mission to achieve proportionate representation of genders currently underrepresented in the R community.
 
-We organize regular events and meetups in-person and/or online to connect with the community. Our priority is to provide a safe and inclusive community space for anyone identifying as a minority gender who is interested in and/or working with R, and at the same time welcome all identities to participate in our events.
+Our priority is to provide a safe space for anyone identifying as a minority gender, while welcoming all identities to participate in our inclusive events. We welcome R users of all proficiency levels and from all backgrounds, including students, self-taught learners, industry professionals, and researchers.
 
-We welcome members of all R proficiency levels, from new aspiring R users to experienced R programmers interested in mentoring, networking and expert upskilling. Our community is designed to develop our members' R skills and knowledge through social, collaborative learning and sharing. We support the access of minority identities to STEM skills and careers, the Free Software Movement, and contributing to the global R community!
+As a founding principle, there is no cost to participate in R-Ladies+ communities around the world.
 
-## Participation Guideline
+## What we do
 
-We follow the [code of conduct](https://rladies.org/coc/) and [community guidelines](https://guide.rladies.org/about/mission/#r-ladies-rules--guidelines) of R-Ladies Global. 
+We organize regular events and meetups in person or online to connect with the community, strengthen our members' R skills, and share knowledge. These include:
 
-The leadership, mentoring & teaching roles within this Community are held exclusively by minority genders, with learning participation opened to all genders. Anyone involved with R-Ladies Vienna is expected to fully respect each other, the mandate of this community, and the goodwill on which R-Ladies is founded.
+- Talks and discussions on R usage and applications
+- Hands-on workshops
+- Social and networking events
 
-As a founding principle, there is no cost or charge to participate in any of the R-Ladies communities around the world.
+## Community guidelines
 
-## Media use
+We are dedicated to providing a safe and inclusive community space for everyone. We follow the [R-Ladies+ Global code of conduct](https://rladies.org/coc/).
 
-Please note that by taking part in an R-Ladies event you grant the community organizers full rights to use the images resulting from the photography/video filming/media, and any reproductions or adaptations of the images for publicity, fundraising or other purposes to help achieve the community's aims. This might include (but is not limited to), the right to use them in their printed and online publicity, social media, press releases and funding applications. If you do not wish to be recorded in these media. please inform a community organizer.
 
+## A note on photos and videos
+
+We may take photos or short videos at events to share what our community is up to. By attending, you give the community organizers permission to use these images for publicity, fundraising, or other purposes to help achieve the community's aims. If you do not wish to be recorded in these media, please inform a community organizer.

@@ -1,12 +1,12 @@
 ---
-title: "Get Involved"
+title: "Get involved"
 title-block-banner: true
 body-classes: core-page
 ---
 
-## Join our community
+## Come to an event
 
-Following the practice of the R-Ladies+ Global, we manage event registration through the Meetup platform. If you are interested in attending our events, please join our Meetup group and RSVP at the corresponding event pages.
+Following the practice of R-Ladies+ Global, we manage event registration through the Meetup platform. If you are interested in attending our events, please join our Meetup group and RSVP on the corresponding event pages.
 
 While we prioritize the representation of gender minorities in our community, we welcome all identities to participate in our events.
 
@@ -14,12 +14,12 @@ While we prioritize the representation of gender minorities in our community, we
 
 ## Stay connected
 
-We post regular updates on the channels below. Follow us on whichever platform you prefer:
+We post regular updates on the channels below. Follow us on your preferred platform:
 
 ::: social-btn-group
 [{{< fa brands linkedin >}} LinkedIn](https://linkedin.com/company/r-ladies-vienna/){.btn .btn-outline-primary}
 
-[{{< fa brands mastodon >}} Mastodon](https://mastodon.social/@RLadiesVienna){.btn .btn-outline-primary}
+[{{< fa brands mastodon >}} Mastodon](https://fosstodon.org/@RLadiesVienna){.btn .btn-outline-primary}
 
 [{{< fa brands bluesky >}} Bluesky](https://bsky.app/profile/rladies-vienna.github.io){.btn .btn-outline-primary}
 :::

@@ -1,0 +1,40 @@
+---
+title: "HePriceR: An R Package for Health Insurance"
+date: "2026-06-10"
+categories: [Applied statistics, Probabilistic modeling, Actuarial Science, R packages]
+author: "Eva Flonner"
+title-block-banner: true
+---
+
+![](202606.avif){fig-alt="Flyer for the R-Ladies+ Vienna June 2026 event. All information described is availablein the main text below."}
+
+## Date and Time
+
+Wednesday, {{< meta date >}}  
+6:00 PM - 7:30 PM CEST  
+
+## Venue
+
+Seminar Room DC red 07 / Sem.R. DC rot 07  
+7th floor, red area  
+TU Wien Freihaus  
+Wiedner Hauptstraße 8-10, 1040 Vienna  
+
+## About
+
+We are pleased to welcome Eva Flonner from UNIQA Insurance Group to present an R package for health insurance. Join us to explore how R can be put to work in actuarial practice, from data to modeling to simulation.
+
+### Abstract
+
+`HePriceR` is an R package for health insurance pricing that provides a framework for modeling expected claims and their uncertainty. The package consolidates classical actuarial approaches with modern statistical modeling, enabling transparent, reproducible, and extensible actuarial workflows.
+
+The core focus of `HePriceR` lies in the estimation of expected claims and their uncertainty. It implements multiple methodological approaches, including the Rusam method for expected claims, as well as comprehensive frequency–severity modeling. The package further provides technical implementations for common product design features, such as deductibles, sublimits, and benefit caps, ensuring that modeled claim distributions align with contractual reality. From a software design perspective, `HePriceR` relies on a structured system of S3 classes and methods, including dedicated `hpr_pricing_data` objects and corresponding fit objects. This design enables consistent handling of data, fitted models, diagnostics, and downstream simulation. On top of the fitted models, the package offers Monte Carlo simulation capabilities. Overall, `HePriceR` provides a cohesive actuarial toolkit that bridges actuarial methodology and statistical modeling, supporting both daily operations and advanced analytical use cases. This package is based on joint work with Herr Kompott.
+
+## Speaker
+
+Eva Flonner
+
+Eva earned her PhD in Mathematics in Economics and Business from WU Vienna in 2025, where her dissertation on neural stochastic differential equations and stochastic filtering in finance was awarded the Dr. Maria Schaumayer prize. Furthermore, she gratefully reveiced funding for research within the Post-DocTrack program of the Austrian Academy of Sciences (OeAW). She is currently employed at UNIQA Insurance Group, where she is involved in the development of R packages for actuarial task automation in health insurance.
+
+
+[RSVP via Meetup {{< fa brands meetup >}}](https://www.meetup.com/rladies-vienna/events/314673305){.btn .btn-outline-primary .rsvp}
