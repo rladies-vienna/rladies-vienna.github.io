@@ -6,9 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="dcterms.date" content="2024-03-13">
+<meta name="author" content="Eva Flonner">
+<meta name="dcterms.date" content="2026-06-10">
 
-<title>Workshop - Introduction to R - Part 2 – R-Ladies+ Vienna</title>
+<title>HePriceR: An R Package for Health Insurance – R-Ladies+ Vienna</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -79,15 +80,15 @@ ul.task-list li input[type="checkbox"] {
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&amp;display=swap" rel="stylesheet">
 
 
-<meta property="og:title" content="Workshop - Introduction to R - Part 2 – R-Ladies+ Vienna">
+<meta property="og:title" content="HePriceR: An R Package for Health Insurance – R-Ladies+ Vienna">
 <meta property="og:description" content="">
-<meta property="og:image" content="https://rladies-vienna.github.io/events/202403/202403.avif">
+<meta property="og:image" content="https://rladies-vienna.github.io/events/202606/202606.avif">
 <meta property="og:site_name" content="R-Ladies+ Vienna">
-<meta property="og:image:alt" content="Flyer for the R-Ladies Vienna March 2024 event. All information described is available in the main text below.">
-<meta name="twitter:title" content="Workshop - Introduction to R - Part 2 – R-Ladies+ Vienna">
+<meta property="og:image:alt" content="Flyer for the R-Ladies+ Vienna June 2026 event. All information described is availablein the main text below.">
+<meta name="twitter:title" content="HePriceR: An R Package for Health Insurance – R-Ladies+ Vienna">
 <meta name="twitter:description" content="">
-<meta name="twitter:image" content="https://rladies-vienna.github.io/events/202403/202403.avif">
-<meta name="twitter:image:alt" content="Flyer for the R-Ladies Vienna March 2024 event. All information described is available in the main text below.">
+<meta name="twitter:image" content="https://rladies-vienna.github.io/events/202606/202606.avif">
+<meta name="twitter:image:alt" content="Flyer for the R-Ladies+ Vienna June 2026 event. All information described is availablein the main text below.">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
@@ -130,9 +131,12 @@ ul.task-list li input[type="checkbox"] {
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-body">
-      <h1 class="title">Workshop - Introduction to R - Part 2</h1>
+      <h1 class="title">HePriceR: An R Package for Health Insurance</h1>
                                 <div class="quarto-categories">
-                <div class="quarto-category">Workshop</div>
+                <div class="quarto-category">Applied statistics</div>
+                <div class="quarto-category">Probabilistic modeling</div>
+                <div class="quarto-category">Actuarial Science</div>
+                <div class="quarto-category">R packages</div>
               </div>
                   </div>
   </div>
@@ -140,11 +144,17 @@ ul.task-list li input[type="checkbox"] {
   
   <div class="quarto-title-meta">
 
+      <div>
+      <div class="quarto-title-meta-heading">Speaker</div>
+      <div class="quarto-title-meta-contents">
+               <p>Eva Flonner </p>
+            </div>
+    </div>
       
       <div>
       <div class="quarto-title-meta-heading">Event Date</div>
       <div class="quarto-title-meta-contents">
-        <p class="date">13 March 2024</p>
+        <p class="date">10 June 2026</p>
       </div>
     </div>
     
@@ -163,29 +173,33 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<p><img src="202403.avif" class="img-fluid" alt="Flyer for the R-Ladies Vienna March 2024 event. All information described is available in the main text below."></p>
+<p><img src="202606.avif" class="img-fluid" alt="Flyer for the R-Ladies+ Vienna June 2026 event. All information described is availablein the main text below."></p>
 <section id="date-and-time" class="level2">
 <h2 class="anchored" data-anchor-id="date-and-time">Date and Time</h2>
-<p>Wednesday, 13 March 2024<br>
-5:30 PM - 7:00 PM CET</p>
+<p>Wednesday, 10 June 2026<br>
+6:00 PM - 7:30 PM CEST</p>
 </section>
 <section id="venue" class="level2">
 <h2 class="anchored" data-anchor-id="venue">Venue</h2>
-<p>TU Wien - Seminarraum 107/1 (im ehem. “Goldenen Lamm”)<br>
-Wiedner Hauptstraße 7, 1040 Vienna</p>
+<p>Seminar Room DC red 07 / Sem.R. DC rot 07<br>
+7th floor, red area<br>
+TU Wien Freihaus<br>
+Wiedner Hauptstraße 8-10, 1040 Vienna</p>
 </section>
 <section id="about" class="level2">
 <h2 class="anchored" data-anchor-id="about">About</h2>
-<p>To complete topics that we did not manage to fit into the first workshop, we will host the second part of the Introduction to R Workshop in our next Meetup. This time we will cover:</p>
-<ul>
-<li>Reading in data</li>
-<li>Basic data visualization</li>
-<li>R packages</li>
-<li>R Markdown for writing reports</li>
-</ul>
-<p>The workshop is open to everyone, in particular also if you did not make it to the first part! To catch up you can look at the first few sections of the workshop material prepared by Pia: Intro to R (up to the Data Structures section) or you could read through the Getting Started section of <a href="https://moderndive.netlify.app/1-getting-started.html">ModernDive</a>.</p>
-<p>As before, we recommend you bring your own laptop where you have <a href="https://cran.r-project.org/">R</a> and <a href="https://www.rstudio.com/products/rstudio/download/">RStudio</a> installed. In case you want to install <a href="https://rmarkdown.rstudio.com">R Markdown</a>, you can follow the instructions from <a href="https://bookdown.org/yihui/rmarkdown/installation.html">R Markdown: The Definitive Guide</a>.</p>
-<p><a href="https://www.meetup.com/rladies-vienna/events/299331598" class="btn btn-outline-primary rsvp">RSVP via Meetup <i class="fa-brands fa-meetup" aria-label="meetup"></i></a></p>
+<p>We are pleased to welcome Eva Flonner from UNIQA Insurance Group to present an R package for health insurance. Join us to explore how R can be put to work in actuarial practice, from data to modeling to simulation.</p>
+<section id="abstract" class="level3">
+<h3 class="anchored" data-anchor-id="abstract">Abstract</h3>
+<p><code>HePriceR</code> is an R package for health insurance pricing that provides a framework for modeling expected claims and their uncertainty. The package consolidates classical actuarial approaches with modern statistical modeling, enabling transparent, reproducible, and extensible actuarial workflows.</p>
+<p>The core focus of <code>HePriceR</code> lies in the estimation of expected claims and their uncertainty. It implements multiple methodological approaches, including the Rusam method for expected claims, as well as comprehensive frequency–severity modeling. The package further provides technical implementations for common product design features, such as deductibles, sublimits, and benefit caps, ensuring that modeled claim distributions align with contractual reality. From a software design perspective, <code>HePriceR</code> relies on a structured system of S3 classes and methods, including dedicated <code>hpr_pricing_data</code> objects and corresponding fit objects. This design enables consistent handling of data, fitted models, diagnostics, and downstream simulation. On top of the fitted models, the package offers Monte Carlo simulation capabilities. Overall, <code>HePriceR</code> provides a cohesive actuarial toolkit that bridges actuarial methodology and statistical modeling, supporting both daily operations and advanced analytical use cases. This package is based on joint work with Herr Kompott.</p>
+</section>
+</section>
+<section id="speaker" class="level2">
+<h2 class="anchored" data-anchor-id="speaker">Speaker</h2>
+<p>Eva Flonner</p>
+<p>Eva earned her PhD in Mathematics in Economics and Business from WU Vienna in 2025, where her dissertation on neural stochastic differential equations and stochastic filtering in finance was awarded the Dr.&nbsp;Maria Schaumayer prize. Furthermore, she gratefully reveiced funding for research within the Post-DocTrack program of the Austrian Academy of Sciences (OeAW). She is currently employed at UNIQA Insurance Group, where she is involved in the development of R packages for actuarial task automation in health insurance.</p>
+<p><a href="https://www.meetup.com/rladies-vienna/events/314673305" class="btn btn-outline-primary rsvp">RSVP via Meetup <i class="fa-brands fa-meetup" aria-label="meetup"></i></a></p>
 
 
 </section>
