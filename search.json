@@ -4,14 +4,14 @@
     "href": "about-us/index.html",
     "title": "About us",
     "section": "",
-    "text": "R-Ladies+ Vienna is a Vienna-based non-profit organization and a local chapter of R-Ladies+ Global, with a mission to achieve proportionate representation of genders currently underrepresented in the R community.\nOur priority is to provide a safe space for anyone identifying as a minority gender, while welcoming all identities to participate in our inclusive events. We welcome R users of all proficiency levels and from all backgrounds, including students, self-taught learners, industry professionals, and researchers.\nAs a founding principle, there is no cost to participate in R-Ladies+ communities around the world."
+    "text": "RLadies+ Vienna is a Vienna-based non-profit organization and a local chapter of RLadies+ Global, with a mission to achieve proportionate representation of genders currently underrepresented in the R community.\nOur priority is to provide a safe space for anyone identifying as a minority gender, while welcoming all identities to participate in our inclusive events. We welcome R users of all proficiency levels and from all backgrounds, including students, self-taught learners, industry professionals, and researchers.\nAs a founding principle, there is no cost to participate in R-Ladies+ communities around the world."
   },
   {
     "objectID": "about-us/index.html#our-mission",
     "href": "about-us/index.html#our-mission",
     "title": "About us",
     "section": "",
-    "text": "R-Ladies+ Vienna is a Vienna-based non-profit organization and a local chapter of R-Ladies+ Global, with a mission to achieve proportionate representation of genders currently underrepresented in the R community.\nOur priority is to provide a safe space for anyone identifying as a minority gender, while welcoming all identities to participate in our inclusive events. We welcome R users of all proficiency levels and from all backgrounds, including students, self-taught learners, industry professionals, and researchers.\nAs a founding principle, there is no cost to participate in R-Ladies+ communities around the world."
+    "text": "RLadies+ Vienna is a Vienna-based non-profit organization and a local chapter of RLadies+ Global, with a mission to achieve proportionate representation of genders currently underrepresented in the R community.\nOur priority is to provide a safe space for anyone identifying as a minority gender, while welcoming all identities to participate in our inclusive events. We welcome R users of all proficiency levels and from all backgrounds, including students, self-taught learners, industry professionals, and researchers.\nAs a founding principle, there is no cost to participate in R-Ladies+ communities around the world."
   },
   {
     "objectID": "about-us/index.html#what-we-do",
@@ -25,7 +25,7 @@
     "href": "about-us/index.html#community-guidelines",
     "title": "About us",
     "section": "Community guidelines",
-    "text": "Community guidelines\nWe are dedicated to providing a safe and inclusive community space for everyone. We follow the R-Ladies+ Global code of conduct."
+    "text": "Community guidelines\nWe are dedicated to providing a safe and inclusive community space for everyone. We follow the RLadies+ Global code of conduct."
   },
   {
     "objectID": "about-us/index.html#a-note-on-photos-and-videos",
@@ -343,347 +343,116 @@
     "text": "Speaker\nPatricia Puchhammer\nPatricia is a Postdoc researcher and lecturer in computational statistics at TU Wien. Throughout her studies in TU Wien, she has specialized in robust statistical methods for outlier detection. Prior to her doctoral work, she also worked as a data scientist at the Ludwig Boltzmann Institute for Lung Health, where she applied medical statistics.\nRSVP via Meetup"
   },
   {
-    "objectID": "events/201911/index.html",
-    "href": "events/201911/index.html",
-    "title": "Joint November Event: RLadies Vienna x Vienna<-R",
-    "section": "",
-    "text": "Friday, 29 November 2019\n6:00 PM - 8:00 PM CET"
-  },
-  {
-    "objectID": "events/201911/index.html#date-and-time",
-    "href": "events/201911/index.html#date-and-time",
-    "title": "Joint November Event: RLadies Vienna x Vienna<-R",
-    "section": "",
-    "text": "Friday, 29 November 2019\n6:00 PM - 8:00 PM CET"
-  },
-  {
-    "objectID": "events/201911/index.html#venue",
-    "href": "events/201911/index.html#venue",
-    "title": "Joint November Event: RLadies Vienna x Vienna<-R",
-    "section": "Venue",
-    "text": "Venue\nRaiffeisen Bank International - “Skyroom”\nAm Stadtpark 9, 1030 Vienna"
-  },
-  {
-    "objectID": "events/201911/index.html#about",
-    "href": "events/201911/index.html#about",
-    "title": "Joint November Event: RLadies Vienna x Vienna<-R",
-    "section": "About",
-    "text": "About\nWe are happy to announce Achim Zeileis and Joel Gotsch for our next joint event with the ViennaR meetup group.\nTopics:\n\nAchim Zeileis: Distributional Regression Forests for Probabilistic Modeling and Forecasting\nJoel Gotsch: Dynamic FX Margin Optimization\n\nAfter the talks you are invited to join the networking session with refreshments provided by our host Raiffeisen Bank International.\nSee you soon!"
-  },
-  {
-    "objectID": "events/201911/index.html#speakers",
-    "href": "events/201911/index.html#speakers",
-    "title": "Joint November Event: RLadies Vienna x Vienna<-R",
-    "section": "Speakers:",
-    "text": "Speakers:\nAchim Zeileis, Joel Gotsch\nRSVP via Meetup"
-  },
-  {
-    "objectID": "events/202305/index.html#date-and-time",
-    "href": "events/202305/index.html#date-and-time",
-    "title": "Joint May Event: RLadies Vienna x Vienna<-R",
+    "objectID": "events/202610/index.html#date-and-time",
+    "href": "events/202610/index.html#date-and-time",
+    "title": "Making Data Speak: Static and Interactive Plots in R",
     "section": "Date and Time",
-    "text": "Date and Time\nWednesday, 24 May 2023\n6:00 PM - 8:00 PM CEST"
+    "text": "Date and Time\nWednesday, 28 October 2026\n6:00 PM - 7:30 PM CET"
   },
   {
-    "objectID": "events/202305/index.html#venue",
-    "href": "events/202305/index.html#venue",
-    "title": "Joint May Event: RLadies Vienna x Vienna<-R",
+    "objectID": "events/202610/index.html#venue",
+    "href": "events/202610/index.html#venue",
+    "title": "Making Data Speak: Static and Interactive Plots in R",
+    "section": "Venue",
+    "text": "Venue\nSeminar Room DB yellow 09 / Sem.R. DB gelb 09\n9th floor, yellow area\nTU Wien Freihaus\nWiedner Hauptstraße 8-10, 1040 Vienna"
+  },
+  {
+    "objectID": "events/202610/index.html#about",
+    "href": "events/202610/index.html#about",
+    "title": "Making Data Speak: Static and Interactive Plots in R",
+    "section": "About",
+    "text": "About\nJust like last year, we are welcoming the new academic year with a hands-on introduction to R, this time with a focus on data visualization. As we promote gender diversity and inclusion in the R community, all genders and skill levels in R are welcome!\n\nAbstract\nThis is a hands-on introduction to data visualization in R for beginners. You’ll learn how to prepare your data for plotting, create clear and attractive graphics with the R package ggplot2, and add interactive features using the plotly package.\n\n\nWhat to prepare\n\nBefore the workshop, install R and RStudio on your laptop by following the 2-step guide at https://posit.co/download/rstudio-desktop/.\nOn the workshop day, bring your own laptop to follow the workshop material closely and code along with us!\n(Optional) Bring a dataset you would like to work with"
+  },
+  {
+    "objectID": "events/202610/index.html#speaker",
+    "href": "events/202610/index.html#speaker",
+    "title": "Making Data Speak: Static and Interactive Plots in R",
+    "section": "Speaker",
+    "text": "Speaker\nPatricia Puchhammer\nPatricia is a Postdoc researcher and lecturer in computational statistics at TU Wien. Throughout her studies in TU Wien, she has specialized in robust statistical methods for outlier detection. Prior to her doctoral work, she also worked as a data scientist at the Ludwig Boltzmann Institute for Lung Health, where she applied medical statistics.\nRSVP via Meetup"
+  },
+  {
+    "objectID": "events/202304/index.html#date-and-time",
+    "href": "events/202304/index.html#date-and-time",
+    "title": "Switching between space and time: Spatio-temporal analysis with cubble",
+    "section": "Date and Time",
+    "text": "Date and Time\nWednesday, 26 April 2023\n6:00 PM - 7:30 PM CEST"
+  },
+  {
+    "objectID": "events/202304/index.html#venue",
+    "href": "events/202304/index.html#venue",
+    "title": "Switching between space and time: Spatio-temporal analysis with cubble",
     "section": "Venue",
     "text": "Venue\nTU Wien - Seminarraum 107/1 (im ehem. “Goldenen Lamm”)\nWiedner Hauptstraße 7, 1040 Vienna"
   },
   {
-    "objectID": "events/202305/index.html#about",
-    "href": "events/202305/index.html#about",
-    "title": "Joint May Event: RLadies Vienna x Vienna<-R",
+    "objectID": "events/202304/index.html#about",
+    "href": "events/202304/index.html#about",
+    "title": "Switching between space and time: Spatio-temporal analysis with cubble",
     "section": "About",
-    "text": "About\nWe are happy to announce Bettina Grün and Benjamin Schwendinger as the speakers for our next joint event with the ViennaR meetup group!\nBenjamin Schwendinger will talk about the data.table package, which is a widely used, high-performance extension of base R’s data.frame. In this talk, we will cover the latest development steps of the package over the last few years. We will also shed light on how data.table gains its speed and how useRs can ensure that it is used to its full potential.\nBettina Grün will be giving a talk on R Packages, walking us through important guidelines for extending R with packages. This talk will be interesting for R package developers and useRs alike."
+    "text": "About\nOur next meetup will take place live at TU Wien. Our speaker is Sherry Zhang who is visiting from Australia. She will introduce us to the cubble package and walk us through how we can work with spatial data and temporal data in R, and how we can more easily combine the two using cubble.\n\nAbstract\nWeather data have a spatial component given by the station coordinates and a temporal component that provides measurements on precipitation, maximum and minimum temperature. This will be a hand-on session to work with weather station data. We will use the package sf to work on the spatial side to generate some maps and the package tsibble to conduct some exploratory data analysis on the temporal side. One way to communicate space and time information together is through a glyph map where temporal coordinates are transformed into space. We will create the glyph map with the ggplot geom: geom_glyph(). Lastly, we will experiment with a new data structure, cubble, to arrange spatio-temporal data."
   },
   {
-    "objectID": "events/202305/index.html#speaker",
-    "href": "events/202305/index.html#speaker",
-    "title": "Joint May Event: RLadies Vienna x Vienna<-R",
+    "objectID": "events/202304/index.html#speaker",
+    "href": "events/202304/index.html#speaker",
+    "title": "Switching between space and time: Spatio-temporal analysis with cubble",
     "section": "Speaker",
-    "text": "Speaker\nBettina Grün, Benjamin Schwendinger\nRSVP via Meetup"
+    "text": "Speaker\nSherry Zhang\nSherry is a final year PhD student in the Department of Econometrics and Business Statistics at Monash University, Australia. Her research focuses on exploring multivariate and spatio-temporal data with visual and exploratory data analysis tools.\nRSVP via Meetup"
   },
   {
-    "objectID": "events/202502/index.html#date-and-time",
-    "href": "events/202502/index.html#date-and-time",
-    "title": "Cluster analysis in R",
-    "section": "Date and Time",
-    "text": "Date and Time\nThursday, 20 February 2025\n6:00 PM - 7:30 PM CET"
-  },
-  {
-    "objectID": "events/202502/index.html#venue",
-    "href": "events/202502/index.html#venue",
-    "title": "Cluster analysis in R",
-    "section": "Venue",
-    "text": "Venue\nTU Wien, Freihaus - Seminarraum DA grün 04 (DA04E10)\nWiedner Hauptstraße 8-10 · Vienna"
-  },
-  {
-    "objectID": "events/202502/index.html#about",
-    "href": "events/202502/index.html#about",
-    "title": "Cluster analysis in R",
-    "section": "About",
-    "text": "About\nIn our next meetup we will welcome Theresa Scharl-Hirsch for an introduction to cluster analysis and validation in R. Bring along your laptop to follow the presented examples and for some hands-on exercises!\nCluster analysis groups data based on similarities without relying on predefined labels, making it valuable in marketing, healthcare, social media and fraud detection. Unlike classification, which uses labelled data to assign data points to predefined categories, clustering works with unlabelled data to reveal hidden patterns.\nCluster validation ensures that the groups identified are meaningful using metrics such as compactness and separation, while visualisation tools such as scatter plots and dendrograms help to interpret the results. Common methods such as K-means, hierarchical clustering and model-based approaches are tailored to different data structures and objectives."
-  },
-  {
-    "objectID": "events/202502/index.html#speaker",
-    "href": "events/202502/index.html#speaker",
-    "title": "Cluster analysis in R",
-    "section": "Speaker",
-    "text": "Speaker\nTheresa Scharl-Hirsch\nRSVP via Meetup"
-  },
-  {
-    "objectID": "events/201905-b/index.html",
-    "href": "events/201905-b/index.html",
-    "title": "Extending R with Packages with Bettina Grün",
+    "objectID": "events/201905-a/index.html",
+    "href": "events/201905-a/index.html",
+    "title": "Joint Event: Women in Tech Initiatives Meetup @PyDays",
     "section": "",
-    "text": "Friday, 24 May 2019\n5:00 PM - 7:00 PM CEST"
+    "text": "Friday, 3 May 2019\n4:00 PM - 5:00 PM CEST"
   },
   {
-    "objectID": "events/201905-b/index.html#date-and-time",
-    "href": "events/201905-b/index.html#date-and-time",
-    "title": "Extending R with Packages with Bettina Grün",
+    "objectID": "events/201905-a/index.html#date-and-time",
+    "href": "events/201905-a/index.html#date-and-time",
+    "title": "Joint Event: Women in Tech Initiatives Meetup @PyDays",
     "section": "",
-    "text": "Friday, 24 May 2019\n5:00 PM - 7:00 PM CEST"
+    "text": "Friday, 3 May 2019\n4:00 PM - 5:00 PM CEST"
   },
   {
-    "objectID": "events/201905-b/index.html#venue",
-    "href": "events/201905-b/index.html#venue",
-    "title": "Extending R with Packages with Bettina Grün",
+    "objectID": "events/201905-a/index.html#venue",
+    "href": "events/201905-a/index.html#venue",
+    "title": "Joint Event: Women in Tech Initiatives Meetup @PyDays",
     "section": "Venue",
-    "text": "Venue\nVienna University of Economics and Business\nWelthandelspl. 1, 1020 Vienna"
+    "text": "Venue\nUniversity of Applied Sciences Technikum Wien\nHöchstädtpl. 6, 1200 Vienna"
   },
   {
-    "objectID": "events/201905-b/index.html#about",
-    "href": "events/201905-b/index.html#about",
-    "title": "Extending R with Packages with Bettina Grün",
+    "objectID": "events/201905-a/index.html#about",
+    "href": "events/201905-a/index.html#about",
+    "title": "Joint Event: Women in Tech Initiatives Meetup @PyDays",
     "section": "About",
-    "text": "About\nIt is our pleasure to announce Bettina Grün as our next speaker for this Friday’s Meetup.\nBettina will be giving a talk on “Extending R with Packages”.\nAfter the talk we will go for some drinks in one of the restaurants at the WU Campus.\nWe are looking forward to seeing you on Friday!"
+    "text": "About\nTechnologists create products and services and in doing so affect our everyday lives now and in the future. If these products and services are supposed to serve our society as a whole, we need a lot of diverse and creative perspectives reflecting the richness of our communities. Therefore, we strongly believe that striving to increase diversity among technologists should be a major goal.\nOn our pursuit for diversity, one of the most encouraging things we can do is to highlight those women who already work on great things within their respective industries, provide them platforms to share their knowledge and inspire by their example.\nIn Vienna, a range of initiatives promoting gender diversity in STEM (science, technology, engineering & math) exist. To increase visibility as well as to facilitate exchange of ideas and getting-to-know-each-other amongst these initiatives, a session solely dedicated to these groups and projects will take place during PyDays Vienna.\n\nEnlisted Initiatives\n\nCo-Mentoring Programme - Women in Data Science\nFeminist Python Meetup for Women* and Non-Binary Folks in Vienna\nFeminist Linux Meetup für Frauen*, Non-Binary*, Trans* und Inter* Personen\ndiebin.at - Verein zur Förderung emanzipatorischer Informations- und Kommunikationstechnologien\nR-Ladies Vienna\nIEEE Women in Engineering\n\nPeople of all genders are welcome to attend our event. Find out more about the initiatives.\nRSVP via Meetup"
   },
   {
-    "objectID": "events/201905-b/index.html#speaker",
-    "href": "events/201905-b/index.html#speaker",
-    "title": "Extending R with Packages with Bettina Grün",
-    "section": "Speaker",
-    "text": "Speaker\nBettina Grün\nBettina is an Associate Professor of Applied Statistics at JKU Linz. She is an active member of the R community and has written our co-authored numerous R packages such as flexmix, topicmodels, bayesmix, arules, exams, movMF and betareg. Moreover, she is an ordinary member of the R Foundation and currently serves as Editor-in-Chief for the Journal of Statistical Software.\nRSVP via Meetup"
-  },
-  {
-    "objectID": "events/202606/index.html#date-and-time",
-    "href": "events/202606/index.html#date-and-time",
-    "title": "HePriceR: An R Package for Health Insurance",
+    "objectID": "events/202105/index.html#date-and-time",
+    "href": "events/202105/index.html#date-and-time",
+    "title": "ggplot2 workshop with Ursula Laa",
     "section": "Date and Time",
-    "text": "Date and Time\nWednesday, 10 June 2026\n6:00 PM - 7:30 PM CEST"
+    "text": "Date and Time\nThursday, 27 May 2021\n7:00 PM - 8:30 PM CEST"
   },
   {
-    "objectID": "events/202606/index.html#venue",
-    "href": "events/202606/index.html#venue",
-    "title": "HePriceR: An R Package for Health Insurance",
-    "section": "Venue",
-    "text": "Venue\nSeminar Room DC red 07 / Sem.R. DC rot 07\n7th floor, red area\nTU Wien Freihaus\nWiedner Hauptstraße 8-10, 1040 Vienna"
-  },
-  {
-    "objectID": "events/202606/index.html#about",
-    "href": "events/202606/index.html#about",
-    "title": "HePriceR: An R Package for Health Insurance",
-    "section": "About",
-    "text": "About\nWe are pleased to welcome Eva Flonner from UNIQA Insurance Group to present an R package for health insurance. Join us to explore how R can be put to work in actuarial practice, from data to modeling to simulation.\n\nAbstract\nHePriceR is an R package for health insurance pricing that provides a framework for modeling expected claims and their uncertainty. The package consolidates classical actuarial approaches with modern statistical modeling, enabling transparent, reproducible, and extensible actuarial workflows.\nThe core focus of HePriceR lies in the estimation of expected claims and their uncertainty. It implements multiple methodological approaches, including the Rusam method for expected claims, as well as comprehensive frequency–severity modeling. The package further provides technical implementations for common product design features, such as deductibles, sublimits, and benefit caps, ensuring that modeled claim distributions align with contractual reality. From a software design perspective, HePriceR relies on a structured system of S3 classes and methods, including dedicated hpr_pricing_data objects and corresponding fit objects. This design enables consistent handling of data, fitted models, diagnostics, and downstream simulation. On top of the fitted models, the package offers Monte Carlo simulation capabilities. Overall, HePriceR provides a cohesive actuarial toolkit that bridges actuarial methodology and statistical modeling, supporting both daily operations and advanced analytical use cases. This package is based on joint work with Herr Kompott."
-  },
-  {
-    "objectID": "events/202606/index.html#speaker",
-    "href": "events/202606/index.html#speaker",
-    "title": "HePriceR: An R Package for Health Insurance",
-    "section": "Speaker",
-    "text": "Speaker\nEva Flonner\nEva earned her PhD in Mathematics in Economics and Business from WU Vienna in 2025, where her dissertation on neural stochastic differential equations and stochastic filtering in finance was awarded the Dr. Maria Schaumayer prize. Furthermore, she gratefully reveiced funding for research within the Post-DocTrack program of the Austrian Academy of Sciences (OeAW). She is currently employed at UNIQA Insurance Group, where she is involved in the development of R packages for actuarial task automation in health insurance.\nRSVP via Meetup"
-  },
-  {
-    "objectID": "events/202311/index.html#date-and-time",
-    "href": "events/202311/index.html#date-and-time",
-    "title": "Natural Language Processing in R",
-    "section": "Date and Time",
-    "text": "Date and Time\nTuesday, 21 November 2023\n6:00 PM - 8:00 PM CET"
-  },
-  {
-    "objectID": "events/202311/index.html#venue",
-    "href": "events/202311/index.html#venue",
-    "title": "Natural Language Processing in R",
-    "section": "Venue",
-    "text": "Venue\nTU Wien - Seminarraum 107/1 (im ehem. “Goldenen Lamm”)\nWiedner Hauptstraße 7, 1040 Vienna"
-  },
-  {
-    "objectID": "events/202311/index.html#about",
-    "href": "events/202311/index.html#about",
-    "title": "Natural Language Processing in R",
-    "section": "About",
-    "text": "About\nIn our next meetup we will discuss natural language processing (NLP) in R. We will hear two presentations:\n\nFlorian Schwendinger: Introduction to NLP in R\nCamilla Damian: Detecting Gender Bias in Children’s Books\nFlo will first give a general overview of the topic and show relevant R packages (see also the CRAN Task View on the topic of NLP).\nThis will be followed by an application described by Camilla: Gender stereotypes form early in the child’s development and are carried over throughout adolescence into adulthood, leaving long-lasting effects which may impact activity and career choices, as well as academic performance. Books, in particular, can have considerable influence, as their characters serve to shape role models of femininity and masculinity for young children. Thus, gender under- and misrepresentation in children’s textual literature can contribute to the internalization and reinforcement of stereotypes. To address this issue, we aim to identify and measure relevant dimensions of gender bias in children’s books with the aid of both qualitative and quantitative techniques: systematic literature review across disciplines on the one hand and natural language processing (NLP) methods on the other. By exploiting such an integrated research framework, we believe that it is possible to automate the detection of potentially biased text while enhancing the interpretability and transparency of the results."
-  },
-  {
-    "objectID": "events/202311/index.html#speaker",
-    "href": "events/202311/index.html#speaker",
-    "title": "Natural Language Processing in R",
-    "section": "Speaker",
-    "text": "Speaker\nFlorian Schwendinger, Camilla Damian\nRSVP via Meetup"
-  },
-  {
-    "objectID": "events/202411/index.html#date-and-time",
-    "href": "events/202411/index.html#date-and-time",
-    "title": "Centralized database management with AWS and R/Shiny",
-    "section": "Date and Time",
-    "text": "Date and Time\nThursday, 14 November 2024\n6:00 PM - 7:30 PM CET"
-  },
-  {
-    "objectID": "events/202411/index.html#venue",
-    "href": "events/202411/index.html#venue",
-    "title": "Centralized database management with AWS and R/Shiny",
-    "section": "Venue",
-    "text": "Venue\nTU Wien, Freihaus - Seminarraum DA grün 04 (DA04E10)\nWiedner Hauptstraße 8-10 · Vienna"
-  },
-  {
-    "objectID": "events/202411/index.html#about",
-    "href": "events/202411/index.html#about",
-    "title": "Centralized database management with AWS and R/Shiny",
-    "section": "About",
-    "text": "About\nJoin us for our next meetup in November, to hear from Ilaria Capelli and Mina Sohrabi about their work at Raiffeisen Bank International. We will explore how their new R package simplifies querying their centralized database through a secure AWS setup and discover their intuitive R/Shiny interface for easy data access and updates. They will showcase features like Excel-like operations via rhandsontable, designed to enhance usability for both technical and non-technical users. Perfect for analysts and clients looking to smoothly interact with macroeconomic data!\n\nAbstract\nHere is Ilaria’s and Mina’s abstract for the talk: As developers at a leading economic and financial markets research institution, centralizing our data is crucial for both internal (backtesting, sharing forecasts, model validations) and external (client access) use cases. Our contribution consists of two parts: first, the introduction of our R package, developed using the “Open API generator,” enabling seamless querying of our database via a RESTful API. Additionally, we show the integration of a robust authorization and authentication layer within AWS cloud infrastructure. Second, we have designed a user-friendly R/Shiny-based frontend to facilitate easy access for non-technical users. This interface displays forecasts and historic data for various variables and countries, allowing for data updates and downloads. To mimic familiar Excel operations such as row-wise pasting and data removal, we have successfully utilized the open-source R-wrapper rhandsontable of the JavaScript library handsontable. Both contributions enable our analysts and clients to smoothly interact with our database by providing a convenient, secure, and user-friendly environment, enhancing the accessibility of our macroeconomic data for all stakeholders."
-  },
-  {
-    "objectID": "events/202411/index.html#speaker",
-    "href": "events/202411/index.html#speaker",
-    "title": "Centralized database management with AWS and R/Shiny",
-    "section": "Speaker",
-    "text": "Speaker\nIlaria Capelli, Mina Sohrabi\nRSVP via Meetup"
-  },
-  {
-    "objectID": "events/202102/index.html#date-and-time",
-    "href": "events/202102/index.html#date-and-time",
-    "title": "Virtual Kickoff 2021",
-    "section": "Date and Time",
-    "text": "Date and Time\nThursday, 25 February 2021\n7:00 PM - 8:30 PM CET"
-  },
-  {
-    "objectID": "events/202102/index.html#venue",
-    "href": "events/202102/index.html#venue",
-    "title": "Virtual Kickoff 2021",
+    "objectID": "events/202105/index.html#venue",
+    "href": "events/202105/index.html#venue",
+    "title": "ggplot2 workshop with Ursula Laa",
     "section": "Venue",
     "text": "Venue\nOnline"
   },
   {
-    "objectID": "events/202102/index.html#about",
-    "href": "events/202102/index.html#about",
-    "title": "Virtual Kickoff 2021",
+    "objectID": "events/202105/index.html#about",
+    "href": "events/202105/index.html#about",
+    "title": "ggplot2 workshop with Ursula Laa",
     "section": "About",
-    "text": "About\nTo kick-off the new year after a long 2020 break from our meetups, we invite you to join us for an online networking event, where we can get to know each other or catch up in a relaxed atmosphere.\nThe event will start with a brief update on our side and the presentation of the plan for 2021, continue with a mix of interactive activities such as live surveys and icebreaking games, and conclude with an open virtual chat. Feel free to bring your drink of choice in front of the screen 😉.\nWe will meet online on Zoom. See you soon!\nRSVP via Meetup"
+    "text": "About\nWe are happy to announce that for the May 2021 Meetup, our co-organizer Ursula Laa will offer a tutorial into data visualization with the R package ggplot2.\nStarting from the underlying principles of tidy data and the grammar of graphics, Ursula will introduce the basic ingredients (aesthetics and geoms), and show how to build a ggplot layer-by-layer. We will see together how we can quickly generate very different graphs with small changes in a standard interface, making it easy to better explore data."
   },
   {
-    "objectID": "events/202405/index.html#date-and-time",
-    "href": "events/202405/index.html#date-and-time",
-    "title": "How groups manage conflict: Sequence Analysis using TraMineR",
-    "section": "Date and Time",
-    "text": "Date and Time\nTuesday, 28 May 2024\n6:00 PM - 8:00 PM CEST"
-  },
-  {
-    "objectID": "events/202405/index.html#venue",
-    "href": "events/202405/index.html#venue",
-    "title": "How groups manage conflict: Sequence Analysis using TraMineR",
-    "section": "Venue",
-    "text": "Venue\nUniversity of Vienna - Hörsaal 10\nOskar-Morgenstern-Platz 1, 1090 Vienna"
-  },
-  {
-    "objectID": "events/202405/index.html#about",
-    "href": "events/202405/index.html#about",
-    "title": "How groups manage conflict: Sequence Analysis using TraMineR",
-    "section": "About",
-    "text": "About\nWe are happy to welcome Ayşegül Engin to present how she is using R and in particular the TraMineR package in her research on model-driven decision support. She will present How groups manage conflict when using model-driven decision support: Sequence Analysis using TraMineR, shared work with L. Alberto Franco and Etiënne A.J.A. Rouwette.\nFollowing the presentation we are happy to invite you to a small buffet and some drinks, sponsored by the University of Vienna.\n\nAbstract\nWithin and across organisations, groups are formed to tackle situations that require a decision or recommendation to be made, whether the situation is simple or complex, routine or one-off, short or long-term. However, inconsistencies between group members’ definitions of the situation often gives rise to conflict. Within the management and system sciences, various model-driven support approaches have been developed to assist groups in revealing disagreements and managing conflict. In this study, we investigate whether the preference for deliberate and deep information processing, also known as epistemic motivation, affects an important feature of model-driven group decision support. It serves as an aid to surface and manage cognitive conflict within the group. We report on an experimental study that adopts a process-oriented methodology to examine conflict management behaviors and trajectories of groups with different levels of epistemic motivation. Using TraMineR: Sequence Analysis Toolkit, we show how conflict management trajectories are influenced by epistemic motivation of groups. The results indicate that three dimensions of epistemic motivation; discomfort with ambiguity, decisiveness, preference for order and structure are significant co-variates of variance in groups’ conflict management trajectories."
-  },
-  {
-    "objectID": "events/202405/index.html#speaker",
-    "href": "events/202405/index.html#speaker",
-    "title": "How groups manage conflict: Sequence Analysis using TraMineR",
+    "objectID": "events/202105/index.html#speaker",
+    "href": "events/202105/index.html#speaker",
+    "title": "ggplot2 workshop with Ursula Laa",
     "section": "Speaker",
-    "text": "Speaker\nAyşegül Engin\nOriginally from Istanbul, Türkiye and currently residing in Vienna, Austria, Ayşegül currently works as a Postdoctoral Researcher at the University of Vienna. Her research is centered on behavioral operational research, with a focus on decision making in both individual and group settings, and the creation of decision support systems. Her efforts are dedicated to understanding cognitive biases, decision-making processes, and the interactions between systems and their users. She has a strong commitment to education, advocating for scientific transparency and reproducibility, and she promotes the use of R. Outside of her academic endeavors, Ayşegül enjoys Argentine tango, competitive sailing, and wingfoiling.\nRSVP via Meetup"
-  },
-  {
-    "objectID": "events/202103-b/index.html",
-    "href": "events/202103-b/index.html",
-    "title": "PyLadies and R-Ladies Vienna: Intro to R",
-    "section": "",
-    "text": "(This is part of a series of joint events with PyLadies Vienna)"
-  },
-  {
-    "objectID": "events/202103-b/index.html#date-and-time",
-    "href": "events/202103-b/index.html#date-and-time",
-    "title": "PyLadies and R-Ladies Vienna: Intro to R",
-    "section": "Date and Time",
-    "text": "Date and Time\nThursday, 25 March 2021\n6:00 PM - 7:30 PM CET"
-  },
-  {
-    "objectID": "events/202103-b/index.html#venue",
-    "href": "events/202103-b/index.html#venue",
-    "title": "PyLadies and R-Ladies Vienna: Intro to R",
-    "section": "Venue",
-    "text": "Venue\nOnline"
-  },
-  {
-    "objectID": "events/202103-b/index.html#about",
-    "href": "events/202103-b/index.html#about",
-    "title": "PyLadies and R-Ladies Vienna: Intro to R",
-    "section": "About",
-    "text": "About\nWe are proud to announce the collaboration between PyLadies Vienna and R-Ladies Vienna for a series of events aimed at fostering the collaboration and synergies between our communities.\nWe invite you to join us for the second event of the series: Introduction to R Workshop. Whether you are just starting out your data analytics journey and want to learn some programming basics, or are a Python user who would like to add R to your skill set, this tutorial will serve as a starting point for your journey.\nWe are happy to welcome Camilla Damian as our trainer for this workshop, who will offer an interactive online tutorial where she will cover:\n\nBrief intro to R as a programming language\nData structures and functions\nReading data into R\nBasic data visualization in R\nExamples and use cases\n\nWe recommend you install R and RStudio before the start of the meetup.\nSee you soon online!"
-  },
-  {
-    "objectID": "events/202103-b/index.html#speaker",
-    "href": "events/202103-b/index.html#speaker",
-    "title": "PyLadies and R-Ladies Vienna: Intro to R",
-    "section": "Speaker",
-    "text": "Speaker\nCamilla Damian\nCamilla is a PhD Candidate in the field of Mathematics in Business and Economics and an experienced useR, who also has years of experience in teaching quantitative methods using R at an undergrad level.\nRSVP via Meetup"
-  },
-  {
-    "objectID": "events/201904-a/index.html",
-    "href": "events/201904-a/index.html",
-    "title": "Workshop - Introduction to R",
-    "section": "",
-    "text": "Thursday, 11 April 2019\n6:30 PM - 8:30 PM CEST"
-  },
-  {
-    "objectID": "events/201904-a/index.html#date-and-time",
-    "href": "events/201904-a/index.html#date-and-time",
-    "title": "Workshop - Introduction to R",
-    "section": "",
-    "text": "Thursday, 11 April 2019\n6:30 PM - 8:30 PM CEST"
-  },
-  {
-    "objectID": "events/201904-a/index.html#venue",
-    "href": "events/201904-a/index.html#venue",
-    "title": "Workshop - Introduction to R",
-    "section": "Venue",
-    "text": "Venue\nVienna University of Economics and Business\nWelthandelspl. 1, 1020 Vienna"
-  },
-  {
-    "objectID": "events/201904-a/index.html#about",
-    "href": "events/201904-a/index.html#about",
-    "title": "Workshop - Introduction to R",
-    "section": "About",
-    "text": "About\nThe goal of our next meetup is for our attendees to become acquainted with R and R Studio in order to start their data analytics journey.\nWe’ll cover:\n\nBrief intro to R as a programming language\nFunctions, data structures, data types\nReading data into R\nBasic data visualization in R\nR packages\nExamples and use cases\n\nIf time allows we will briefly introduce to you R Markdown and give a glimpse into how to make your analysis more reproducible.\nWe recommend you bring your own laptop where you have R and RStudio installed. In case you want to install R Markdown, you can follow the instructions from R Markdown: The Definitive Guide.\nRSVP via Meetup"
-  },
-  {
-    "objectID": "events/202406/index.html#date-and-time",
-    "href": "events/202406/index.html#date-and-time",
-    "title": "Networking at summerstage",
-    "section": "Date and Time",
-    "text": "Date and Time\nWednesday, 19 June 2024\n6:00 PM - 8:00 PM CEST"
-  },
-  {
-    "objectID": "events/202406/index.html#venue",
-    "href": "events/202406/index.html#venue",
-    "title": "Networking at summerstage",
-    "section": "Venue",
-    "text": "Venue\nSummer Stage\nRoßauer Lände 17, 1090 Vienna"
-  },
-  {
-    "objectID": "events/202406/index.html#about",
-    "href": "events/202406/index.html#about",
-    "title": "Networking at summerstage",
-    "section": "About",
-    "text": "About\nAs our last event before the summer we would be happy if you join us for some drinks and networking at Summer Stage at Donaukanal. It would be a great opportunity to get to know each other or simply catch up, and also to let us know if you have any input for how we continue with R-Ladies Vienna.\nNext events will then resume after the summer!\nRSVP via Meetup"
+    "text": "Speaker\nUrsula Laa\nUrsula is a researcher in the Statistics Institute of the University of Natural Resources and Life Sciences (BOKU) in Vienna and holds PhD in theoretical particle physics. She focuses her research on new methods and applications in data science with emphasis on interdisciplinary work, for example connecting her background in physics and her interest in statistical data visualization.\nRSVP via Meetup"
   },
   {
     "objectID": "events/201903/index.html",
@@ -721,88 +490,347 @@
     "text": "Speaker\nHadley Wickham\nHadley is chief scientist at R-Studio and well known for his contributions to the R programming language including his tidyverse packages like ggplot2, dplyr, readr and the software development package devtools.\nRSVP via Meetup"
   },
   {
-    "objectID": "events/202105/index.html#date-and-time",
-    "href": "events/202105/index.html#date-and-time",
-    "title": "ggplot2 workshop with Ursula Laa",
+    "objectID": "events/202406/index.html#date-and-time",
+    "href": "events/202406/index.html#date-and-time",
+    "title": "Networking at summerstage",
     "section": "Date and Time",
-    "text": "Date and Time\nThursday, 27 May 2021\n7:00 PM - 8:30 PM CEST"
+    "text": "Date and Time\nWednesday, 19 June 2024\n6:00 PM - 8:00 PM CEST"
   },
   {
-    "objectID": "events/202105/index.html#venue",
-    "href": "events/202105/index.html#venue",
-    "title": "ggplot2 workshop with Ursula Laa",
+    "objectID": "events/202406/index.html#venue",
+    "href": "events/202406/index.html#venue",
+    "title": "Networking at summerstage",
+    "section": "Venue",
+    "text": "Venue\nSummer Stage\nRoßauer Lände 17, 1090 Vienna"
+  },
+  {
+    "objectID": "events/202406/index.html#about",
+    "href": "events/202406/index.html#about",
+    "title": "Networking at summerstage",
+    "section": "About",
+    "text": "About\nAs our last event before the summer we would be happy if you join us for some drinks and networking at Summer Stage at Donaukanal. It would be a great opportunity to get to know each other or simply catch up, and also to let us know if you have any input for how we continue with R-Ladies Vienna.\nNext events will then resume after the summer!\nRSVP via Meetup"
+  },
+  {
+    "objectID": "events/201904-a/index.html",
+    "href": "events/201904-a/index.html",
+    "title": "Workshop - Introduction to R",
+    "section": "",
+    "text": "Thursday, 11 April 2019\n6:30 PM - 8:30 PM CEST"
+  },
+  {
+    "objectID": "events/201904-a/index.html#date-and-time",
+    "href": "events/201904-a/index.html#date-and-time",
+    "title": "Workshop - Introduction to R",
+    "section": "",
+    "text": "Thursday, 11 April 2019\n6:30 PM - 8:30 PM CEST"
+  },
+  {
+    "objectID": "events/201904-a/index.html#venue",
+    "href": "events/201904-a/index.html#venue",
+    "title": "Workshop - Introduction to R",
+    "section": "Venue",
+    "text": "Venue\nVienna University of Economics and Business\nWelthandelspl. 1, 1020 Vienna"
+  },
+  {
+    "objectID": "events/201904-a/index.html#about",
+    "href": "events/201904-a/index.html#about",
+    "title": "Workshop - Introduction to R",
+    "section": "About",
+    "text": "About\nThe goal of our next meetup is for our attendees to become acquainted with R and R Studio in order to start their data analytics journey.\nWe’ll cover:\n\nBrief intro to R as a programming language\nFunctions, data structures, data types\nReading data into R\nBasic data visualization in R\nR packages\nExamples and use cases\n\nIf time allows we will briefly introduce to you R Markdown and give a glimpse into how to make your analysis more reproducible.\nWe recommend you bring your own laptop where you have R and RStudio installed. In case you want to install R Markdown, you can follow the instructions from R Markdown: The Definitive Guide.\nRSVP via Meetup"
+  },
+  {
+    "objectID": "events/202103-b/index.html",
+    "href": "events/202103-b/index.html",
+    "title": "PyLadies and R-Ladies Vienna: Intro to R",
+    "section": "",
+    "text": "(This is part of a series of joint events with PyLadies Vienna)"
+  },
+  {
+    "objectID": "events/202103-b/index.html#date-and-time",
+    "href": "events/202103-b/index.html#date-and-time",
+    "title": "PyLadies and R-Ladies Vienna: Intro to R",
+    "section": "Date and Time",
+    "text": "Date and Time\nThursday, 25 March 2021\n6:00 PM - 7:30 PM CET"
+  },
+  {
+    "objectID": "events/202103-b/index.html#venue",
+    "href": "events/202103-b/index.html#venue",
+    "title": "PyLadies and R-Ladies Vienna: Intro to R",
     "section": "Venue",
     "text": "Venue\nOnline"
   },
   {
-    "objectID": "events/202105/index.html#about",
-    "href": "events/202105/index.html#about",
-    "title": "ggplot2 workshop with Ursula Laa",
+    "objectID": "events/202103-b/index.html#about",
+    "href": "events/202103-b/index.html#about",
+    "title": "PyLadies and R-Ladies Vienna: Intro to R",
     "section": "About",
-    "text": "About\nWe are happy to announce that for the May 2021 Meetup, our co-organizer Ursula Laa will offer a tutorial into data visualization with the R package ggplot2.\nStarting from the underlying principles of tidy data and the grammar of graphics, Ursula will introduce the basic ingredients (aesthetics and geoms), and show how to build a ggplot layer-by-layer. We will see together how we can quickly generate very different graphs with small changes in a standard interface, making it easy to better explore data."
+    "text": "About\nWe are proud to announce the collaboration between PyLadies Vienna and R-Ladies Vienna for a series of events aimed at fostering the collaboration and synergies between our communities.\nWe invite you to join us for the second event of the series: Introduction to R Workshop. Whether you are just starting out your data analytics journey and want to learn some programming basics, or are a Python user who would like to add R to your skill set, this tutorial will serve as a starting point for your journey.\nWe are happy to welcome Camilla Damian as our trainer for this workshop, who will offer an interactive online tutorial where she will cover:\n\nBrief intro to R as a programming language\nData structures and functions\nReading data into R\nBasic data visualization in R\nExamples and use cases\n\nWe recommend you install R and RStudio before the start of the meetup.\nSee you soon online!"
   },
   {
-    "objectID": "events/202105/index.html#speaker",
-    "href": "events/202105/index.html#speaker",
-    "title": "ggplot2 workshop with Ursula Laa",
+    "objectID": "events/202103-b/index.html#speaker",
+    "href": "events/202103-b/index.html#speaker",
+    "title": "PyLadies and R-Ladies Vienna: Intro to R",
     "section": "Speaker",
-    "text": "Speaker\nUrsula Laa\nUrsula is a researcher in the Statistics Institute of the University of Natural Resources and Life Sciences (BOKU) in Vienna and holds PhD in theoretical particle physics. She focuses her research on new methods and applications in data science with emphasis on interdisciplinary work, for example connecting her background in physics and her interest in statistical data visualization.\nRSVP via Meetup"
+    "text": "Speaker\nCamilla Damian\nCamilla is a PhD Candidate in the field of Mathematics in Business and Economics and an experienced useR, who also has years of experience in teaching quantitative methods using R at an undergrad level.\nRSVP via Meetup"
   },
   {
-    "objectID": "events/201905-a/index.html",
-    "href": "events/201905-a/index.html",
-    "title": "Joint Event: Women in Tech Initiatives Meetup @PyDays",
-    "section": "",
-    "text": "Friday, 3 May 2019\n4:00 PM - 5:00 PM CEST"
-  },
-  {
-    "objectID": "events/201905-a/index.html#date-and-time",
-    "href": "events/201905-a/index.html#date-and-time",
-    "title": "Joint Event: Women in Tech Initiatives Meetup @PyDays",
-    "section": "",
-    "text": "Friday, 3 May 2019\n4:00 PM - 5:00 PM CEST"
-  },
-  {
-    "objectID": "events/201905-a/index.html#venue",
-    "href": "events/201905-a/index.html#venue",
-    "title": "Joint Event: Women in Tech Initiatives Meetup @PyDays",
-    "section": "Venue",
-    "text": "Venue\nUniversity of Applied Sciences Technikum Wien\nHöchstädtpl. 6, 1200 Vienna"
-  },
-  {
-    "objectID": "events/201905-a/index.html#about",
-    "href": "events/201905-a/index.html#about",
-    "title": "Joint Event: Women in Tech Initiatives Meetup @PyDays",
-    "section": "About",
-    "text": "About\nTechnologists create products and services and in doing so affect our everyday lives now and in the future. If these products and services are supposed to serve our society as a whole, we need a lot of diverse and creative perspectives reflecting the richness of our communities. Therefore, we strongly believe that striving to increase diversity among technologists should be a major goal.\nOn our pursuit for diversity, one of the most encouraging things we can do is to highlight those women who already work on great things within their respective industries, provide them platforms to share their knowledge and inspire by their example.\nIn Vienna, a range of initiatives promoting gender diversity in STEM (science, technology, engineering & math) exist. To increase visibility as well as to facilitate exchange of ideas and getting-to-know-each-other amongst these initiatives, a session solely dedicated to these groups and projects will take place during PyDays Vienna.\n\nEnlisted Initiatives\n\nCo-Mentoring Programme - Women in Data Science\nFeminist Python Meetup for Women* and Non-Binary Folks in Vienna\nFeminist Linux Meetup für Frauen*, Non-Binary*, Trans* und Inter* Personen\ndiebin.at - Verein zur Förderung emanzipatorischer Informations- und Kommunikationstechnologien\nR-Ladies Vienna\nIEEE Women in Engineering\n\nPeople of all genders are welcome to attend our event. Find out more about the initiatives.\nRSVP via Meetup"
-  },
-  {
-    "objectID": "events/202304/index.html#date-and-time",
-    "href": "events/202304/index.html#date-and-time",
-    "title": "Switching between space and time: Spatio-temporal analysis with cubble",
+    "objectID": "events/202405/index.html#date-and-time",
+    "href": "events/202405/index.html#date-and-time",
+    "title": "How groups manage conflict: Sequence Analysis using TraMineR",
     "section": "Date and Time",
-    "text": "Date and Time\nWednesday, 26 April 2023\n6:00 PM - 7:30 PM CEST"
+    "text": "Date and Time\nTuesday, 28 May 2024\n6:00 PM - 8:00 PM CEST"
   },
   {
-    "objectID": "events/202304/index.html#venue",
-    "href": "events/202304/index.html#venue",
-    "title": "Switching between space and time: Spatio-temporal analysis with cubble",
+    "objectID": "events/202405/index.html#venue",
+    "href": "events/202405/index.html#venue",
+    "title": "How groups manage conflict: Sequence Analysis using TraMineR",
+    "section": "Venue",
+    "text": "Venue\nUniversity of Vienna - Hörsaal 10\nOskar-Morgenstern-Platz 1, 1090 Vienna"
+  },
+  {
+    "objectID": "events/202405/index.html#about",
+    "href": "events/202405/index.html#about",
+    "title": "How groups manage conflict: Sequence Analysis using TraMineR",
+    "section": "About",
+    "text": "About\nWe are happy to welcome Ayşegül Engin to present how she is using R and in particular the TraMineR package in her research on model-driven decision support. She will present How groups manage conflict when using model-driven decision support: Sequence Analysis using TraMineR, shared work with L. Alberto Franco and Etiënne A.J.A. Rouwette.\nFollowing the presentation we are happy to invite you to a small buffet and some drinks, sponsored by the University of Vienna.\n\nAbstract\nWithin and across organisations, groups are formed to tackle situations that require a decision or recommendation to be made, whether the situation is simple or complex, routine or one-off, short or long-term. However, inconsistencies between group members’ definitions of the situation often gives rise to conflict. Within the management and system sciences, various model-driven support approaches have been developed to assist groups in revealing disagreements and managing conflict. In this study, we investigate whether the preference for deliberate and deep information processing, also known as epistemic motivation, affects an important feature of model-driven group decision support. It serves as an aid to surface and manage cognitive conflict within the group. We report on an experimental study that adopts a process-oriented methodology to examine conflict management behaviors and trajectories of groups with different levels of epistemic motivation. Using TraMineR: Sequence Analysis Toolkit, we show how conflict management trajectories are influenced by epistemic motivation of groups. The results indicate that three dimensions of epistemic motivation; discomfort with ambiguity, decisiveness, preference for order and structure are significant co-variates of variance in groups’ conflict management trajectories."
+  },
+  {
+    "objectID": "events/202405/index.html#speaker",
+    "href": "events/202405/index.html#speaker",
+    "title": "How groups manage conflict: Sequence Analysis using TraMineR",
+    "section": "Speaker",
+    "text": "Speaker\nAyşegül Engin\nOriginally from Istanbul, Türkiye and currently residing in Vienna, Austria, Ayşegül currently works as a Postdoctoral Researcher at the University of Vienna. Her research is centered on behavioral operational research, with a focus on decision making in both individual and group settings, and the creation of decision support systems. Her efforts are dedicated to understanding cognitive biases, decision-making processes, and the interactions between systems and their users. She has a strong commitment to education, advocating for scientific transparency and reproducibility, and she promotes the use of R. Outside of her academic endeavors, Ayşegül enjoys Argentine tango, competitive sailing, and wingfoiling.\nRSVP via Meetup"
+  },
+  {
+    "objectID": "events/202102/index.html#date-and-time",
+    "href": "events/202102/index.html#date-and-time",
+    "title": "Virtual Kickoff 2021",
+    "section": "Date and Time",
+    "text": "Date and Time\nThursday, 25 February 2021\n7:00 PM - 8:30 PM CET"
+  },
+  {
+    "objectID": "events/202102/index.html#venue",
+    "href": "events/202102/index.html#venue",
+    "title": "Virtual Kickoff 2021",
+    "section": "Venue",
+    "text": "Venue\nOnline"
+  },
+  {
+    "objectID": "events/202102/index.html#about",
+    "href": "events/202102/index.html#about",
+    "title": "Virtual Kickoff 2021",
+    "section": "About",
+    "text": "About\nTo kick-off the new year after a long 2020 break from our meetups, we invite you to join us for an online networking event, where we can get to know each other or catch up in a relaxed atmosphere.\nThe event will start with a brief update on our side and the presentation of the plan for 2021, continue with a mix of interactive activities such as live surveys and icebreaking games, and conclude with an open virtual chat. Feel free to bring your drink of choice in front of the screen 😉.\nWe will meet online on Zoom. See you soon!\nRSVP via Meetup"
+  },
+  {
+    "objectID": "events/202411/index.html#date-and-time",
+    "href": "events/202411/index.html#date-and-time",
+    "title": "Centralized database management with AWS and R/Shiny",
+    "section": "Date and Time",
+    "text": "Date and Time\nThursday, 14 November 2024\n6:00 PM - 7:30 PM CET"
+  },
+  {
+    "objectID": "events/202411/index.html#venue",
+    "href": "events/202411/index.html#venue",
+    "title": "Centralized database management with AWS and R/Shiny",
+    "section": "Venue",
+    "text": "Venue\nTU Wien, Freihaus - Seminarraum DA grün 04 (DA04E10)\nWiedner Hauptstraße 8-10 · Vienna"
+  },
+  {
+    "objectID": "events/202411/index.html#about",
+    "href": "events/202411/index.html#about",
+    "title": "Centralized database management with AWS and R/Shiny",
+    "section": "About",
+    "text": "About\nJoin us for our next meetup in November, to hear from Ilaria Capelli and Mina Sohrabi about their work at Raiffeisen Bank International. We will explore how their new R package simplifies querying their centralized database through a secure AWS setup and discover their intuitive R/Shiny interface for easy data access and updates. They will showcase features like Excel-like operations via rhandsontable, designed to enhance usability for both technical and non-technical users. Perfect for analysts and clients looking to smoothly interact with macroeconomic data!\n\nAbstract\nHere is Ilaria’s and Mina’s abstract for the talk: As developers at a leading economic and financial markets research institution, centralizing our data is crucial for both internal (backtesting, sharing forecasts, model validations) and external (client access) use cases. Our contribution consists of two parts: first, the introduction of our R package, developed using the “Open API generator,” enabling seamless querying of our database via a RESTful API. Additionally, we show the integration of a robust authorization and authentication layer within AWS cloud infrastructure. Second, we have designed a user-friendly R/Shiny-based frontend to facilitate easy access for non-technical users. This interface displays forecasts and historic data for various variables and countries, allowing for data updates and downloads. To mimic familiar Excel operations such as row-wise pasting and data removal, we have successfully utilized the open-source R-wrapper rhandsontable of the JavaScript library handsontable. Both contributions enable our analysts and clients to smoothly interact with our database by providing a convenient, secure, and user-friendly environment, enhancing the accessibility of our macroeconomic data for all stakeholders."
+  },
+  {
+    "objectID": "events/202411/index.html#speaker",
+    "href": "events/202411/index.html#speaker",
+    "title": "Centralized database management with AWS and R/Shiny",
+    "section": "Speaker",
+    "text": "Speaker\nIlaria Capelli, Mina Sohrabi\nRSVP via Meetup"
+  },
+  {
+    "objectID": "events/202311/index.html#date-and-time",
+    "href": "events/202311/index.html#date-and-time",
+    "title": "Natural Language Processing in R",
+    "section": "Date and Time",
+    "text": "Date and Time\nTuesday, 21 November 2023\n6:00 PM - 8:00 PM CET"
+  },
+  {
+    "objectID": "events/202311/index.html#venue",
+    "href": "events/202311/index.html#venue",
+    "title": "Natural Language Processing in R",
     "section": "Venue",
     "text": "Venue\nTU Wien - Seminarraum 107/1 (im ehem. “Goldenen Lamm”)\nWiedner Hauptstraße 7, 1040 Vienna"
   },
   {
-    "objectID": "events/202304/index.html#about",
-    "href": "events/202304/index.html#about",
-    "title": "Switching between space and time: Spatio-temporal analysis with cubble",
+    "objectID": "events/202311/index.html#about",
+    "href": "events/202311/index.html#about",
+    "title": "Natural Language Processing in R",
     "section": "About",
-    "text": "About\nOur next meetup will take place live at TU Wien. Our speaker is Sherry Zhang who is visiting from Australia. She will introduce us to the cubble package and walk us through how we can work with spatial data and temporal data in R, and how we can more easily combine the two using cubble.\n\nAbstract\nWeather data have a spatial component given by the station coordinates and a temporal component that provides measurements on precipitation, maximum and minimum temperature. This will be a hand-on session to work with weather station data. We will use the package sf to work on the spatial side to generate some maps and the package tsibble to conduct some exploratory data analysis on the temporal side. One way to communicate space and time information together is through a glyph map where temporal coordinates are transformed into space. We will create the glyph map with the ggplot geom: geom_glyph(). Lastly, we will experiment with a new data structure, cubble, to arrange spatio-temporal data."
+    "text": "About\nIn our next meetup we will discuss natural language processing (NLP) in R. We will hear two presentations:\n\nFlorian Schwendinger: Introduction to NLP in R\nCamilla Damian: Detecting Gender Bias in Children’s Books\nFlo will first give a general overview of the topic and show relevant R packages (see also the CRAN Task View on the topic of NLP).\nThis will be followed by an application described by Camilla: Gender stereotypes form early in the child’s development and are carried over throughout adolescence into adulthood, leaving long-lasting effects which may impact activity and career choices, as well as academic performance. Books, in particular, can have considerable influence, as their characters serve to shape role models of femininity and masculinity for young children. Thus, gender under- and misrepresentation in children’s textual literature can contribute to the internalization and reinforcement of stereotypes. To address this issue, we aim to identify and measure relevant dimensions of gender bias in children’s books with the aid of both qualitative and quantitative techniques: systematic literature review across disciplines on the one hand and natural language processing (NLP) methods on the other. By exploiting such an integrated research framework, we believe that it is possible to automate the detection of potentially biased text while enhancing the interpretability and transparency of the results."
   },
   {
-    "objectID": "events/202304/index.html#speaker",
-    "href": "events/202304/index.html#speaker",
-    "title": "Switching between space and time: Spatio-temporal analysis with cubble",
+    "objectID": "events/202311/index.html#speaker",
+    "href": "events/202311/index.html#speaker",
+    "title": "Natural Language Processing in R",
     "section": "Speaker",
-    "text": "Speaker\nSherry Zhang\nSherry is a final year PhD student in the Department of Econometrics and Business Statistics at Monash University, Australia. Her research focuses on exploring multivariate and spatio-temporal data with visual and exploratory data analysis tools.\nRSVP via Meetup"
+    "text": "Speaker\nFlorian Schwendinger, Camilla Damian\nRSVP via Meetup"
+  },
+  {
+    "objectID": "events/202606/index.html#date-and-time",
+    "href": "events/202606/index.html#date-and-time",
+    "title": "HePriceR: An R Package for Health Insurance",
+    "section": "Date and Time",
+    "text": "Date and Time\nWednesday, 10 June 2026\n6:00 PM - 7:30 PM CEST"
+  },
+  {
+    "objectID": "events/202606/index.html#venue",
+    "href": "events/202606/index.html#venue",
+    "title": "HePriceR: An R Package for Health Insurance",
+    "section": "Venue",
+    "text": "Venue\nSeminar Room DC red 07 / Sem.R. DC rot 07\n7th floor, red area\nTU Wien Freihaus\nWiedner Hauptstraße 8-10, 1040 Vienna"
+  },
+  {
+    "objectID": "events/202606/index.html#about",
+    "href": "events/202606/index.html#about",
+    "title": "HePriceR: An R Package for Health Insurance",
+    "section": "About",
+    "text": "About\nWe are pleased to welcome Eva Flonner from UNIQA Insurance Group to present an R package for health insurance. Join us to explore how R can be put to work in actuarial practice, from data to modeling to simulation.\n\nAbstract\nHePriceR is an R package for health insurance pricing that provides a framework for modeling expected claims and their uncertainty. The package consolidates classical actuarial approaches with modern statistical modeling, enabling transparent, reproducible, and extensible actuarial workflows.\nThe core focus of HePriceR lies in the estimation of expected claims and their uncertainty. It implements multiple methodological approaches, including the Rusam method for expected claims, as well as comprehensive frequency–severity modeling. The package further provides technical implementations for common product design features, such as deductibles, sublimits, and benefit caps, ensuring that modeled claim distributions align with contractual reality. From a software design perspective, HePriceR relies on a structured system of S3 classes and methods, including dedicated hpr_pricing_data objects and corresponding fit objects. This design enables consistent handling of data, fitted models, diagnostics, and downstream simulation. On top of the fitted models, the package offers Monte Carlo simulation capabilities. Overall, HePriceR provides a cohesive actuarial toolkit that bridges actuarial methodology and statistical modeling, supporting both daily operations and advanced analytical use cases. This package is based on joint work with Herr Kompott."
+  },
+  {
+    "objectID": "events/202606/index.html#speaker",
+    "href": "events/202606/index.html#speaker",
+    "title": "HePriceR: An R Package for Health Insurance",
+    "section": "Speaker",
+    "text": "Speaker\nEva Flonner\nEva earned her PhD in Mathematics in Economics and Business from WU Vienna in 2025, where her dissertation on neural stochastic differential equations and stochastic filtering in finance was awarded the Dr. Maria Schaumayer prize. Furthermore, she gratefully reveiced funding for research within the Post-DocTrack program of the Austrian Academy of Sciences (OeAW). She is currently employed at UNIQA Insurance Group, where she is involved in the development of R packages for actuarial task automation in health insurance.\nRSVP via Meetup"
+  },
+  {
+    "objectID": "events/201905-b/index.html",
+    "href": "events/201905-b/index.html",
+    "title": "Extending R with Packages with Bettina Grün",
+    "section": "",
+    "text": "Friday, 24 May 2019\n5:00 PM - 7:00 PM CEST"
+  },
+  {
+    "objectID": "events/201905-b/index.html#date-and-time",
+    "href": "events/201905-b/index.html#date-and-time",
+    "title": "Extending R with Packages with Bettina Grün",
+    "section": "",
+    "text": "Friday, 24 May 2019\n5:00 PM - 7:00 PM CEST"
+  },
+  {
+    "objectID": "events/201905-b/index.html#venue",
+    "href": "events/201905-b/index.html#venue",
+    "title": "Extending R with Packages with Bettina Grün",
+    "section": "Venue",
+    "text": "Venue\nVienna University of Economics and Business\nWelthandelspl. 1, 1020 Vienna"
+  },
+  {
+    "objectID": "events/201905-b/index.html#about",
+    "href": "events/201905-b/index.html#about",
+    "title": "Extending R with Packages with Bettina Grün",
+    "section": "About",
+    "text": "About\nIt is our pleasure to announce Bettina Grün as our next speaker for this Friday’s Meetup.\nBettina will be giving a talk on “Extending R with Packages”.\nAfter the talk we will go for some drinks in one of the restaurants at the WU Campus.\nWe are looking forward to seeing you on Friday!"
+  },
+  {
+    "objectID": "events/201905-b/index.html#speaker",
+    "href": "events/201905-b/index.html#speaker",
+    "title": "Extending R with Packages with Bettina Grün",
+    "section": "Speaker",
+    "text": "Speaker\nBettina Grün\nBettina is an Associate Professor of Applied Statistics at JKU Linz. She is an active member of the R community and has written our co-authored numerous R packages such as flexmix, topicmodels, bayesmix, arules, exams, movMF and betareg. Moreover, she is an ordinary member of the R Foundation and currently serves as Editor-in-Chief for the Journal of Statistical Software.\nRSVP via Meetup"
+  },
+  {
+    "objectID": "events/202502/index.html#date-and-time",
+    "href": "events/202502/index.html#date-and-time",
+    "title": "Cluster analysis in R",
+    "section": "Date and Time",
+    "text": "Date and Time\nThursday, 20 February 2025\n6:00 PM - 7:30 PM CET"
+  },
+  {
+    "objectID": "events/202502/index.html#venue",
+    "href": "events/202502/index.html#venue",
+    "title": "Cluster analysis in R",
+    "section": "Venue",
+    "text": "Venue\nTU Wien, Freihaus - Seminarraum DA grün 04 (DA04E10)\nWiedner Hauptstraße 8-10 · Vienna"
+  },
+  {
+    "objectID": "events/202502/index.html#about",
+    "href": "events/202502/index.html#about",
+    "title": "Cluster analysis in R",
+    "section": "About",
+    "text": "About\nIn our next meetup we will welcome Theresa Scharl-Hirsch for an introduction to cluster analysis and validation in R. Bring along your laptop to follow the presented examples and for some hands-on exercises!\nCluster analysis groups data based on similarities without relying on predefined labels, making it valuable in marketing, healthcare, social media and fraud detection. Unlike classification, which uses labelled data to assign data points to predefined categories, clustering works with unlabelled data to reveal hidden patterns.\nCluster validation ensures that the groups identified are meaningful using metrics such as compactness and separation, while visualisation tools such as scatter plots and dendrograms help to interpret the results. Common methods such as K-means, hierarchical clustering and model-based approaches are tailored to different data structures and objectives."
+  },
+  {
+    "objectID": "events/202502/index.html#speaker",
+    "href": "events/202502/index.html#speaker",
+    "title": "Cluster analysis in R",
+    "section": "Speaker",
+    "text": "Speaker\nTheresa Scharl-Hirsch\nRSVP via Meetup"
+  },
+  {
+    "objectID": "events/202305/index.html#date-and-time",
+    "href": "events/202305/index.html#date-and-time",
+    "title": "Joint May Event: RLadies Vienna x Vienna<-R",
+    "section": "Date and Time",
+    "text": "Date and Time\nWednesday, 24 May 2023\n6:00 PM - 8:00 PM CEST"
+  },
+  {
+    "objectID": "events/202305/index.html#venue",
+    "href": "events/202305/index.html#venue",
+    "title": "Joint May Event: RLadies Vienna x Vienna<-R",
+    "section": "Venue",
+    "text": "Venue\nTU Wien - Seminarraum 107/1 (im ehem. “Goldenen Lamm”)\nWiedner Hauptstraße 7, 1040 Vienna"
+  },
+  {
+    "objectID": "events/202305/index.html#about",
+    "href": "events/202305/index.html#about",
+    "title": "Joint May Event: RLadies Vienna x Vienna<-R",
+    "section": "About",
+    "text": "About\nWe are happy to announce Bettina Grün and Benjamin Schwendinger as the speakers for our next joint event with the ViennaR meetup group!\nBenjamin Schwendinger will talk about the data.table package, which is a widely used, high-performance extension of base R’s data.frame. In this talk, we will cover the latest development steps of the package over the last few years. We will also shed light on how data.table gains its speed and how useRs can ensure that it is used to its full potential.\nBettina Grün will be giving a talk on R Packages, walking us through important guidelines for extending R with packages. This talk will be interesting for R package developers and useRs alike."
+  },
+  {
+    "objectID": "events/202305/index.html#speaker",
+    "href": "events/202305/index.html#speaker",
+    "title": "Joint May Event: RLadies Vienna x Vienna<-R",
+    "section": "Speaker",
+    "text": "Speaker\nBettina Grün, Benjamin Schwendinger\nRSVP via Meetup"
+  },
+  {
+    "objectID": "events/201911/index.html",
+    "href": "events/201911/index.html",
+    "title": "Joint November Event: RLadies Vienna x Vienna<-R",
+    "section": "",
+    "text": "Friday, 29 November 2019\n6:00 PM - 8:00 PM CET"
+  },
+  {
+    "objectID": "events/201911/index.html#date-and-time",
+    "href": "events/201911/index.html#date-and-time",
+    "title": "Joint November Event: RLadies Vienna x Vienna<-R",
+    "section": "",
+    "text": "Friday, 29 November 2019\n6:00 PM - 8:00 PM CET"
+  },
+  {
+    "objectID": "events/201911/index.html#venue",
+    "href": "events/201911/index.html#venue",
+    "title": "Joint November Event: RLadies Vienna x Vienna<-R",
+    "section": "Venue",
+    "text": "Venue\nRaiffeisen Bank International - “Skyroom”\nAm Stadtpark 9, 1030 Vienna"
+  },
+  {
+    "objectID": "events/201911/index.html#about",
+    "href": "events/201911/index.html#about",
+    "title": "Joint November Event: RLadies Vienna x Vienna<-R",
+    "section": "About",
+    "text": "About\nWe are happy to announce Achim Zeileis and Joel Gotsch for our next joint event with the ViennaR meetup group.\nTopics:\n\nAchim Zeileis: Distributional Regression Forests for Probabilistic Modeling and Forecasting\nJoel Gotsch: Dynamic FX Margin Optimization\n\nAfter the talks you are invited to join the networking session with refreshments provided by our host Raiffeisen Bank International.\nSee you soon!"
+  },
+  {
+    "objectID": "events/201911/index.html#speakers",
+    "href": "events/201911/index.html#speakers",
+    "title": "Joint November Event: RLadies Vienna x Vienna<-R",
+    "section": "Speakers:",
+    "text": "Speakers:\nAchim Zeileis, Joel Gotsch\nRSVP via Meetup"
   },
   {
     "objectID": "events/201812/index.html",
@@ -907,7 +935,7 @@
     "href": "events/index.html",
     "title": "Events",
     "section": "",
-    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n    \n  \n\n\n\n\n\n\n\n\nHePriceR: An R Package for Health Insurance\n\n\n\n10 June 2026\n\n\n\n\n\n\n\n\n\n\n\nWorkshop – Introduction to R (Part 2: Data manipulation and visualization)\n\n\n\n3 December 2025\n\n\n\n\n\n\n\n\n\n\n\nWorkshop – Introduction to R\n\n\n\n29 October 2025\n\n\n\n\n\n\n\n\n\n\n\nGet-together with R-Ladies and Friends\n\n\n\n1 July 2025\n\n\n\n\n\n\n\n\n\n\n\nR in Industry: Biopharmaceutical Process Optimization through Advanced Design of Experiments\n\n\n\n21 May 2025\n\n\n\n\n\n\n\n\n\n\n\nR You Ready? Integrating Large Language Models into your Workflow\n\n\n\n28 April 2025\n\n\n\n\n\n\n\n\n\n\n\nCluster analysis in R\n\n\n\n20 February 2025\n\n\n\n\n\n\n\n\n\n\n\nCentralized database management with AWS and R/Shiny\n\n\n\n14 November 2024\n\n\n\n\n\n\n\n\n\n\n\nRandom projection for regression analysis in R\n\n\n\n29 October 2024\n\n\n\n\n\n\n\n\n\n\n\nNetworking at summerstage\n\n\n\n19 June 2024\n\n\n\n\n\n\n\n\n\n\n\nHow groups manage conflict: Sequence Analysis using TraMineR\n\n\n\n28 May 2024\n\n\n\n\n\n\n\n\n\n\n\nIs ShinyApp in R production ready?\n\n\n\n19 April 2024\n\n\n\n\n\n\n\n\n\n\n\nWorkshop - Introduction to R - Part 2\n\n\n\n13 March 2024\n\n\n\n\n\n\n\n\n\n\n\nWorkshop - Introduction to R\n\n\n\n15 February 2024\n\n\n\n\n\n\n\n\n\n\n\nNatural Language Processing in R\n\n\n\n21 November 2023\n\n\n\n\n\n\n\n\n\n\n\nJoint May Event: RLadies Vienna x Vienna&lt;-R\n\n\n\n24 May 2023\n\n\n\n\n\n\n\n\n\n\n\nSwitching between space and time: Spatio-temporal analysis with cubble\n\n\n\n26 April 2023\n\n\n\n\n\n\n\n\n\n\n\n2023 First Networking Event\n\n\n\n1 March 2023\n\n\n\n\n\n\n\n\n\n\n\nGetting to know golem - R-Ladies Vienna December Meetup 2022\n\n\n\n5 December 2022\n\n\n\n\n\n\n\n\n\n\n\nR Shiny Workshop Series\n\n\n\n12 May 2022\n\n\n\n\n\n\n\n\n\n\n\nIntro to Bayesian Statistics with Alex Posekany\n\n\n\n14 December 2021\n\n\n\n\n\n\n\n\n\n\n\nManaging R projects with Maëlle Salmon\n\n\n\n16 November 2021\n\n\n\n\n\n\n\n\n\n\n\nggplot2 workshop with Ursula Laa\n\n\n\n27 May 2021\n\n\n\n\n\n\n\n\n\n\n\nCross selling analytic model with sparklyr\n\n\n\n29 April 2021\n\n\n\n\n\n\n\n\n\n\n\nPyLadies and R-Ladies Vienna: Panel discussion\n\n\n\n27 March 2021\n\n\n\n\n\n\n\n\n\n\n\nPyLadies and R-Ladies Vienna: Intro to R\n\n\n\n25 March 2021\n\n\n\n\n\n\n\n\n\n\n\nPyLadies and R-Ladies Vienna: Intro to Python\n\n\n\n24 March 2021\n\n\n\n\n\n\n\n\n\n\n\nVirtual Kickoff 2021\n\n\n\n25 February 2021\n\n\n\n\n\n\n\n\n\n\n\nJoint November Event: RLadies Vienna x Vienna&lt;-R\n\n\n\n29 November 2019\n\n\n\n\n\n\n\n\n\n\n\nSummer opening get together\n\n\n\n2 July 2019\n\n\n\n\n\n\n\n\n\n\n\nExtending R with Packages with Bettina Grün\n\n\n\n24 May 2019\n\n\n\n\n\n\n\n\n\n\n\nJoint Event: Women in Tech Initiatives Meetup @PyDays\n\n\n\n3 May 2019\n\n\n\n\n\n\n\n\n\n\n\nData4good Hackathon\n\n\n\n27 April 2019\n\n\n\n\n\n\n\n\n\n\n\nSession 1: Bayesian statistics study group\n\n\n\n17 April 2019\n\n\n\n\n\n\n\n\n\n\n\nWorkshop - Introduction to R\n\n\n\n11 April 2019\n\n\n\n\n\n\n\n\n\n\n\nHadley Wickham @ Joint March Event: Vienna&lt;-R x R-Ladies Vienna\n\n\n\n18 March 2019\n\n\n\n\n\n\n\n\n\n\n\nChristmas Market\n\n\n\n6 December 2018\n\n\n\n\n\n\n\n\n\n\n\nCoffee & Get-to-know-you\n\n\n\n20 October 2018\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n    \n  \n\n\n\n\n\n\n\n\nMaking Data Speak: Static and Interactive Plots in R\n\n\n\n28 October 2026\n\n\n\n\n\n\n\n\n\n\n\nHePriceR: An R Package for Health Insurance\n\n\n\n10 June 2026\n\n\n\n\n\n\n\n\n\n\n\nWorkshop – Introduction to R (Part 2: Data manipulation and visualization)\n\n\n\n3 December 2025\n\n\n\n\n\n\n\n\n\n\n\nWorkshop – Introduction to R\n\n\n\n29 October 2025\n\n\n\n\n\n\n\n\n\n\n\nGet-together with R-Ladies and Friends\n\n\n\n1 July 2025\n\n\n\n\n\n\n\n\n\n\n\nR in Industry: Biopharmaceutical Process Optimization through Advanced Design of Experiments\n\n\n\n21 May 2025\n\n\n\n\n\n\n\n\n\n\n\nR You Ready? Integrating Large Language Models into your Workflow\n\n\n\n28 April 2025\n\n\n\n\n\n\n\n\n\n\n\nCluster analysis in R\n\n\n\n20 February 2025\n\n\n\n\n\n\n\n\n\n\n\nCentralized database management with AWS and R/Shiny\n\n\n\n14 November 2024\n\n\n\n\n\n\n\n\n\n\n\nRandom projection for regression analysis in R\n\n\n\n29 October 2024\n\n\n\n\n\n\n\n\n\n\n\nNetworking at summerstage\n\n\n\n19 June 2024\n\n\n\n\n\n\n\n\n\n\n\nHow groups manage conflict: Sequence Analysis using TraMineR\n\n\n\n28 May 2024\n\n\n\n\n\n\n\n\n\n\n\nIs ShinyApp in R production ready?\n\n\n\n19 April 2024\n\n\n\n\n\n\n\n\n\n\n\nWorkshop - Introduction to R - Part 2\n\n\n\n13 March 2024\n\n\n\n\n\n\n\n\n\n\n\nWorkshop - Introduction to R\n\n\n\n15 February 2024\n\n\n\n\n\n\n\n\n\n\n\nNatural Language Processing in R\n\n\n\n21 November 2023\n\n\n\n\n\n\n\n\n\n\n\nJoint May Event: RLadies Vienna x Vienna&lt;-R\n\n\n\n24 May 2023\n\n\n\n\n\n\n\n\n\n\n\nSwitching between space and time: Spatio-temporal analysis with cubble\n\n\n\n26 April 2023\n\n\n\n\n\n\n\n\n\n\n\n2023 First Networking Event\n\n\n\n1 March 2023\n\n\n\n\n\n\n\n\n\n\n\nGetting to know golem - R-Ladies Vienna December Meetup 2022\n\n\n\n5 December 2022\n\n\n\n\n\n\n\n\n\n\n\nR Shiny Workshop Series\n\n\n\n12 May 2022\n\n\n\n\n\n\n\n\n\n\n\nIntro to Bayesian Statistics with Alex Posekany\n\n\n\n14 December 2021\n\n\n\n\n\n\n\n\n\n\n\nManaging R projects with Maëlle Salmon\n\n\n\n16 November 2021\n\n\n\n\n\n\n\n\n\n\n\nggplot2 workshop with Ursula Laa\n\n\n\n27 May 2021\n\n\n\n\n\n\n\n\n\n\n\nCross selling analytic model with sparklyr\n\n\n\n29 April 2021\n\n\n\n\n\n\n\n\n\n\n\nPyLadies and R-Ladies Vienna: Panel discussion\n\n\n\n27 March 2021\n\n\n\n\n\n\n\n\n\n\n\nPyLadies and R-Ladies Vienna: Intro to R\n\n\n\n25 March 2021\n\n\n\n\n\n\n\n\n\n\n\nPyLadies and R-Ladies Vienna: Intro to Python\n\n\n\n24 March 2021\n\n\n\n\n\n\n\n\n\n\n\nVirtual Kickoff 2021\n\n\n\n25 February 2021\n\n\n\n\n\n\n\n\n\n\n\nJoint November Event: RLadies Vienna x Vienna&lt;-R\n\n\n\n29 November 2019\n\n\n\n\n\n\n\n\n\n\n\nSummer opening get together\n\n\n\n2 July 2019\n\n\n\n\n\n\n\n\n\n\n\nExtending R with Packages with Bettina Grün\n\n\n\n24 May 2019\n\n\n\n\n\n\n\n\n\n\n\nJoint Event: Women in Tech Initiatives Meetup @PyDays\n\n\n\n3 May 2019\n\n\n\n\n\n\n\n\n\n\n\nData4good Hackathon\n\n\n\n27 April 2019\n\n\n\n\n\n\n\n\n\n\n\nSession 1: Bayesian statistics study group\n\n\n\n17 April 2019\n\n\n\n\n\n\n\n\n\n\n\nWorkshop - Introduction to R\n\n\n\n11 April 2019\n\n\n\n\n\n\n\n\n\n\n\nHadley Wickham @ Joint March Event: Vienna&lt;-R x R-Ladies Vienna\n\n\n\n18 March 2019\n\n\n\n\n\n\n\n\n\n\n\nChristmas Market\n\n\n\n6 December 2018\n\n\n\n\n\n\n\n\n\n\n\nCoffee & Get-to-know-you\n\n\n\n20 October 2018\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "events/201907/index.html",
@@ -1110,14 +1138,14 @@
     "href": "join-us/index.html",
     "title": "Get Involved",
     "section": "",
-    "text": "Following the practice of the R-Ladies+ Global, we manage event registration through the Meetup platform. If you are interested in attending our events, please join our Meetup group and RSVP at the corresponding event pages.\nWhile we prioritize the representation of gender minorities in our community, we welcome all identities to participate in our events.\n Meetup"
+    "text": "Following the practice of the RLadies+ Global, we manage event registration through the Meetup platform. If you are interested in attending our events, please join our Meetup group and RSVP at the corresponding event pages.\nWhile we prioritize the representation of gender minorities in our community, we welcome all identities to participate in our events.\n Meetup"
   },
   {
     "objectID": "join-us/index.html#join-our-community",
     "href": "join-us/index.html#join-our-community",
     "title": "Get Involved",
     "section": "",
-    "text": "Following the practice of the R-Ladies+ Global, we manage event registration through the Meetup platform. If you are interested in attending our events, please join our Meetup group and RSVP at the corresponding event pages.\nWhile we prioritize the representation of gender minorities in our community, we welcome all identities to participate in our events.\n Meetup"
+    "text": "Following the practice of the RLadies+ Global, we manage event registration through the Meetup platform. If you are interested in attending our events, please join our Meetup group and RSVP at the corresponding event pages.\nWhile we prioritize the representation of gender minorities in our community, we welcome all identities to participate in our events.\n Meetup"
   },
   {
     "objectID": "join-us/index.html#stay-connected",
@@ -1129,15 +1157,15 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "R-Ladies+ Vienna",
+    "title": "RLadies+ Vienna",
     "section": "",
-    "text": "Vienna, Austria\n \n  \n   \n  \n      Meetup\n  \n  \n      LinkedIn\n  \n  \n      Mastodon\n  \n  \n      Bluesky\nAs a local chapter of R-Ladies+ Global, we promote gender diversity in the R community. We aim to provide a safe and inclusive community space for R enthusiasts and practitioners of all skill levels, prioritizing anyone identifying as a minority gender to achieve proportionate gender representation."
+    "text": "Vienna, Austria\n \n  \n   \n  \n      Meetup\n  \n  \n      LinkedIn\n  \n  \n      Mastodon\n  \n  \n      Bluesky\nAs a local chapter of RLadies+ Global, we promote gender diversity in the R community. We aim to provide a safe and inclusive community space for R enthusiasts and practitioners of all skill levels, prioritizing anyone identifying as a minority gender to achieve proportionate gender representation."
   },
   {
     "objectID": "index.html#latest-event",
     "href": "index.html#latest-event",
-    "title": "R-Ladies+ Vienna",
+    "title": "RLadies+ Vienna",
     "section": "Latest event",
-    "text": "Latest event\n\n\n\n\n\n\n\n\n\n\nHePriceR: An R Package for Health Insurance\n\n\n\n\n\n10 June 2026\n\n\n\n\n\nNo matching items"
+    "text": "Latest event\n\n\n\n\n\n\n\n\n\n\nMaking Data Speak: Static and Interactive Plots in R\n\n\n\n\n\n28 October 2026\n\n\n\n\n\nNo matching items"
   }
 ]
