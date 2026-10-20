@@ -6,7 +6,7 @@ body-classes: core-page
 
 ## Our mission
 
-R-Ladies+ Vienna is a Vienna-based non-profit organization and a local chapter of [R-Ladies+ Global](https://rladies.org), with a mission to achieve proportionate representation of genders currently underrepresented in the R community.
+RLadies+ Vienna is a Vienna-based non-profit organization and a local chapter of [RLadies+ Global](https://rladies.org), with a mission to achieve proportionate representation of genders currently underrepresented in the R community.
 
 Our priority is to provide a safe space for anyone identifying as a minority gender, while welcoming all identities to participate in our inclusive events. We welcome R users of all proficiency levels and from all backgrounds, including students, self-taught learners, industry professionals, and researchers.
 
@@ -22,7 +22,7 @@ We organize regular events and meetups in person or online to connect with the c
 
 ## Community guidelines
 
-We are dedicated to providing a safe and inclusive community space for everyone. We follow the [R-Ladies+ Global code of conduct](https://rladies.org/coc/).
+We are dedicated to providing a safe and inclusive community space for everyone. We follow the [RLadies+ Global code of conduct](https://rladies.org/coc/).
 
 
 ## A note on photos and videos
