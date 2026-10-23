@@ -39,14 +39,14 @@
     "href": "get-involved/index.html",
     "title": "Get involved",
     "section": "",
-    "text": "Following the practice of R-Ladies+ Global, we manage event registration through the Meetup platform. If you are interested in attending our events, please join our Meetup group and RSVP on the corresponding event pages.\nWhile we prioritize the representation of gender minorities in our community, we welcome all identities to participate in our events.\n Meetup"
+    "text": "Following the practice of RLadies+ Global, we manage event registration through the Meetup platform. If you are interested in attending our events, please join our Meetup group and RSVP on the corresponding event pages.\nWhile we prioritize the representation of gender minorities in our community, we welcome all identities to participate in our events.\n Meetup"
   },
   {
     "objectID": "get-involved/index.html#come-to-an-event",
     "href": "get-involved/index.html#come-to-an-event",
     "title": "Get involved",
     "section": "",
-    "text": "Following the practice of R-Ladies+ Global, we manage event registration through the Meetup platform. If you are interested in attending our events, please join our Meetup group and RSVP on the corresponding event pages.\nWhile we prioritize the representation of gender minorities in our community, we welcome all identities to participate in our events.\n Meetup"
+    "text": "Following the practice of RLadies+ Global, we manage event registration through the Meetup platform. If you are interested in attending our events, please join our Meetup group and RSVP on the corresponding event pages.\nWhile we prioritize the representation of gender minorities in our community, we welcome all identities to participate in our events.\n Meetup"
   },
   {
     "objectID": "get-involved/index.html#stay-connected",
@@ -539,6 +539,83 @@
     "text": "About\nThe goal of our next meetup is for our attendees to become acquainted with R and R Studio in order to start their data analytics journey.\nWe’ll cover:\n\nBrief intro to R as a programming language\nFunctions, data structures, data types\nReading data into R\nBasic data visualization in R\nR packages\nExamples and use cases\n\nIf time allows we will briefly introduce to you R Markdown and give a glimpse into how to make your analysis more reproducible.\nWe recommend you bring your own laptop where you have R and RStudio installed. In case you want to install R Markdown, you can follow the instructions from R Markdown: The Definitive Guide.\nRSVP via Meetup"
   },
   {
+    "objectID": "events/202411/index.html#date-and-time",
+    "href": "events/202411/index.html#date-and-time",
+    "title": "Centralized database management with AWS and R/Shiny",
+    "section": "Date and Time",
+    "text": "Date and Time\nThursday, 14 November 2024\n6:00 PM - 7:30 PM CET"
+  },
+  {
+    "objectID": "events/202411/index.html#venue",
+    "href": "events/202411/index.html#venue",
+    "title": "Centralized database management with AWS and R/Shiny",
+    "section": "Venue",
+    "text": "Venue\nTU Wien, Freihaus - Seminarraum DA grün 04 (DA04E10)\nWiedner Hauptstraße 8-10 · Vienna"
+  },
+  {
+    "objectID": "events/202411/index.html#about",
+    "href": "events/202411/index.html#about",
+    "title": "Centralized database management with AWS and R/Shiny",
+    "section": "About",
+    "text": "About\nJoin us for our next meetup in November, to hear from Ilaria Capelli and Mina Sohrabi about their work at Raiffeisen Bank International. We will explore how their new R package simplifies querying their centralized database through a secure AWS setup and discover their intuitive R/Shiny interface for easy data access and updates. They will showcase features like Excel-like operations via rhandsontable, designed to enhance usability for both technical and non-technical users. Perfect for analysts and clients looking to smoothly interact with macroeconomic data!\n\nAbstract\nHere is Ilaria’s and Mina’s abstract for the talk: As developers at a leading economic and financial markets research institution, centralizing our data is crucial for both internal (backtesting, sharing forecasts, model validations) and external (client access) use cases. Our contribution consists of two parts: first, the introduction of our R package, developed using the “Open API generator,” enabling seamless querying of our database via a RESTful API. Additionally, we show the integration of a robust authorization and authentication layer within AWS cloud infrastructure. Second, we have designed a user-friendly R/Shiny-based frontend to facilitate easy access for non-technical users. This interface displays forecasts and historic data for various variables and countries, allowing for data updates and downloads. To mimic familiar Excel operations such as row-wise pasting and data removal, we have successfully utilized the open-source R-wrapper rhandsontable of the JavaScript library handsontable. Both contributions enable our analysts and clients to smoothly interact with our database by providing a convenient, secure, and user-friendly environment, enhancing the accessibility of our macroeconomic data for all stakeholders."
+  },
+  {
+    "objectID": "events/202411/index.html#speaker",
+    "href": "events/202411/index.html#speaker",
+    "title": "Centralized database management with AWS and R/Shiny",
+    "section": "Speaker",
+    "text": "Speaker\nIlaria Capelli, Mina Sohrabi\nRSVP via Meetup"
+  },
+  {
+    "objectID": "events/202102/index.html#date-and-time",
+    "href": "events/202102/index.html#date-and-time",
+    "title": "Virtual Kickoff 2021",
+    "section": "Date and Time",
+    "text": "Date and Time\nThursday, 25 February 2021\n7:00 PM - 8:30 PM CET"
+  },
+  {
+    "objectID": "events/202102/index.html#venue",
+    "href": "events/202102/index.html#venue",
+    "title": "Virtual Kickoff 2021",
+    "section": "Venue",
+    "text": "Venue\nOnline"
+  },
+  {
+    "objectID": "events/202102/index.html#about",
+    "href": "events/202102/index.html#about",
+    "title": "Virtual Kickoff 2021",
+    "section": "About",
+    "text": "About\nTo kick-off the new year after a long 2020 break from our meetups, we invite you to join us for an online networking event, where we can get to know each other or catch up in a relaxed atmosphere.\nThe event will start with a brief update on our side and the presentation of the plan for 2021, continue with a mix of interactive activities such as live surveys and icebreaking games, and conclude with an open virtual chat. Feel free to bring your drink of choice in front of the screen 😉.\nWe will meet online on Zoom. See you soon!\nRSVP via Meetup"
+  },
+  {
+    "objectID": "events/202405/index.html#date-and-time",
+    "href": "events/202405/index.html#date-and-time",
+    "title": "How groups manage conflict: Sequence Analysis using TraMineR",
+    "section": "Date and Time",
+    "text": "Date and Time\nTuesday, 28 May 2024\n6:00 PM - 8:00 PM CEST"
+  },
+  {
+    "objectID": "events/202405/index.html#venue",
+    "href": "events/202405/index.html#venue",
+    "title": "How groups manage conflict: Sequence Analysis using TraMineR",
+    "section": "Venue",
+    "text": "Venue\nUniversity of Vienna - Hörsaal 10\nOskar-Morgenstern-Platz 1, 1090 Vienna"
+  },
+  {
+    "objectID": "events/202405/index.html#about",
+    "href": "events/202405/index.html#about",
+    "title": "How groups manage conflict: Sequence Analysis using TraMineR",
+    "section": "About",
+    "text": "About\nWe are happy to welcome Ayşegül Engin to present how she is using R and in particular the TraMineR package in her research on model-driven decision support. She will present How groups manage conflict when using model-driven decision support: Sequence Analysis using TraMineR, shared work with L. Alberto Franco and Etiënne A.J.A. Rouwette.\nFollowing the presentation we are happy to invite you to a small buffet and some drinks, sponsored by the University of Vienna.\n\nAbstract\nWithin and across organisations, groups are formed to tackle situations that require a decision or recommendation to be made, whether the situation is simple or complex, routine or one-off, short or long-term. However, inconsistencies between group members’ definitions of the situation often gives rise to conflict. Within the management and system sciences, various model-driven support approaches have been developed to assist groups in revealing disagreements and managing conflict. In this study, we investigate whether the preference for deliberate and deep information processing, also known as epistemic motivation, affects an important feature of model-driven group decision support. It serves as an aid to surface and manage cognitive conflict within the group. We report on an experimental study that adopts a process-oriented methodology to examine conflict management behaviors and trajectories of groups with different levels of epistemic motivation. Using TraMineR: Sequence Analysis Toolkit, we show how conflict management trajectories are influenced by epistemic motivation of groups. The results indicate that three dimensions of epistemic motivation; discomfort with ambiguity, decisiveness, preference for order and structure are significant co-variates of variance in groups’ conflict management trajectories."
+  },
+  {
+    "objectID": "events/202405/index.html#speaker",
+    "href": "events/202405/index.html#speaker",
+    "title": "How groups manage conflict: Sequence Analysis using TraMineR",
+    "section": "Speaker",
+    "text": "Speaker\nAyşegül Engin\nOriginally from Istanbul, Türkiye and currently residing in Vienna, Austria, Ayşegül currently works as a Postdoctoral Researcher at the University of Vienna. Her research is centered on behavioral operational research, with a focus on decision making in both individual and group settings, and the creation of decision support systems. Her efforts are dedicated to understanding cognitive biases, decision-making processes, and the interactions between systems and their users. She has a strong commitment to education, advocating for scientific transparency and reproducibility, and she promotes the use of R. Outside of her academic endeavors, Ayşegül enjoys Argentine tango, competitive sailing, and wingfoiling.\nRSVP via Meetup"
+  },
+  {
     "objectID": "events/202103-b/index.html",
     "href": "events/202103-b/index.html",
     "title": "PyLadies and R-Ladies Vienna: Intro to R",
@@ -574,81 +651,32 @@
     "text": "Speaker\nCamilla Damian\nCamilla is a PhD Candidate in the field of Mathematics in Business and Economics and an experienced useR, who also has years of experience in teaching quantitative methods using R at an undergrad level.\nRSVP via Meetup"
   },
   {
-    "objectID": "events/202405/index.html#date-and-time",
-    "href": "events/202405/index.html#date-and-time",
-    "title": "How groups manage conflict: Sequence Analysis using TraMineR",
+    "objectID": "events/202611/index.html#date-and-time",
+    "href": "events/202611/index.html#date-and-time",
+    "title": "Bayesian Spatial Prediction with R-INLA",
     "section": "Date and Time",
-    "text": "Date and Time\nTuesday, 28 May 2024\n6:00 PM - 8:00 PM CEST"
+    "text": "Date and Time\nWednesday, 5 November 2026\n6:00 PM - 7:30 PM CET"
   },
   {
-    "objectID": "events/202405/index.html#venue",
-    "href": "events/202405/index.html#venue",
-    "title": "How groups manage conflict: Sequence Analysis using TraMineR",
+    "objectID": "events/202611/index.html#venue",
+    "href": "events/202611/index.html#venue",
+    "title": "Bayesian Spatial Prediction with R-INLA",
     "section": "Venue",
-    "text": "Venue\nUniversity of Vienna - Hörsaal 10\nOskar-Morgenstern-Platz 1, 1090 Vienna"
+    "text": "Venue\nIn-person or Online via Zoom\nSeminar Room DA green 02A / Sem.R. DA grün 02 A\n2nd floor, green area\nTU Wien Freihaus\nWiedner Hauptstraße 8-10, 1040 Vienna"
   },
   {
-    "objectID": "events/202405/index.html#about",
-    "href": "events/202405/index.html#about",
-    "title": "How groups manage conflict: Sequence Analysis using TraMineR",
+    "objectID": "events/202611/index.html#about",
+    "href": "events/202611/index.html#about",
+    "title": "Bayesian Spatial Prediction with R-INLA",
     "section": "About",
-    "text": "About\nWe are happy to welcome Ayşegül Engin to present how she is using R and in particular the TraMineR package in her research on model-driven decision support. She will present How groups manage conflict when using model-driven decision support: Sequence Analysis using TraMineR, shared work with L. Alberto Franco and Etiënne A.J.A. Rouwette.\nFollowing the presentation we are happy to invite you to a small buffet and some drinks, sponsored by the University of Vienna.\n\nAbstract\nWithin and across organisations, groups are formed to tackle situations that require a decision or recommendation to be made, whether the situation is simple or complex, routine or one-off, short or long-term. However, inconsistencies between group members’ definitions of the situation often gives rise to conflict. Within the management and system sciences, various model-driven support approaches have been developed to assist groups in revealing disagreements and managing conflict. In this study, we investigate whether the preference for deliberate and deep information processing, also known as epistemic motivation, affects an important feature of model-driven group decision support. It serves as an aid to surface and manage cognitive conflict within the group. We report on an experimental study that adopts a process-oriented methodology to examine conflict management behaviors and trajectories of groups with different levels of epistemic motivation. Using TraMineR: Sequence Analysis Toolkit, we show how conflict management trajectories are influenced by epistemic motivation of groups. The results indicate that three dimensions of epistemic motivation; discomfort with ambiguity, decisiveness, preference for order and structure are significant co-variates of variance in groups’ conflict management trajectories."
+    "text": "About\nWe are pleased to host Corinna Perchtold from French Geological Survey (BRGM) for this 90-minute hands-on tutorial with R-INLA. It is suitable for R users with no previous INLA experience. Using real data, we build a complete spatial model step by step. We then predict on a grid, generate diagnostic plots and check the predictions through cross-validation. If time permits, we also introduce spatio-temporal and areal models.\n\nAbstract\nEnvironmental data are often coming from measurement stations. The goal is a map the data over the whole domain of interest, with an honest statement of uncertainty. Bayesian geostatistical models do this well, but fitting them with MCMC (Markov chain Monte Carlo) is slow, because each iteration works with a dense covariance matrix. INLA (Integrated Nested Laplace Approximation) offers a fast deterministic alternative for latent Gaussian models. Combined with the SPDE (stochastic partial differential equations) approach, it represents a Matérn field on a triangle mesh with a sparse precision matrix."
   },
   {
-    "objectID": "events/202405/index.html#speaker",
-    "href": "events/202405/index.html#speaker",
-    "title": "How groups manage conflict: Sequence Analysis using TraMineR",
+    "objectID": "events/202611/index.html#speaker",
+    "href": "events/202611/index.html#speaker",
+    "title": "Bayesian Spatial Prediction with R-INLA",
     "section": "Speaker",
-    "text": "Speaker\nAyşegül Engin\nOriginally from Istanbul, Türkiye and currently residing in Vienna, Austria, Ayşegül currently works as a Postdoctoral Researcher at the University of Vienna. Her research is centered on behavioral operational research, with a focus on decision making in both individual and group settings, and the creation of decision support systems. Her efforts are dedicated to understanding cognitive biases, decision-making processes, and the interactions between systems and their users. She has a strong commitment to education, advocating for scientific transparency and reproducibility, and she promotes the use of R. Outside of her academic endeavors, Ayşegül enjoys Argentine tango, competitive sailing, and wingfoiling.\nRSVP via Meetup"
-  },
-  {
-    "objectID": "events/202102/index.html#date-and-time",
-    "href": "events/202102/index.html#date-and-time",
-    "title": "Virtual Kickoff 2021",
-    "section": "Date and Time",
-    "text": "Date and Time\nThursday, 25 February 2021\n7:00 PM - 8:30 PM CET"
-  },
-  {
-    "objectID": "events/202102/index.html#venue",
-    "href": "events/202102/index.html#venue",
-    "title": "Virtual Kickoff 2021",
-    "section": "Venue",
-    "text": "Venue\nOnline"
-  },
-  {
-    "objectID": "events/202102/index.html#about",
-    "href": "events/202102/index.html#about",
-    "title": "Virtual Kickoff 2021",
-    "section": "About",
-    "text": "About\nTo kick-off the new year after a long 2020 break from our meetups, we invite you to join us for an online networking event, where we can get to know each other or catch up in a relaxed atmosphere.\nThe event will start with a brief update on our side and the presentation of the plan for 2021, continue with a mix of interactive activities such as live surveys and icebreaking games, and conclude with an open virtual chat. Feel free to bring your drink of choice in front of the screen 😉.\nWe will meet online on Zoom. See you soon!\nRSVP via Meetup"
-  },
-  {
-    "objectID": "events/202411/index.html#date-and-time",
-    "href": "events/202411/index.html#date-and-time",
-    "title": "Centralized database management with AWS and R/Shiny",
-    "section": "Date and Time",
-    "text": "Date and Time\nThursday, 14 November 2024\n6:00 PM - 7:30 PM CET"
-  },
-  {
-    "objectID": "events/202411/index.html#venue",
-    "href": "events/202411/index.html#venue",
-    "title": "Centralized database management with AWS and R/Shiny",
-    "section": "Venue",
-    "text": "Venue\nTU Wien, Freihaus - Seminarraum DA grün 04 (DA04E10)\nWiedner Hauptstraße 8-10 · Vienna"
-  },
-  {
-    "objectID": "events/202411/index.html#about",
-    "href": "events/202411/index.html#about",
-    "title": "Centralized database management with AWS and R/Shiny",
-    "section": "About",
-    "text": "About\nJoin us for our next meetup in November, to hear from Ilaria Capelli and Mina Sohrabi about their work at Raiffeisen Bank International. We will explore how their new R package simplifies querying their centralized database through a secure AWS setup and discover their intuitive R/Shiny interface for easy data access and updates. They will showcase features like Excel-like operations via rhandsontable, designed to enhance usability for both technical and non-technical users. Perfect for analysts and clients looking to smoothly interact with macroeconomic data!\n\nAbstract\nHere is Ilaria’s and Mina’s abstract for the talk: As developers at a leading economic and financial markets research institution, centralizing our data is crucial for both internal (backtesting, sharing forecasts, model validations) and external (client access) use cases. Our contribution consists of two parts: first, the introduction of our R package, developed using the “Open API generator,” enabling seamless querying of our database via a RESTful API. Additionally, we show the integration of a robust authorization and authentication layer within AWS cloud infrastructure. Second, we have designed a user-friendly R/Shiny-based frontend to facilitate easy access for non-technical users. This interface displays forecasts and historic data for various variables and countries, allowing for data updates and downloads. To mimic familiar Excel operations such as row-wise pasting and data removal, we have successfully utilized the open-source R-wrapper rhandsontable of the JavaScript library handsontable. Both contributions enable our analysts and clients to smoothly interact with our database by providing a convenient, secure, and user-friendly environment, enhancing the accessibility of our macroeconomic data for all stakeholders."
-  },
-  {
-    "objectID": "events/202411/index.html#speaker",
-    "href": "events/202411/index.html#speaker",
-    "title": "Centralized database management with AWS and R/Shiny",
-    "section": "Speaker",
-    "text": "Speaker\nIlaria Capelli, Mina Sohrabi\nRSVP via Meetup"
+    "text": "Speaker\nCorinna Perchtold\nCorinna is currently a Post-Doc at the Department of Coastal Risk at the Bureau de Recherches Géologiques et Minières (BRGM, French Geological Survey), working on uncertainty quantification of spatial interpolation methods. She received her PhD from Johannes Kepler University Linz, where she used INLA for high-resolution modelling of precipitation and mortality in Austria. Besides research she is an active member of the Austrian Association of Women in Mathematics.\nRSVP via Meetup"
   },
   {
     "objectID": "events/202311/index.html#date-and-time",
@@ -935,7 +963,7 @@
     "href": "events/index.html",
     "title": "Events",
     "section": "",
-    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n    \n  \n\n\n\n\n\n\n\n\nMaking Data Speak: Static and Interactive Plots in R\n\n\n\n28 October 2026\n\n\n\n\n\n\n\n\n\n\n\nHePriceR: An R Package for Health Insurance\n\n\n\n10 June 2026\n\n\n\n\n\n\n\n\n\n\n\nWorkshop – Introduction to R (Part 2: Data manipulation and visualization)\n\n\n\n3 December 2025\n\n\n\n\n\n\n\n\n\n\n\nWorkshop – Introduction to R\n\n\n\n29 October 2025\n\n\n\n\n\n\n\n\n\n\n\nGet-together with R-Ladies and Friends\n\n\n\n1 July 2025\n\n\n\n\n\n\n\n\n\n\n\nR in Industry: Biopharmaceutical Process Optimization through Advanced Design of Experiments\n\n\n\n21 May 2025\n\n\n\n\n\n\n\n\n\n\n\nR You Ready? Integrating Large Language Models into your Workflow\n\n\n\n28 April 2025\n\n\n\n\n\n\n\n\n\n\n\nCluster analysis in R\n\n\n\n20 February 2025\n\n\n\n\n\n\n\n\n\n\n\nCentralized database management with AWS and R/Shiny\n\n\n\n14 November 2024\n\n\n\n\n\n\n\n\n\n\n\nRandom projection for regression analysis in R\n\n\n\n29 October 2024\n\n\n\n\n\n\n\n\n\n\n\nNetworking at summerstage\n\n\n\n19 June 2024\n\n\n\n\n\n\n\n\n\n\n\nHow groups manage conflict: Sequence Analysis using TraMineR\n\n\n\n28 May 2024\n\n\n\n\n\n\n\n\n\n\n\nIs ShinyApp in R production ready?\n\n\n\n19 April 2024\n\n\n\n\n\n\n\n\n\n\n\nWorkshop - Introduction to R - Part 2\n\n\n\n13 March 2024\n\n\n\n\n\n\n\n\n\n\n\nWorkshop - Introduction to R\n\n\n\n15 February 2024\n\n\n\n\n\n\n\n\n\n\n\nNatural Language Processing in R\n\n\n\n21 November 2023\n\n\n\n\n\n\n\n\n\n\n\nJoint May Event: RLadies Vienna x Vienna&lt;-R\n\n\n\n24 May 2023\n\n\n\n\n\n\n\n\n\n\n\nSwitching between space and time: Spatio-temporal analysis with cubble\n\n\n\n26 April 2023\n\n\n\n\n\n\n\n\n\n\n\n2023 First Networking Event\n\n\n\n1 March 2023\n\n\n\n\n\n\n\n\n\n\n\nGetting to know golem - R-Ladies Vienna December Meetup 2022\n\n\n\n5 December 2022\n\n\n\n\n\n\n\n\n\n\n\nR Shiny Workshop Series\n\n\n\n12 May 2022\n\n\n\n\n\n\n\n\n\n\n\nIntro to Bayesian Statistics with Alex Posekany\n\n\n\n14 December 2021\n\n\n\n\n\n\n\n\n\n\n\nManaging R projects with Maëlle Salmon\n\n\n\n16 November 2021\n\n\n\n\n\n\n\n\n\n\n\nggplot2 workshop with Ursula Laa\n\n\n\n27 May 2021\n\n\n\n\n\n\n\n\n\n\n\nCross selling analytic model with sparklyr\n\n\n\n29 April 2021\n\n\n\n\n\n\n\n\n\n\n\nPyLadies and R-Ladies Vienna: Panel discussion\n\n\n\n27 March 2021\n\n\n\n\n\n\n\n\n\n\n\nPyLadies and R-Ladies Vienna: Intro to R\n\n\n\n25 March 2021\n\n\n\n\n\n\n\n\n\n\n\nPyLadies and R-Ladies Vienna: Intro to Python\n\n\n\n24 March 2021\n\n\n\n\n\n\n\n\n\n\n\nVirtual Kickoff 2021\n\n\n\n25 February 2021\n\n\n\n\n\n\n\n\n\n\n\nJoint November Event: RLadies Vienna x Vienna&lt;-R\n\n\n\n29 November 2019\n\n\n\n\n\n\n\n\n\n\n\nSummer opening get together\n\n\n\n2 July 2019\n\n\n\n\n\n\n\n\n\n\n\nExtending R with Packages with Bettina Grün\n\n\n\n24 May 2019\n\n\n\n\n\n\n\n\n\n\n\nJoint Event: Women in Tech Initiatives Meetup @PyDays\n\n\n\n3 May 2019\n\n\n\n\n\n\n\n\n\n\n\nData4good Hackathon\n\n\n\n27 April 2019\n\n\n\n\n\n\n\n\n\n\n\nSession 1: Bayesian statistics study group\n\n\n\n17 April 2019\n\n\n\n\n\n\n\n\n\n\n\nWorkshop - Introduction to R\n\n\n\n11 April 2019\n\n\n\n\n\n\n\n\n\n\n\nHadley Wickham @ Joint March Event: Vienna&lt;-R x R-Ladies Vienna\n\n\n\n18 March 2019\n\n\n\n\n\n\n\n\n\n\n\nChristmas Market\n\n\n\n6 December 2018\n\n\n\n\n\n\n\n\n\n\n\nCoffee & Get-to-know-you\n\n\n\n20 October 2018\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n    \n  \n\n\n\n\n\n\n\n\nBayesian Spatial Prediction with R-INLA\n\n\n\n5 November 2026\n\n\n\n\n\n\n\n\n\n\n\nMaking Data Speak: Static and Interactive Plots in R\n\n\n\n28 October 2026\n\n\n\n\n\n\n\n\n\n\n\nHePriceR: An R Package for Health Insurance\n\n\n\n10 June 2026\n\n\n\n\n\n\n\n\n\n\n\nWorkshop – Introduction to R (Part 2: Data manipulation and visualization)\n\n\n\n3 December 2025\n\n\n\n\n\n\n\n\n\n\n\nWorkshop – Introduction to R\n\n\n\n29 October 2025\n\n\n\n\n\n\n\n\n\n\n\nGet-together with R-Ladies and Friends\n\n\n\n1 July 2025\n\n\n\n\n\n\n\n\n\n\n\nR in Industry: Biopharmaceutical Process Optimization through Advanced Design of Experiments\n\n\n\n21 May 2025\n\n\n\n\n\n\n\n\n\n\n\nR You Ready? Integrating Large Language Models into your Workflow\n\n\n\n28 April 2025\n\n\n\n\n\n\n\n\n\n\n\nCluster analysis in R\n\n\n\n20 February 2025\n\n\n\n\n\n\n\n\n\n\n\nCentralized database management with AWS and R/Shiny\n\n\n\n14 November 2024\n\n\n\n\n\n\n\n\n\n\n\nRandom projection for regression analysis in R\n\n\n\n29 October 2024\n\n\n\n\n\n\n\n\n\n\n\nNetworking at summerstage\n\n\n\n19 June 2024\n\n\n\n\n\n\n\n\n\n\n\nHow groups manage conflict: Sequence Analysis using TraMineR\n\n\n\n28 May 2024\n\n\n\n\n\n\n\n\n\n\n\nIs ShinyApp in R production ready?\n\n\n\n19 April 2024\n\n\n\n\n\n\n\n\n\n\n\nWorkshop - Introduction to R - Part 2\n\n\n\n13 March 2024\n\n\n\n\n\n\n\n\n\n\n\nWorkshop - Introduction to R\n\n\n\n15 February 2024\n\n\n\n\n\n\n\n\n\n\n\nNatural Language Processing in R\n\n\n\n21 November 2023\n\n\n\n\n\n\n\n\n\n\n\nJoint May Event: RLadies Vienna x Vienna&lt;-R\n\n\n\n24 May 2023\n\n\n\n\n\n\n\n\n\n\n\nSwitching between space and time: Spatio-temporal analysis with cubble\n\n\n\n26 April 2023\n\n\n\n\n\n\n\n\n\n\n\n2023 First Networking Event\n\n\n\n1 March 2023\n\n\n\n\n\n\n\n\n\n\n\nGetting to know golem - R-Ladies Vienna December Meetup 2022\n\n\n\n5 December 2022\n\n\n\n\n\n\n\n\n\n\n\nR Shiny Workshop Series\n\n\n\n12 May 2022\n\n\n\n\n\n\n\n\n\n\n\nIntro to Bayesian Statistics with Alex Posekany\n\n\n\n14 December 2021\n\n\n\n\n\n\n\n\n\n\n\nManaging R projects with Maëlle Salmon\n\n\n\n16 November 2021\n\n\n\n\n\n\n\n\n\n\n\nggplot2 workshop with Ursula Laa\n\n\n\n27 May 2021\n\n\n\n\n\n\n\n\n\n\n\nCross selling analytic model with sparklyr\n\n\n\n29 April 2021\n\n\n\n\n\n\n\n\n\n\n\nPyLadies and R-Ladies Vienna: Panel discussion\n\n\n\n27 March 2021\n\n\n\n\n\n\n\n\n\n\n\nPyLadies and R-Ladies Vienna: Intro to R\n\n\n\n25 March 2021\n\n\n\n\n\n\n\n\n\n\n\nPyLadies and R-Ladies Vienna: Intro to Python\n\n\n\n24 March 2021\n\n\n\n\n\n\n\n\n\n\n\nVirtual Kickoff 2021\n\n\n\n25 February 2021\n\n\n\n\n\n\n\n\n\n\n\nJoint November Event: RLadies Vienna x Vienna&lt;-R\n\n\n\n29 November 2019\n\n\n\n\n\n\n\n\n\n\n\nSummer opening get together\n\n\n\n2 July 2019\n\n\n\n\n\n\n\n\n\n\n\nExtending R with Packages with Bettina Grün\n\n\n\n24 May 2019\n\n\n\n\n\n\n\n\n\n\n\nJoint Event: Women in Tech Initiatives Meetup @PyDays\n\n\n\n3 May 2019\n\n\n\n\n\n\n\n\n\n\n\nData4good Hackathon\n\n\n\n27 April 2019\n\n\n\n\n\n\n\n\n\n\n\nSession 1: Bayesian statistics study group\n\n\n\n17 April 2019\n\n\n\n\n\n\n\n\n\n\n\nWorkshop - Introduction to R\n\n\n\n11 April 2019\n\n\n\n\n\n\n\n\n\n\n\nHadley Wickham @ Joint March Event: Vienna&lt;-R x R-Ladies Vienna\n\n\n\n18 March 2019\n\n\n\n\n\n\n\n\n\n\n\nChristmas Market\n\n\n\n6 December 2018\n\n\n\n\n\n\n\n\n\n\n\nCoffee & Get-to-know-you\n\n\n\n20 October 2018\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "events/201907/index.html",
@@ -1166,6 +1194,6 @@
     "href": "index.html#latest-event",
     "title": "RLadies+ Vienna",
     "section": "Latest event",
-    "text": "Latest event\n\n\n\n\n\n\n\n\n\n\nMaking Data Speak: Static and Interactive Plots in R\n\n\n\n\n\n28 October 2026\n\n\n\n\n\nNo matching items"
+    "text": "Latest event\n\n\n\n\n\n\n\n\n\n\nMaking Data Speak: Static and Interactive Plots in R\n\n\n\n\n\n28 October 2026\n\n\n\n\n\n\n\n\n\n\n\n\nBayesian Spatial Prediction with R-INLA\n\n\n\n\n\n5 November 2026\n\n\n\n\n\nNo matching items"
   }
 ]
