@@ -1,0 +1,39 @@
+---
+title: "Bayesian Spatial Prediction with R-INLA"
+date: "2026-11-05"
+categories: [Probabilistic modeling, Bayesian statistics, R packages]
+author: "Corinna Perchtold"
+title-block-banner: true
+---
+
+![](202611.avif){fig-alt="Flyer for the RLadies+ Vienna November 2026 event. All information described is availablein the main text below."}
+
+## Date and Time
+
+Wednesday, {{< meta date >}}  
+6:00 PM - 7:30 PM CET  
+
+## Venue
+
+In-person or Online via Zoom  
+Seminar Room DA green 02A / Sem.R. DA grün 02 A  
+2nd floor, green area  
+TU Wien Freihaus  
+Wiedner Hauptstraße 8-10, 1040 Vienna  
+
+## About
+
+We are pleased to host Corinna Perchtold from French Geological Survey (BRGM) for this 90-minute hands-on tutorial with `R-INLA`. It is suitable for R users with no previous INLA experience. Using real data, we build a complete spatial model step by step.
+We then predict on a grid, generate diagnostic plots and check the predictions through cross-validation. If time permits, we also introduce spatio-temporal and areal models.
+
+### Abstract
+
+Environmental data are often coming from measurement stations. The goal is a map the data over the whole domain of interest, with an honest statement of uncertainty. Bayesian geostatistical models do this well, but fitting them with MCMC (Markov chain Monte Carlo) is slow, because each iteration works with a dense covariance matrix. INLA (Integrated Nested Laplace Approximation) offers a fast deterministic alternative for latent Gaussian models. Combined with the SPDE (stochastic partial differential equations) approach, it represents a Matérn field on a triangle mesh with a sparse precision matrix.
+
+## Speaker
+
+Corinna Perchtold
+
+Corinna is currently a Post-Doc at the Department of Coastal Risk at the Bureau de Recherches Géologiques et Minières (BRGM, French Geological Survey), working on uncertainty quantification of spatial interpolation methods. She received her PhD from Johannes Kepler University Linz, where she used INLA for high-resolution modelling of precipitation and mortality in Austria. Besides research she is an active member of the Austrian Association of Women in Mathematics.
+
+[RSVP via Meetup {{< fa brands meetup >}}](https://www.meetup.com/rladies-vienna/events/317070743){.btn .btn-outline-primary .rsvp}

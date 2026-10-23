@@ -14,7 +14,7 @@ website:
   twitter-card: true
   open-graph: true
   navbar:
-    title: "R-Ladies+<br>Vienna"
+    title: "RLadies+<br>Vienna"
     search: false
     # pinned: true
     right:
