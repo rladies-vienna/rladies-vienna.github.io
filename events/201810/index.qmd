@@ -8,7 +8,7 @@ title-block-banner: true
 ## Date and Time
 
 Saturday, {{< meta date >}}  
-11:00 AM - 1:00 PM CEST
+11:00--13:00 CEST
 
 ## Venue
 

@@ -11,7 +11,7 @@ title-block-banner: true
 ## Date and Time
 
 Tuesday, {{< meta date >}}  
-6:00 PM - 8:00 PM CET
+18:00--20:00 CET
 
 ## Venue
 

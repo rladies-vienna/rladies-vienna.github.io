@@ -2,10 +2,12 @@
 .Rhistory
 .RData
 .Ruserdata
-
-.DS_Store
+.Renviron 
 
 /.quarto/
 /_site/
-
+*_files/    
 **/*.quarto_ipynb
+/.luarc.json
+
+.DS_Store

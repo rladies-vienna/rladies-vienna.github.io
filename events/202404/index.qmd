@@ -11,7 +11,7 @@ title-block-banner: true
 ## Date and Time
 
 Friday, {{< meta date >}}  
-4:00 PM - 7:00 PM CEST
+16:00--19:00 CEST
 
 ## Venue
 

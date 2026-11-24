@@ -8,14 +8,12 @@ title-block-banner: true
 
 ## Date and Time
 
-Friday, {{< meta date >}}
-
-5:00 PM - 7:00 PM CEST
+Friday, {{< meta date >}}  
+17:00--19:00 CEST
 
 ## Venue
 
-Vienna University of Economics and Business
-
+Vienna University of Economics and Business  
 Welthandelspl. 1, 1020 Vienna
 
 ## About

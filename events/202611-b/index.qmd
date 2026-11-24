@@ -1,0 +1,34 @@
+---
+title: "Project Clinic and Coworking"
+date: "2026-11-25"
+categories: [Coworking, Study group]
+title-block-banner: true
+---
+
+![](202611-2.avif){fig-alt="Flyer for the RLadies+ Vienna November 2026 event. All information described is availablein the main text below."}
+
+## Date and Time
+
+Wednesday, {{< meta date >}}  
+16:00--18:00 CET  
+
+## Venue
+
+Seminarraum AE EG-1 (AEEG25)  
+Ground Floor  
+Karlsplatz 13  
+1040 Vienna  
+
+## About
+
+Inspired by some interesting experience sharing during our previous events, we are organizing a coworking session on R programming. You're welcome to stay for the entire 2-hour session, or as long as you need within the duration. We will:
+
+- Cowork independently on R-related projects or tasks  
+- Ask questions, if any, and exchange ideas and experience  
+- Meet other R users in Vienna and our host, Laura  
+
+Instead of working alone at a screen, we would like to trial this event format to bring our community together, and learn from each other through actual human experiences.
+
+As we promote gender diversity and inclusion in the R community, all gender identities and skill levels in R are welcome!
+
+[RSVP via Meetup {{< fa brands meetup >}}](https://www.meetup.com/rladies-vienna/events/317289714){.btn .btn-outline-primary .rsvp}

@@ -22,9 +22,9 @@ about:
 listing:
   - id: latest-event
     contents:
-    - /events/202610/
-    - /events/202611/
-    sort: "date"
+    - /events/202611-a/
+    - /events/202611-b/
+    sort: "date desc"
     type: default
     fields: [image, title, date]
 ---

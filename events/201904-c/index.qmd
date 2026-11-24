@@ -7,8 +7,8 @@ title-block-banner: true
 
 ## Date and Time
 
-Saturday, {{< meta date >}} - Sunday, April 28 2019  
-9:00 AM - 6:00 PM CEST
+Saturday, {{< meta date >}} - Sunday, 28 April 2019  
+09:00--18:00 CEST
 
 ## Venue
 

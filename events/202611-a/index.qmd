@@ -4,6 +4,8 @@ date: "2026-11-05"
 categories: [Probabilistic modeling, Bayesian statistics, R packages]
 author: "Corinna Perchtold"
 title-block-banner: true
+aliases:
+    - /events/202611/
 ---
 
 ![](202611.avif){fig-alt="Flyer for the RLadies+ Vienna November 2026 event. All information described is availablein the main text below."}
@@ -11,7 +13,7 @@ title-block-banner: true
 ## Date and Time
 
 Wednesday, {{< meta date >}}  
-6:00 PM - 7:30 PM CET  
+18:00--19:30 CET  
 
 ## Venue
 
